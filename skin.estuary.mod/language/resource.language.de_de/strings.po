@@ -1201,3 +1201,11 @@ msgstr "Deaktiviere den Zoomeffekt."
 msgctxt "#40160"
 msgid "Disable zoom effect when selecting item."
 msgstr "Deaktiviere  den Zoomeffekt bei Auswahl eines Eintrages."
+
+msgctxt "#40161"
+msgid "Show music visualisation screen when playing song"
+msgstr "Zeige Musikvisualisierung wenn ein Song gespielt wird."
+
+msgctxt "#40162"
+msgid "Show music visualisation screen directly when playing song."
+msgstr "Zeige Musikvisualisierung sofort wenn ein Song gespielt wird.."
