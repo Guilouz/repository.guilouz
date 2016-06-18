@@ -1201,3 +1201,7 @@ msgstr "Deaktiviere den Zoomeffekt."
 msgctxt "#40160"
 msgid "Disable zoom effect when selecting item."
 msgstr "Deaktiviere  den Zoomeffekt bei Auswahl eines Eintrages."
+
+msgctxt "#40161"
+msgid "Add-on settings"
+msgstr "Addon Einstellungen" 
