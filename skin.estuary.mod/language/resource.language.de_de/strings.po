@@ -1236,7 +1236,7 @@ msgstr "Live TV Widget - kürzlich angesehene Sender"
 
 msgctxt "#40169"
 msgid "Watched to"
-msgstr "Gesehen bis"
+msgstr "bereits gesehen: "
 
 msgctxt "#40170"
 msgid "unwatched episodes"
