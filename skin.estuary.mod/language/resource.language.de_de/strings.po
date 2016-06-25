@@ -616,7 +616,7 @@ msgstr "Medienquellen Widget"
 
 msgctxt "#40014"
 msgid "Live TV widget - Channels"
-msgstr "Live TV Widget - Channels"
+msgstr "Live TV Widget - Sender"
 
 msgctxt "#40015"
 msgid "Radios widget"
@@ -1208,7 +1208,7 @@ msgstr "Zeige Musikvisualisierung wenn ein Song gespielt wird."
 
 msgctxt "#40162"
 msgid "Show music visualisation screen directly when playing song."
-msgstr "Zeige Musikvisualisierung sofort wenn ein Song gespielt wird.."
+msgstr "Zeige Musikvisualisierung sofort wenn ein Song gespielt wird."
 
 msgctxt "#40163"
 msgid "Skin color"
@@ -1229,3 +1229,23 @@ msgstr "Ändere die Hauptfarbe des Skins"
 msgctxt "#40167"
 msgid "Reset theme color to default."
 msgstr "Setze die Hauptfarbe des Skins auf die Standardeinstellung zurück."
+
+msgctxt "#40168"
+msgid "Live TV widget - Recently played channels"
+msgstr "Live TV Widget - kürzlich angesehene Sender"
+
+msgctxt "#40169"
+msgid "Watched to"
+msgstr "bereits gesehen: "
+
+msgctxt "#40170"
+msgid "unwatched episodes"
+msgstr "ungesehene Folgen"
+
+msgctxt "#40171"
+msgid "unwatched episode"
+msgstr "ungesehene Folge"
+
+msgctxt "#40172"
+msgid "Watched episodes"
+msgstr "gesehene Folgen"
