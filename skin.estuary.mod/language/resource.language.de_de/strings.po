@@ -1236,4 +1236,4 @@ msgstr "gesehene Folgen"
 
 msgctxt "#40173"
 msgid "Add sources"
-msgstr ""
+msgstr "Füge Quellen hinzu"
