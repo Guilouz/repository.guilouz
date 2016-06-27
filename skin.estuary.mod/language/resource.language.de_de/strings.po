@@ -628,7 +628,7 @@ msgstr "Bilder Widget"
 
 msgctxt "#40017"
 msgid "Enable horizontal menu"
-msgstr ""
+msgstr "Aktiviere horizontales Menü"
 
 msgctxt "#40018"
 msgid "Video Sources"
@@ -640,7 +640,7 @@ msgstr "Audiodatei Quellen"
 
 msgctxt "#40020"
 msgid "Replace vertical home menu by horizontal menu."
-msgstr ""
+msgstr "Ersetze das vertikale Hauptmenü durch horizontales Hauptmenü"
 
 # empty strings "40021"
 
@@ -1236,4 +1236,4 @@ msgstr "gesehene Folgen"
 
 msgctxt "#40173"
 msgid "Add sources"
-msgstr ""
+msgstr "Füge Quellen hinzu"
