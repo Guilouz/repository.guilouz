@@ -1237,3 +1237,11 @@ msgstr "gesehene Folgen"
 msgctxt "#40173"
 msgid "Add sources"
 msgstr "Füge Quellen hinzu"
+
+msgctxt "#40174"
+msgid "My TV shows airing today"
+msgstr "Meine Serien, die heute im Fernsehen laufen"
+
+msgctxt "#40175"
+msgid "Next episodes to watch"
+msgstr "Nächste Folgen"
