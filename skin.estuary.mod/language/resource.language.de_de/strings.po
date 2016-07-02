@@ -1245,3 +1245,23 @@ msgstr "Meine Serien, die heute im Fernsehen laufen"
 msgctxt "#40175"
 msgid "Next episodes to watch"
 msgstr "Nächste Folgen"
+
+msgctxt "#40176"
+msgid "Hide Rotten Tomatoes and Metacritic info"
+msgstr "Rotten Tomatoes und Metacritic Informationen ausblenden."
+
+msgctxt "#40177"
+msgid "Hide info from Rotten Tomatoes and Metacritic."
+msgstr "Informationen von Rotten Tomatoes und Metacritic werden nicht angezeigt."
+
+msgctxt "#40178"
+msgid "Show media flags icons on home menu such as resolution, ratio, video codec, audio codec and number of channels."
+msgstr "Zeige Medieninformationen im Hauptmenü (Auflösung, Ratio, Videoformat, Audioformat und Anzahl der Audiokanäle."
+
+msgctxt "#40179"
+msgid "Show media clearlogos"
+msgstr "Zeige Medien Clearlogos"
+
+msgctxt "#40180"
+msgid "Show clearlogos on home menu."
+msgstr "Zeige Clearlogos im Hauptmenü."
