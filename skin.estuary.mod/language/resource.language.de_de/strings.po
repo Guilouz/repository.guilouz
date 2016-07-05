@@ -1195,12 +1195,12 @@ msgid "Show music visualisation screen directly when playing song."
 msgstr "Zeige Musikvisualisierung sofort wenn ein Song gespielt wird."
 
 msgctxt "#40163"
-msgid "Skin color"
-msgstr "Farbe des Skin"
+msgid "Main color"
+msgstr "Hauptfarbe"
 
 msgctxt "#40164"
-msgid "Reset skin color"
-msgstr "Farbe des Skins zurücksetzen"
+msgid "Reset main color"
+msgstr "Hauptfarbe zurücksetzen"
 
 msgctxt "#40165"
 msgid "Color"
@@ -1211,8 +1211,8 @@ msgid "Change main theme color."
 msgstr "Ändere die Hauptfarbe des Skins"
 
 msgctxt "#40167"
-msgid "Reset theme color to default."
-msgstr "Setze die Hauptfarbe des Skins auf die Standardeinstellung zurück."
+msgid "Reset main color to default."
+msgstr "Setzt die Hauptfarbe auf Standard zurück."
 
 msgctxt "#40168"
 msgid "Live TV widget - Recently played channels"
@@ -1265,3 +1265,27 @@ msgstr "Zeige Medien Clearlogos"
 msgctxt "#40180"
 msgid "Show clearlogos on home menu."
 msgstr "Zeige Clearlogos im Hauptmenü."
+
+msgctxt "#40181"
+msgid "Colors"
+msgstr "Farben"
+
+msgctxt "#40182"
+msgid "Skin colors related settings."
+msgstr "Einstellungen für die Skinfarben."
+
+msgctxt "#40183"
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+msgctxt "#40184"
+msgid "Reset background color"
+msgstr "Hintergrundfarbe zurücksetzen"
+
+msgctxt "#40185"
+msgid "Change background color."
+msgstr "Ändere die Hintergrundfarbe."
+
+msgctxt "#40186"
+msgid "Reset background color to default."
+msgstr "Setzt die Hintergrundfarbe auf Standard zurück."
