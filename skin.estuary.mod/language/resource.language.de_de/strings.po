@@ -1289,3 +1289,7 @@ msgstr "Ändere die Hintergrundfarbe."
 msgctxt "#40186"
 msgid "Reset background color to default."
 msgstr "Setzt die Hintergrundfarbe auf Standard zurück."
+
+msgctxt "#40187"
+msgid "Color selection"
+msgstr "Farbauswahl"
