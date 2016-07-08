@@ -1293,3 +1293,59 @@ msgstr "Setzt die Hintergrundfarbe auf Standard zurück."
 msgctxt "#40187"
 msgid "Color selection"
 msgstr "Farbauswahl"
+
+msgctxt "#40188"
+msgid "Go up item."
+msgstr "Nach oben verschieben"
+
+msgctxt "#40189"
+msgid "Go down item."
+msgstr "Nach unten verschieben"
+
+msgctxt "#40190"
+msgid "Add item."
+msgstr "Eintrag hinzufügen"
+
+msgctxt "#40191"
+msgid "Delete item."
+msgstr "Eintrag löschen"
+
+msgctxt "#40192"
+msgid "Library options"
+msgstr "Bibliotheksoptionen"
+
+msgctxt "#40193"
+msgid "Settings applying to library."
+msgstr "Einstellungen die Bibliotheken betreffend."
+
+msgctxt "#40194"
+msgid "Notification popup position"
+msgstr "Position der Popup-Benachrichtigungen"
+
+msgctxt "#40195"
+msgid "Set notification popup position."
+msgstr "Lege die Position der Popup-Benachrichtigungen fest."
+
+msgctxt "#40196"
+msgid "Bottom center"
+msgstr "Unten Mitte"
+
+msgctxt "#40197"
+msgid "Bottom right"
+msgstr "Unten Rechts"
+
+msgctxt "#40198"
+msgid "Bottom left"
+msgstr "Unten Links"
+
+msgctxt "#40199"
+msgid "Top center"
+msgstr "Oben Mitte"
+
+msgctxt "#40200"
+msgid "Top right"
+msgstr "Oben Rechts"
+
+msgctxt "#40201"
+msgid "Top left"
+msgstr "Oben Links"
