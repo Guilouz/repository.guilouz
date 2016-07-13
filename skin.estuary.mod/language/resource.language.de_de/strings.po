@@ -1352,11 +1352,11 @@ msgstr "Oben Links"
 
 msgctxt "#40202"
 msgid "Video process information"
-msgstr "Informationen Videoverarbeitung"
+msgstr "Videoinformationen"
 
 msgctxt "#40203"
 msgid "Hardware decoding"
-msgstr "Hardware Dekodierung"
+msgstr "Hardware Decoding"
 
 msgctxt "#40204"
 msgid "Inactive"
@@ -1364,15 +1364,15 @@ msgstr "Inaktiv"
  
 msgctxt "#40205"
 msgid "Decoder"
-msgstr "Dekodierer"
+msgstr "Decoder"
 
 msgctxt "#40206"
 msgid "Audio process information"
-msgstr "Informationen Audioverarbeitung"
+msgstr "Audioinformationen"
 
 msgctxt "#40207"
 msgid "Memory used"
-msgstr "Benutzter Arbeitsspeicher"
+msgstr "Arbeitsspeicher"
 
 msgctxt "#40208"
 msgid "Channels"
