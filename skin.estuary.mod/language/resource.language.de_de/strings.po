@@ -1349,3 +1349,55 @@ msgstr "Oben Rechts"
 msgctxt "#40201"
 msgid "Top left"
 msgstr "Oben Links"
+
+msgctxt "#40202"
+msgid "Video process information"
+msgstr "Informationen Videoverarbeitung"
+
+msgctxt "#40203"
+msgid "Hardware decoding"
+msgstr "Hardware Dekodierung"
+
+msgctxt "#40204"
+msgid "Inactive"
+msgstr "Inaktiv"
+ 
+msgctxt "#40205"
+msgid "Decoder"
+msgstr "Dekodierer"
+
+msgctxt "#40206"
+msgid "Audio process information"
+msgstr "Informationen Audioverarbeitung"
+
+msgctxt "#40207"
+msgid "Memory used"
+msgstr "Benutzter Arbeitsspeicher"
+
+msgctxt "#40208"
+msgid "Channels"
+msgstr "Kanäle"
+
+msgctxt "#40209"
+msgid "Deinterlace"
+msgstr "Deinterlace"
+
+msgctxt "#40210"
+msgid "Processing"
+msgstr "Verarbeitung"
+
+msgctxt "#40211"
+msgid "Custom widget (posters)"
+msgstr "Individuelles Widget (Poster)"
+
+msgctxt "#40212"
+msgid "Custom widget (thumbs)"
+msgstr "Individuelles Widget (Thumbs)"
+
+msgctxt "#40213"
+msgid "Custom widget (icons)"
+msgstr "Individuelles Widget (Icons)"
+
+msgctxt "#40214"
+msgid "Select default widget"
+msgstr "Wähle Standardwidget"
