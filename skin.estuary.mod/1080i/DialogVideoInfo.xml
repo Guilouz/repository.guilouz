@@ -666,6 +666,15 @@
 						<param name="label" value="$LOCALIZE[208]" />
 					</include>
 					<include content="InfoDialogButton">
+						<param name="id" value="500" />
+						<param name="icon" value="icons/infodialogs/play.png" />
+						<param name="label" value="CinemaVision" />
+						<param name="include" value="ButtonInfoDialogsCommonValues" />
+						<param name="onclick_1" value="Dialog.Close(MovieInformation)" />
+						<param name="onclick_2" value="RunScript(script.cinemavision,experience)" />
+						<param name="visible" value="System.HasAddon(script.cinemavision) + [Stringcompare(ListItem.DBType,movie) | Stringcompare(ListItem.DBType,tvshow) | Stringcompare(ListItem.DBType,season) | Stringcompare(ListItem.DBType,episode)]" />
+					</include>
+					<include content="InfoDialogButton">
 						<param name="id" value="11" />
 						<param name="icon" value="icons/infodialogs/trailer.png" />
 						<param name="label" value="$LOCALIZE[20410]" />
