@@ -62,6 +62,7 @@
                         <font>font12</font>
                         <label>$INFO[ListItem.Year]</label>
                         <shadowcolor>text_shadow</shadowcolor>
+                        <visible>!Container.Content(albums)</visible>
                     </control>
                     <control type="label">
                         <left>105</left>
@@ -73,6 +74,19 @@
                         <scroll>true</scroll>
                         <label>$INFO[ListItem.Label]</label>
                         <shadowcolor>text_shadow</shadowcolor>
+                        <visible>!Container.Content(albums)</visible>
+                    </control>
+                    <control type="label">
+                        <left>35</left>
+                        <top>0</top>
+                        <height>63</height>
+                        <width>1030</width>
+                        <aligny>center</aligny>
+                        <font>fontContextMenu</font>
+                        <scroll>true</scroll>
+                        <label>$INFO[ListItem.Artist,, - ]$INFO[ListItem.Label]</label>
+                        <shadowcolor>text_shadow</shadowcolor>
+                        <visible>Container.Content(albums)</visible>
                     </control>
                     <control type="label">
                         <left>90</left>
@@ -121,8 +135,8 @@
                         <aligny>center</aligny>
                         <font>font12</font>
                         <label>$INFO[ListItem.Year]</label>
-                        <textcolor>$VAR[SkinColorVar]</textcolor>
                         <shadowcolor>text_shadow</shadowcolor>
+                        <visible>!Container.Content(albums)</visible>
                     </control>
                     <control type="label">
                         <left>105</left>
@@ -131,8 +145,22 @@
                         <width>960</width>
                         <aligny>center</aligny>
                         <font>fontContextMenu</font>
+                        <scroll>true</scroll>
                         <label>$INFO[ListItem.Label]</label>
                         <shadowcolor>text_shadow</shadowcolor>
+                        <visible>!Container.Content(albums)</visible>
+                    </control>
+                    <control type="label">
+                        <left>35</left>
+                        <top>0</top>
+                        <height>63</height>
+                        <width>1030</width>
+                        <aligny>center</aligny>
+                        <font>fontContextMenu</font>
+                        <scroll>true</scroll>
+                        <label>[COLOR $VAR[SkinColorVar]]$INFO[ListItem.Artist][/COLOR] - $INFO[ListItem.Label]</label>
+                        <shadowcolor>text_shadow</shadowcolor>
+                        <visible>Container.Content(albums)</visible>
                     </control>
                     <control type="label">
                         <left>90</left>
@@ -143,7 +171,6 @@
                         <aligny>center</aligny>
                         <font>font12</font>
                         <label>$INFO[ListItem.Label2]</label>
-                        <textcolor>grey</textcolor>
                         <shadowcolor>text_shadow</shadowcolor>
                     </control>
                     <control type="image">

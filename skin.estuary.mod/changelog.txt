@@ -1,6 +1,7 @@
 [B]1.3.8[/B]
 • Fix PVR icon
-• Fix next up popup for PVR 
+• Fix next up popup for PVR
+• Replace years by artists for albums
 
 [B]1.3.7[/B]
 • Add new 'Simple wall' view

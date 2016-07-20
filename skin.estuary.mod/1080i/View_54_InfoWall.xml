@@ -37,7 +37,7 @@
             <label>$INFO[ListItem.Label]</label>
         </control>
     </include>
-    <include name="InfoWallMusicLayout">
+    <include name="InfoWallMusicItemLayout">
         <control type="image">
             <top>-10</top>
             <width>320</width>
@@ -69,8 +69,50 @@
             <font>font12</font>
             <align>center</align>
             <aligny>center</aligny>
-            <label>$INFO[ListItem.Year,,[COLOR white] - [/COLOR]][COLOR white]$INFO[ListItem.Label][/COLOR]</label>
+            <label>$INFO[ListItem.Artist,,[COLOR white] - [/COLOR]][COLOR white]$INFO[ListItem.Label][/COLOR]</label>
             <textcolor>$VAR[SkinColorVar]</textcolor>
+        </control>
+        <control type="group">
+            <left>230</left>
+            <top>28</top>
+            <include>UserRatingCircle</include>
+        </control>
+    </include>
+    <include name="InfoWallMusicFocusedLayout">
+        <control type="image">
+            <top>-10</top>
+            <width>320</width>
+            <height>380</height>
+            <texture border="40">buttons/button-nofo.png</texture>
+        </control>
+        <control type="image">
+            <left>35</left>
+            <top>21</top>
+            <width>250</width>
+            <height>250</height>
+            <texture border="2" fallback="DefaultFolderSquare.png" background="true">$VAR[ShiftThumbVar]</texture>
+            <aspectratio>stretch</aspectratio>
+            <bordertexture colordiffuse="border_alpha">colors/black.png</bordertexture>
+            <bordersize>4</bordersize>
+        </control>
+        <control type="image">
+            <left>20</left>
+            <top>278</top>
+            <width>280</width>
+            <height>72</height>
+            <texture>colors/black.png</texture>
+        </control>
+        <control type="textbox">
+            <left>28</left>
+            <top>278</top>
+            <width>262</width>
+            <height>70</height>
+            <font>font12</font>
+            <align>center</align>
+            <aligny>center</aligny>
+            <label>$INFO[ListItem.Artist,,[COLOR white] - [/COLOR]][COLOR white]$INFO[ListItem.Label][/COLOR]</label>
+            <textcolor>$VAR[SkinColorVar]</textcolor>
+            <autoscroll delay="1000" time="1000" repeat="1000">true</autoscroll>
         </control>
         <control type="group">
             <left>230</left>
@@ -158,13 +200,13 @@
                     </control>
                 </focusedlayout>
                 <itemlayout height="360" width="300" condition="Container.Content(artists) | Container.Content(albums) | Container.Content(musicvideos)">
-                    <include>InfoWallMusicLayout</include>
+                    <include>InfoWallMusicItemLayout</include>
                 </itemlayout>
                 <focusedlayout height="360" width="300" condition="Container.Content(artists) | Container.Content(albums) | Container.Content(musicvideos)">
                     <control type="group">
                         <animation effect="zoom" start="100" end="105" time="200" tween="sine" easing="inout" center="160,180" condition="!Skin.HasSetting(no_animations)">Focus</animation>
                         <animation effect="zoom" start="105" end="100" time="200" tween="sine" easing="inout" center="160,180" condition="!Skin.HasSetting(no_animations)">UnFocus</animation>
-                        <include>InfoWallMusicLayout</include>
+                        <include>InfoWallMusicFocusedLayout</include>
                         <control type="image">
                             <left>20</left>
                             <top>5</top>

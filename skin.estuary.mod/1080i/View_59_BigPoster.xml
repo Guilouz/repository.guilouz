@@ -190,7 +190,7 @@
                             <width>100%</width>
                             <top>460</top>
                             <bottom>20</bottom>
-                            <label>$INFO[ListItem.Artist,[B],[/B][CR]]$INFO[ListItem.Album,,[CR][CR]]$INFO[ListItem.Year]</label>
+                            <label>[COLOR $VAR[SkinColorVar]]$INFO[ListItem.Artist,[B],[/B][CR]][/COLOR]$INFO[ListItem.Album,,[CR][CR]]$INFO[ListItem.Year]</label>
                             <align>center</align>
                             <aligny>center</aligny>
                         </control>
