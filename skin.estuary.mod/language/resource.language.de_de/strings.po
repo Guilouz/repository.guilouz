@@ -1412,7 +1412,7 @@ msgstr "Einfache Wand"
 
 msgctxt "#40217"
 msgid "To be continued ..."
-msgstr "Fortsetzung folgt..."
+msgstr "Es folgt ..."
 
 msgctxt "#40218"
 msgid "Enable Next Up popup for Live TV"
