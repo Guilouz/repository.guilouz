@@ -86,7 +86,7 @@ msgstr "Kürzlich abgespielte Kanäle"
 
 msgctxt "#31017"
 msgid "Rated"
-msgstr "Bewertung"
+msgstr "Altersfreigabe"
 
 msgctxt "#31018"
 msgid "Most played channels"
