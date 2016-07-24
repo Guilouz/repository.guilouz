@@ -560,7 +560,7 @@ msgstr "Verbleibend"
 
 msgctxt "#40000"
 msgid "Show movies and tv shows clearlogos"
-msgstr "Zeige Film und Serien Clearlogos"
+msgstr "Zeige Film und TV Serien Clearlogos"
 
 msgctxt "#40001"
 msgid "Customize power menu"
@@ -600,7 +600,7 @@ msgstr "Film Widget"
 
 msgctxt "#40010"
 msgid "TV Shows widget"
-msgstr "TV Shows Widget"
+msgstr "TV Serien Widget"
 
 msgctxt "#40011"
 msgid "Music widget"
@@ -670,11 +670,11 @@ msgstr "Zeige Künstler Clearlogos"
 
 msgctxt "#40029"
 msgid "Enable extrafanarts for background"
-msgstr "Aktiviere extrafanarts für Hintegrund"
+msgstr "Aktiviere Extra Fanarts für Hintegrundbilder"
 
 msgctxt "#40030"
 msgid "Enable extrafanarts for thumb"
-msgstr "Aktiviere extrafanarts für Thumbs"
+msgstr "Aktiviere Extra Fanarts für Thumbs"
 
 msgctxt "#40031"
 msgid "Animate background"
@@ -766,7 +766,7 @@ msgstr "Zeige Studio / Plattenlabel Icons"
 
 msgctxt "#40053"
 msgid "Studios movies / TV shows icons"
-msgstr "Iconset für Studio / TV Shows"
+msgstr "Iconset für Studio / TV Serien"
 
 msgctxt "#40054"
 msgid "Weather icons"
@@ -786,7 +786,7 @@ msgstr "Kontextmenü"
 
 msgctxt "#40058"
 msgid "TV shows next aired"
-msgstr "Die nächsten ausgestrahlten TV-Shows"
+msgstr "Die nächsten ausgestrahlten TV Serien"
 
 msgctxt "#40059"
 msgid "Similar"
@@ -966,7 +966,7 @@ msgstr "Ungesehene Filme"
 
 msgctxt "#40103"
 msgid "Unwatched TV shows"
-msgstr "Ungesehene Fernsehserien"
+msgstr "Ungesehene TV Serien"
 
 # empty strings "40104"
 
@@ -1034,7 +1034,7 @@ msgstr "Zurücksetzen der Einträge des Haupt- und des Powermenü"
 
 msgctxt "#40122"
 msgid "Hide top and bottom bars.[CR][[B]Never[/B]] Bars are always displayed.[CR][[B]Only on library[/B]] Bars are hidden only on Movies, TV Shows and Music libraries. [CR][[B]All over skin[/B]] Bars are hidden all over skin."
-msgstr "Blende die Top und Bottom Balken aus.[CR][[B]Nie[/B]] Balken werden immer angezeigt.[CR][[B]Nur in Bibliothek[/B]] Balken werden nur in den Film-, TV Shows- und Musik Bibliotheken ausgeblendet. [CR][[B]Im gesamten Skin[/B]] Balken werden im gesamten Skin ausgeblendet."
+msgstr "Blende die Top und Bottom Balken aus.[CR][[B]Nie[/B]] Balken werden immer angezeigt.[CR][[B]Nur in Bibliothek[/B]] Balken werden nur in den Film-, TV Serien- und Musik Bibliotheken ausgeblendet. [CR][[B]Im gesamten Skin[/B]] Balken werden im gesamten Skin ausgeblendet."
 
 msgctxt "#40123"
 msgid "Show slide effect of skin windows."
@@ -1050,7 +1050,7 @@ msgstr "Zeige Wetter-, Datum- und Uhrzeitinformationen im oberen Bereich an."
 
 msgctxt "#40126"
 msgid "Replace thumbnails of episodes by fanarts"
-msgstr "Ersetze Miniaturbilder der Episoden durch Fanart"
+msgstr "Ersetze Miniaturbilder der Folgen durch Fanart"
 
 msgctxt "#40127"
 msgid "Show media flags icons such as resolution, ratio, video codec, audio codec, number of channels, duration..."
@@ -1066,7 +1066,7 @@ msgstr "Zeige animierte Poster, wenn vorhanden. Wenn kein animiertes Poster vorl
 
 msgctxt "#40130"
 msgid "Show movies and TV shows clearlogos on video library."
-msgstr "Zeige Film- und TV Show Clearlogos in Videobibliothek."
+msgstr "Zeige Film- und TV Serien Clearlogos in Videobibliothek."
 
 msgctxt "#40131"
 msgid "Show artists clearlogos on music library."
@@ -1144,7 +1144,7 @@ msgstr "Lege fest an welcher Stelle im Video OSD die ClearArt angezeigt wird."
 
 msgctxt "#40150"
 msgid "Show TV Show ClearArt with [B]NextUp Notification[/B] addon."
-msgstr "Zeige TV Show ClearArt im [B]NextUp Notification[/B] addon an."
+msgstr "Zeige TV Serien ClearArt im [B]NextUp Notification[/B] addon an."
 
 msgctxt "#40151"
 msgid "Activate Kiosk mode. It allow to turn off sliding menu that provides access to various skin settings. Ideal for children or if Kodi is on free service."
@@ -1240,7 +1240,7 @@ msgstr "Füge Quellen hinzu"
 
 msgctxt "#40174"
 msgid "My TV shows airing today"
-msgstr "Meine Serien, die heute im Fernsehen laufen"
+msgstr "Meine TV Serien, die heute im Fernsehen laufen"
 
 msgctxt "#40175"
 msgid "Next episodes to watch"
@@ -1421,3 +1421,43 @@ msgstr "Aktiviere Next Up Benachrichtigung für Live TV"
 msgctxt "#40219"
 msgid "Enable Next Up popup notification for Live TV."
 msgstr "Aktiviert die Next Up Benachrichtigungen für Live TV"
+
+msgctxt "#40220"
+msgid "Random tv shows"
+msgstr "Zufällige TV Serien"
+
+msgctxt "#40221"
+msgid "Set Hub image"
+msgstr "Setze Hub Bild"
+
+msgctxt "#40222"
+msgid "Set Hub items"
+msgstr "Setze Hub Einträge"
+
+msgctxt "#40223"
+msgid "Movies Hub"
+msgstr "Film Hub"
+
+msgctxt "#40224"
+msgid "TV Shows Hub"
+msgstr "TV Serien Hub"
+
+msgctxt "#40225"
+msgid "Custom Hub 1"
+msgstr "Individueller Hub 1"
+
+msgctxt "#40226"
+msgid "Random episodes"
+msgstr "Zufällige Folge"
+
+msgctxt "#40227"
+msgid "Select hub widget"
+msgstr "Wähle Hub Widget"
+
+msgctxt "#40228"
+msgid "Custom Hub 2"
+msgstr "Individueller Hub 2"
+
+msgctxt "#40229"
+msgid "Custom Hub 3"
+msgstr "Individueller Hub 3"
