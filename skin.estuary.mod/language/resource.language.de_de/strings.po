@@ -890,7 +890,7 @@ msgstr "Zeige laufendes Video im Hintergund (im Menü)"
 
 msgctxt "#40084"
 msgid "Type of Widgets"
-msgstr "Widgets-Typ"
+msgstr "Art der Widgets"
 
 msgctxt "#40085"
 msgid "Skin Helper Service Widgets"
@@ -1400,7 +1400,7 @@ msgstr "Individuelles Widget (Icons)"
 
 msgctxt "#40214"
 msgid "Set type of widgets"
-msgstr "Wähle den Widgets-Typ"
+msgstr "Wähle die Art der Widgets"
 
 msgctxt "#40215"
 msgid "Hide posters info"
@@ -1461,3 +1461,7 @@ msgstr "Individueller Hub 2"
 msgctxt "#40229"
 msgid "Custom Hub 3"
 msgstr "Individueller Hub 3"
+
+msgctxt "#40230"
+msgid "Hub Widget"
+msgstr "Hub Widget"
