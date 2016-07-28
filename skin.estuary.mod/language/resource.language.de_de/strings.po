@@ -1050,7 +1050,7 @@ msgstr "Zeige Wetter-, Datum- und Uhrzeitinformationen im oberen Bereich an."
 
 msgctxt "#40126"
 msgid "Replace episodes thumbnails by TV shows thumbnails"
-msgstr "Ersetze Miniaturbilder der Folgen durch Miniaturbilder der TV Serien"
+msgstr "Ersetze Miniaturen der Einzelfolgen durch Miniaturen der TV Serien"
 
 msgctxt "#40127"
 msgid "Show media flags icons such as resolution, ratio, video codec, audio codec, number of channels, duration..."
@@ -1465,3 +1465,7 @@ msgstr "Individueller Hub 3"
 msgctxt "#40230"
 msgid "Hub Widget"
 msgstr "Hub Widget"
+
+msgctxt "#40231"
+msgid "Hide widgets banners"
+msgstr "Zeige keine Banner in Widgets"
