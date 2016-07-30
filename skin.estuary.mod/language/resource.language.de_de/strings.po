@@ -1511,7 +1511,7 @@ msgstr "als nächstes ausgestahlte Folgen"
 
 msgctxt "#40233"
 msgid "Customizable widgets"
-msgstr "Anpassbares Widget"
+msgstr "Anpassbare Widgets"
 
 msgctxt "#40234"
 msgid "Preconfigured widgets"
