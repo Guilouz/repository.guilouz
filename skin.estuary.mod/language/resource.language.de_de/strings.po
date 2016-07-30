@@ -558,6 +558,41 @@ msgctxt "#31134"
 msgid "Remaining"
 msgstr "Verbleibend"
 
+#: /1080i/DialogAddonInfo.xml
+msgctxt "#31135"
+msgid "Installed from"
+msgstr "Installiert von"
+
+#: /1080i/DialogAddonInfo.xml
+msgctxt "#31136"
+msgid "Click here to see latest changes..."
+msgstr "Hier klicken um die neuesten Änderungen anzuzeigen..."
+
+#: /1080i/DialogPlayerProcessInfo.xml
+msgctxt "#31137"
+msgid "PVR info"
+msgstr "PVR Information"
+
+#: /1080i/DialogPlayerProcessInfo.xml
+msgctxt "#31138"
+msgid "Player process info"
+msgstr "Abspielerprozess Informationen"
+
+#: /1080i/DialogPlayerProcessInfo.xml
+msgctxt "#31139"
+msgid "Video decoder"
+msgstr "Video Dekoder"
+
+#: /1080i/DialogPlayerProcessInfo.xml
+msgctxt "#31140"
+msgid "Pixel format"
+msgstr "Pixel Format"
+
+#: /1080i/DialogAddonInfo.xml
+msgctxt "#31141"
+msgid "Changes for version"
+msgstr "Änderungen für Version"
+
 msgctxt "#40000"
 msgid "Show movies and tv shows clearlogos"
 msgstr "Zeige Film und TV Serien Clearlogos"
@@ -1388,15 +1423,15 @@ msgstr "Verarbeitung"
 
 msgctxt "#40211"
 msgid "Customizable widget (posters)"
-msgstr "Individuelles Widget (Poster)"
+msgstr "Anpassbares Widget (Poster)"
 
 msgctxt "#40212"
 msgid "Customizable widget (thumbs)"
-msgstr "Individuelles Widget (Thumbs)"
+msgstr "Anpassbares Widget (Thumbs)"
 
 msgctxt "#40213"
 msgid "Customizable widget (icons)"
-msgstr "Individuelles Widget (Icons)"
+msgstr "Anpassbares Widget (Icons)"
 
 msgctxt "#40214"
 msgid "Set type of widgets"
@@ -1444,7 +1479,7 @@ msgstr "TV Serien Hub"
 
 msgctxt "#40225"
 msgid "Customizable Hub 1"
-msgstr "Individueller Hub 1"
+msgstr "Anpassbarer Hub 1"
 
 msgctxt "#40226"
 msgid "Random episodes"
@@ -1456,11 +1491,11 @@ msgstr "Wähle Hub Widget"
 
 msgctxt "#40228"
 msgid "Customizable Hub 2"
-msgstr "Individueller Hub 2"
+msgstr "Anpassbarer Hub 2"
 
 msgctxt "#40229"
 msgid "Customizable Hub 3"
-msgstr "Individueller Hub 3"
+msgstr "Anpassbarer Hub 3"
 
 msgctxt "#40230"
 msgid "Hub Widget"
@@ -1469,3 +1504,19 @@ msgstr "Hub Widget"
 msgctxt "#40231"
 msgid "Hide widgets banners"
 msgstr "Zeige keine Banner in Widgets"
+
+msgctxt "#40232"
+msgid "Next airing episodes"
+msgstr "als nächstes ausgestahlte Folgen"
+
+msgctxt "#40233"
+msgid "Customizable widgets"
+msgstr "Anpassbare Widgets"
+
+msgctxt "#40234"
+msgid "Preconfigured widgets"
+msgstr "Vorkonfigurierte Widgets"
+
+msgctxt "#40235"
+msgid "No screenshot available"
+msgstr "Screenshot nicht verfügbar"
