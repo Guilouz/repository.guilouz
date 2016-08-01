@@ -1520,3 +1520,7 @@ msgstr "Vorkonfigurierte Widgets"
 msgctxt "#40235"
 msgid "No screenshot available"
 msgstr "Screenshot nicht verfügbar"
+
+msgctxt "#40236"
+msgid "Use clearlogos instead of thumbnails"
+msgstr "Verwende Clearlogo anstelle von TV Serien Miniaturbilder"
