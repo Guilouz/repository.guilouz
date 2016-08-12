@@ -901,11 +901,11 @@ msgstr "Sichtbare TV-Kanäle"
 
 msgctxt "#40077"
 msgid "Access all of your favorites"
-msgstr "Zugriff auf Favoriten"
+msgstr "Zugriff auf alle Deine Favoriten"
 
 msgctxt "#40078"
 msgid "Access all settings"
-msgstr "Zugriff auf alle Deine Favoriten"
+msgstr "Zugriff auf Einstellungen"
 
 msgctxt "#40079"
 msgid "Access to filemanager"
