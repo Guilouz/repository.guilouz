@@ -677,9 +677,13 @@ msgctxt "#40020"
 msgid "Replace vertical home menu by horizontal menu."
 msgstr "Ersetze das vertikale Hauptmenü durch horizontales Hauptmenü."
 
-# empty strings "40021"
+msgctxt "#40021"
+msgid "Enable horizontal advanced menu"
+msgstr "Aktiviere erweitertes horizontales Menü"
 
-# empty strings "40022"
+msgctxt "#40022"
+msgid "Replace vertical home menu by horizontal advanced menu."
+msgstr "Ersetzt das vertikale Home Menü durch das erweiterte horizontale Menü"
 
 msgctxt "#40023"
 msgid "Set images path"
@@ -897,7 +901,7 @@ msgstr "Sichtbare TV-Kanäle"
 
 msgctxt "#40077"
 msgid "Access all of your favorites"
-msgstr "Zugriff auf Favoriten"
+msgstr "Zugriff auf alle Deine Favoriten"
 
 msgctxt "#40078"
 msgid "Access all settings"
