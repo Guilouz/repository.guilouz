@@ -593,6 +593,10 @@ msgctxt "#31141"
 msgid "Changes for version"
 msgstr "Änderungen für Version"
 
+msgctxt "#31142"
+msgid "Play speed"
+msgstr "Abspielgeschwindigkeit"
+
 msgctxt "#40000"
 msgid "Show movies and tv shows clearlogos"
 msgstr "Zeige Film und TV Serien Clearlogos"
@@ -1528,3 +1532,11 @@ msgstr "Screenshot nicht verfügbar"
 msgctxt "#40236"
 msgid "Use clearlogos instead of thumbnails"
 msgstr "Verwende Clearlogo anstelle von TV Serien Miniaturbilder"
+
+msgctxt "#40237"
+msgid "Add rule"
+msgstr "Regel hinzufügen"
+
+msgctxt "#40238"
+msgid "Delete rule"
+msgstr "Regel löschen"
