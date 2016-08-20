@@ -1540,3 +1540,19 @@ msgstr "Regel hinzufügen"
 msgctxt "#40238"
 msgid "Delete rule"
 msgstr "Regel löschen"
+
+msgctxt "#40239"
+msgid "Hide CD case"
+msgstr "Verstecke CD Case"
+
+msgctxt "#40240"
+msgid "Hide CD case on music visualisation screen."
+msgstr "Versteckt das CD Case overlay in dem Musikvisualisierungsbildschirm"
+
+msgctxt "#40241"
+msgid "Hide pictures info"
+msgstr "Verstecke Bilder Information"
+
+msgctxt "#40242"
+msgid "Mosaics"
+msgstr "Mosaik"
