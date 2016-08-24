@@ -78,7 +78,7 @@ msgstr "Ungespielte Alben"
 
 msgctxt "#31015"
 msgid "Recent recordings"
-msgstr "Zeletzt gemachte Aufnahmen"
+msgstr "Zuletzt gemachte Aufnahmen"
 
 msgctxt "#31016"
 msgid "Recently played channels"
@@ -86,11 +86,11 @@ msgstr "Zuletzt gesehene Kanäle"
 
 msgctxt "#31017"
 msgid "Rated"
-msgstr "Bewertung"
+msgstr "Altersfreigabe"
 
 msgctxt "#31018"
 msgid "Most played channels"
-msgstr "Zuletzt gehörte Kanäle"
+msgstr "Meistgespielte Kanäle"
 
 msgctxt "#31019"
 msgid "Forecast"
@@ -418,7 +418,7 @@ msgstr "IconWall"
 
 msgctxt "#31100"
 msgid "Shift"
-msgstr "Umschalttaste"
+msgstr "Shift"
 
 msgctxt "#31101"
 msgid "InfoWall"
@@ -597,7 +597,7 @@ msgstr "Abspielgeschwindigkeit"
 
 msgctxt "#40000"
 msgid "Show movies and tv shows clearlogos"
-msgstr "Zeige Film und TV Serien Clearlogos"
+msgstr "Zeige Film und Serien Clearlogos"
 
 msgctxt "#40001"
 msgid "Customize power menu"
@@ -637,7 +637,7 @@ msgstr "Film Widget"
 
 msgctxt "#40010"
 msgid "TV Shows widget"
-msgstr "TV Serien Widget"
+msgstr "Serien Widget"
 
 msgctxt "#40011"
 msgid "Music widget"
@@ -807,7 +807,7 @@ msgstr "Zeige Studio / Plattenlabel Icons"
 
 msgctxt "#40053"
 msgid "Studios movies / TV shows icons"
-msgstr "Iconset für Studio / TV Serien"
+msgstr "Studio Icons für Filme / Serien"
 
 msgctxt "#40054"
 msgid "Weather icons"
@@ -827,7 +827,7 @@ msgstr "Kontextmenü"
 
 msgctxt "#40058"
 msgid "TV shows next aired"
-msgstr "Die nächsten ausgestrahlten TV Serien"
+msgstr "Die nächsten ausgestrahlten Serien"
 
 msgctxt "#40059"
 msgid "Similar"
@@ -1007,7 +1007,7 @@ msgstr "Ungesehene Filme"
 
 msgctxt "#40103"
 msgid "Unwatched TV shows"
-msgstr "Ungesehene TV Serien"
+msgstr "Ungesehene Serien"
 
 # empty strings "40104"
 
@@ -1075,7 +1075,7 @@ msgstr "Zurücksetzen der Einträge des Haupt- und des Powermenü"
 
 msgctxt "#40122"
 msgid "Hide top and bottom bars.[CR][[B]Never[/B]] Bars are always displayed.[CR][[B]Only on library[/B]] Bars are hidden only on Movies, TV Shows and Music libraries. [CR][[B]All over skin[/B]] Bars are hidden all over skin."
-msgstr "Blende die Top und Bottom Balken aus.[CR][[B]Nie[/B]] Balken werden immer angezeigt.[CR][[B]Nur in Bibliothek[/B]] Balken werden nur in den Film-, TV Serien- und Musik Bibliotheken ausgeblendet. [CR][[B]Im gesamten Skin[/B]] Balken werden im gesamten Skin ausgeblendet."
+msgstr "Blende die Top und Bottom Balken aus.[CR][[B]Nie[/B]] Balken werden immer angezeigt.[CR][[B]Nur in Bibliothek[/B]] Balken werden nur in den Film-, Serien- und Musik Bibliotheken ausgeblendet. [CR][[B]Im gesamten Skin[/B]] Balken werden im gesamten Skin ausgeblendet."
 
 msgctxt "#40123"
 msgid "Show slide effect of skin windows."
@@ -1091,7 +1091,7 @@ msgstr "Zeige Wetter-, Datum- und Uhrzeitinformationen im oberen Bereich an."
 
 msgctxt "#40126"
 msgid "Replace episodes thumbnails by TV shows thumbnails"
-msgstr "Ersetze Miniaturen der Einzelfolgen durch Miniaturen der TV Serien"
+msgstr "Ersetze Miniaturen der Einzelfolgen durch Miniaturen der Serien"
 
 msgctxt "#40127"
 msgid "Show media flags icons such as resolution, ratio, video codec, audio codec, number of channels, duration..."
@@ -1107,7 +1107,7 @@ msgstr "Zeige animierte Poster, wenn vorhanden. Wenn kein animiertes Poster vorl
 
 msgctxt "#40130"
 msgid "Show movies and TV shows clearlogos on video library."
-msgstr "Zeige Film- und TV Serien Clearlogos in Videobibliothek."
+msgstr "Zeige Film- und Serien Clearlogos in Videobibliothek."
 
 msgctxt "#40131"
 msgid "Show artists clearlogos on music library."
@@ -1185,7 +1185,7 @@ msgstr "Lege fest an welcher Stelle im Video OSD die ClearArt angezeigt wird."
 
 msgctxt "#40150"
 msgid "Show TV Show ClearArt with [B]NextUp Notification[/B] addon."
-msgstr "Zeige TV Serien ClearArt im [B]NextUp Notification[/B] addon an."
+msgstr "Zeige Serien ClearArt im [B]NextUp Notification[/B] addon an."
 
 msgctxt "#40151"
 msgid "Activate Kiosk mode. It allow to turn off sliding menu that provides access to various skin settings. Ideal for children or if Kodi is on free service."
@@ -1281,7 +1281,7 @@ msgstr "Füge Quellen hinzu"
 
 msgctxt "#40174"
 msgid "My TV shows airing today"
-msgstr "Meine TV Serien, die heute im Fernsehen laufen"
+msgstr "Meine Serien, die heute im Fernsehen laufen"
 
 msgctxt "#40175"
 msgid "Next episodes to watch"
@@ -1465,7 +1465,7 @@ msgstr "Aktiviert die Next Up Benachrichtigungen für Live TV"
 
 msgctxt "#40220"
 msgid "Random tv shows"
-msgstr "Zufällige TV Serien"
+msgstr "Zufällige Serien"
 
 msgctxt "#40221"
 msgid "Set Hub image"
@@ -1481,7 +1481,7 @@ msgstr "Film Hub"
 
 msgctxt "#40224"
 msgid "TV Shows Hub"
-msgstr "TV Serien Hub"
+msgstr "Serien Hub"
 
 msgctxt "#40225"
 msgid "Customizable Hub 1"
@@ -1529,7 +1529,7 @@ msgstr "Screenshot nicht verfügbar"
 
 msgctxt "#40236"
 msgid "Use clearlogos instead of thumbnails"
-msgstr "Verwende Clearlogo anstelle von TV Serien Miniaturbilder"
+msgstr "Verwende Clearlogo anstelle von Serien Miniaturbilder"
 
 msgctxt "#40237"
 msgid "Add rule"
@@ -1554,3 +1554,11 @@ msgstr "Verstecke Bilder Information"
 msgctxt "#40242"
 msgid "Mosaics"
 msgstr "Mosaik"
+
+msgctxt "#40243"
+msgid "Hide time and date"
+msgstr "Verstecke Zeit und Datum"
+
+msgctxt "#40244"
+msgid "Hide time and date on top bar."
+msgstr "Wenn aktiviert, werden Zeit und Datum in der Kopfleiste nicht angezeigt."
