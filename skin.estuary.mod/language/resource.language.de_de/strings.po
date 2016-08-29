@@ -1401,7 +1401,7 @@ msgstr "Videoinformationen"
 
 msgctxt "#40203"
 msgid "Hardware decoding"
-msgstr "Hardware Decoding"
+msgstr "Hardware Dekoder"
 
 msgctxt "#40204"
 msgid "Inactive"
