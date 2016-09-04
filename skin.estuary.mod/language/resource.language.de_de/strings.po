@@ -1017,9 +1017,13 @@ msgctxt "#40105"
 msgid "Hide notification popup during video or music playback."
 msgstr "Mitteilungen werden während der Wiedergabe von Medien nicht angezeigt."
 
-# empty strings "40106"
+msgctxt "#40106"
+msgid "Select widgets first"
+msgstr "Im Hauptmenü zuerst das Widget selektieren"
 
-# empty strings "40107"
+msgctxt "#40107"
+msgid "Navigates main menu to widgets rather than main menu to submenus icons."
+msgstr "Wenn aktiviert wird im Hauptmenü zuerst zum Widget navigiert und nicht zum Untermenü."
 
 msgctxt "#40108"
 msgid "Next aired"
