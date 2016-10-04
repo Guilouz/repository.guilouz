@@ -595,6 +595,31 @@ msgctxt "#31142"
 msgid "Play speed"
 msgstr "Abspielgeschwindigkeit"
 
+#: /1080i/Home.xml
+msgctxt "#31143"
+msgid "You did not set up PVR yet. In order to use PVR, choose a PVR client addon and configure it. Please visit http://kodi.wiki/view/PVR to learn more."
+msgstr "Du hast PVR noch nicht eingerichtet. Um PVR zu verwenden, musst Du einen PVR-Client auswählen und konfigurieren. Bitte besuche http://kodi.wiki/view/PVR um mehr zu erfahren."
+
+#: /1080i/Home.xml
+msgctxt "#31144"
+msgid "Enter add-on browser"
+msgstr "Zum Addon-Browser"
+
+#: /1080i/Custom_1107_SearchDialog.xml
+msgctxt "#31145"
+msgid "Search add-ons"
+msgstr "Finde Addons"
+
+#: /1080i/Home.xml
+msgctxt "#31146"
+msgid "Verwalte Addons"
+msgstr "Gérer les extensions"
+
+#: /1080i/Home.xml
+msgctxt "#31147"
+msgid "Download add-ons"
+msgstr "Addons herunter laden"
+
 msgctxt "#40000"
 msgid "Show movies and tv shows clearlogos"
 msgstr "Zeige Film und Serien Clearlogos"
@@ -707,7 +732,9 @@ msgctxt "#40027"
 msgid "Show artists clearlogos"
 msgstr "Zeige Künstler Clearlogos"
 
-# empty strings "40028"
+msgctxt "#40028"
+msgid "Hide plots to avoid spoilers"
+msgstr "Verstecke Handlungen zur Verhinderung von Spoilern"
 
 msgctxt "#40029"
 msgid "Enable extrafanarts for background"
@@ -1121,7 +1148,9 @@ msgctxt "#40131"
 msgid "Show artists clearlogos on music library."
 msgstr "Zeige Künstler Clearlogos in der Musikbibliothek."
 
-# empty strings "40132"
+msgctxt "#40132"
+msgid "Plot masked to avoid spoilers"
+msgstr "Maskiere Handlungen zur Verhinderung von Spoilern"
 
 msgctxt "#40133"
 msgid "Show studios and recordslabels icons on library."
@@ -1570,3 +1599,7 @@ msgstr "Verstecke Zeit und Datum"
 msgctxt "#40244"
 msgid "Hide time and date on top bar."
 msgstr "Wenn aktiviert, werden Zeit und Datum in der Kopfleiste nicht angezeigt."
+
+msgctxt "#40245"
+msgid "Hide plots of unwatched episodes to avoid spoilers."
+msgstr "Verstecke Handlungen bei ungesehenen Folgen zur Verhinderung von Spoilern."
