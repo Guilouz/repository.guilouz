@@ -1603,3 +1603,19 @@ msgstr "Wenn aktiviert, werden Zeit und Datum in der Kopfleiste nicht angezeigt.
 msgctxt "#40245"
 msgid "Hide plots of unwatched episodes to avoid spoilers."
 msgstr "Verstecke Handlungen bei ungesehenen Folgen zur Verhinderung von Spoilern."
+
+msgctxt "#40246"
+msgid "Unwatched movies recently added"
+msgstr "Kürzlich hinzugefügte ungesehene Filme"
+
+msgctxt "#40247"
+msgid "Unwatched episodes recently added"
+msgstr "Kürzlich hinzugefügte ungesehene Serienfolgen"
+
+msgctxt "#40248"
+msgid "Hide watched items from recently added"
+msgstr "Verstecke gesehene, kürzlich hinzugefügte Medien"
+
+msgctxt "#40249"
+msgid "Unwatched music videos recently added"
+msgstr "Kürzlich hinzugefügte ungesehene Musikvideos"
