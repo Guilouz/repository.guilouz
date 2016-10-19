@@ -1619,3 +1619,7 @@ msgstr "Verstecke gesehene, kürzlich hinzugefügte Medien"
 msgctxt "#40249"
 msgid "Unwatched music videos recently added"
 msgstr "Kürzlich hinzugefügte ungesehene Musikvideos"
+
+msgctxt "#40250"
+msgid "Bigger font"
+msgstr "Größere Schrift"
