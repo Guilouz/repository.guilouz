@@ -1623,3 +1623,11 @@ msgstr "Kürzlich hinzugefügte ungesehene Musikvideos"
 msgctxt "#40250"
 msgid "Bigger font"
 msgstr "Größere Schrift"
+
+msgctxt "#40251"
+msgid "Pause video during access to extended info"
+msgstr "Unterbreche Wiedergabe während Zugriff auf erweiterte Informationen"
+
+msgctxt "#40252"
+msgid "Pause video when viewing extended info."
+msgstr "Die Medienwiedergabe wird unterbrochen, wenn auf die erweiterten Informationen zugegriffen wird."
