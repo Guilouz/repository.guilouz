@@ -942,7 +942,7 @@ msgstr "Zugriff auf Dateibrowser"
 
 msgctxt "#40080"
 msgid "Access to power options"
-msgstr "Zugriff auf Shutdown Menü"
+msgstr "Zugriff auf Energie-Optionen"
 
 msgctxt "#40081"
 msgid "Do a research"
@@ -1631,3 +1631,43 @@ msgstr "Unterbreche Wiedergabe während Zugriff auf erweiterte Informationen"
 msgctxt "#40252"
 msgid "Pause video when viewing extended info."
 msgstr "Die Medienwiedergabe wird unterbrochen, wenn auf die erweiterten Informationen zugegriffen wird."
+
+msgctxt "#40253"
+msgid "Background of 'Search...' shortcut"
+msgstr "Hintergrundbild für 'Suche...' Verknüpfung"
+
+msgctxt "#40254"
+msgid "Background of 'Favourites' shortcut"
+msgstr "Hintergrundbild für 'Favoriten' Verknüpfung"
+
+msgctxt "#40255"
+msgid "Background of 'File browser' shortcut"
+msgstr "Hintergrundbild für 'Dateibrowser' Verknüpfung"
+
+msgctxt "#40256"
+msgid "Background of 'Settings' shortcut"
+msgstr "Hintergrundbild für 'Einstellungen' Verknüpfung"
+
+msgctxt "#40257"
+msgid "Background of 'Power options' shortcut"
+msgstr "Hintergrundbild für 'Energie-Optionen' Verknüpfung"
+
+msgctxt "#40258"
+msgid "Replace background of [B]Search...[/B] shortcut."
+msgstr "Ein eigenes Hintergrundbild für die [B]Suche...[/B] Verknüpfung festlegen."
+
+msgctxt "#40259"
+msgid "Replace background of [B]Favourites[/B] shortcut."
+msgstr "Ein eigenes Hintergrundbild für die [B]Favoriten[/B] Verknüpfung festlegen."
+
+msgctxt "#40260"
+msgid "Replace background of [B]File browser[/B] shortcut."
+msgstr "Ein eigenes Hintergrundbild für die [B]Dateibrowser[/B] Verknüpfung festlegen."
+
+msgctxt "#40261"
+msgid "Replace background of [B]Settings[/B] shortcut."
+msgstr "Ein eigenes Hintergrundbild für die [B]Einstellungen[/B] Verknüpfung festlegen."
+
+msgctxt "#40262"
+msgid "Replace background of [B]Power options[/B] shortcut."
+msgstr "Ein eigenes Hintergrundbild für die [B]Energie-Optionen[/B] Verknüpfung festlegen."
