@@ -1676,3 +1676,35 @@ msgstr "Ein eigenes Hintergrundbild für die [B]Einstellungen[/B] Verknüpfung f
 msgctxt "#40262"
 msgid "Replace background of [B]Power options[/B] shortcut."
 msgstr "Ein eigenes Hintergrundbild für die [B]Energie-Optionen[/B] Verknüpfung festlegen."
+
+msgctxt "#40263"
+msgid "Disable item."
+msgstr "Den ausgewählten Eintrag deaktivieren."
+
+msgctxt "#40264"
+msgid "Enable item."
+msgstr "Den ausgewählten Eintrag aktivieren."
+
+msgctxt "#40265"
+msgid "Up item"
+msgstr "Eintrag nach oben"
+
+msgctxt "#40266"
+msgid "Down item"
+msgstr "Eintrag nach unten"
+
+msgctxt "#40267"
+msgid "Add item"
+msgstr "Eintrag hinzugügen"
+
+msgctxt "#40268"
+msgid "Enable item"
+msgstr "Eintrag aktivieren"
+
+msgctxt "#40269"
+msgid "Disable item"
+msgstr "Eintrag deaktivieren"
+
+msgctxt "#40270"
+msgid "Delete item"
+msgstr "Eintrag löschen"
