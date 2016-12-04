@@ -1715,4 +1715,16 @@ msgstr "Standard vertikales Menü verwenden"
 
 msgctxt "#40272"
 msgid "Use basic vertical menu instead of dynamic vertical menu."
-msgstr "Verwende das vertikale Menü in der Standardversion anstelle der dynamischen Version." 
+msgstr "Verwende das vertikale Menü in der Standardversion anstelle der dynamischen Version."
+
+msgctxt "#40273"
+msgid "No bookmarks created yet."
+msgstr "Du hast noch keine Lesezeichen angelegt."
+
+msgctxt "#40274"
+msgid "Show Extrafanarts"
+msgstr "Zeige Extra Fanarts"
+
+msgctxt "#40275"
+msgid "Show multiple backgrounds on the home menu and library."
+msgstr "Zeige mehrere Hintergründe im Home Menü und den Bibliotheken."
