@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Estuary Mod KODI Skin\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2016-11-13 15:10+0300\n"
+"PO-Revision-Date: 2016-12-05 13:20+0300\n"
 "Last-Translator: Kodi Translation Team\n"
 "Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/kodi-"
 "main/language/ru_RU/)\n"
@@ -535,8 +535,8 @@ msgstr "Настройки канала"
 
 #: /1080i/LoginScreen.xml:26
 msgctxt "#31098"
-msgid "Select your Kodi user profile[CR]to login and continue"
-msgstr "Выберите профиль пользователя Kodi,[CR]чтобы войти и продолжить"
+msgid "Select your Kodi user profile to login and continue"
+msgstr "Выберите ваш профиль пользователя Kodi для входа и продолжения"
 
 #: /1080i/View_52_IconWall.xml:21
 msgctxt "#31099"
@@ -1947,6 +1947,31 @@ msgstr "Использовать простое вертикальное мен�
 msgctxt "#40272"
 msgid "Use basic vertical menu instead of dynamic vertical menu."
 msgstr "Использовать простое вертикальное меню вместо динамического."
+
+msgctxt "#40273"
+msgid "No bookmarks created yet."
+msgstr "Пока что нет созданных закладок"
+
+msgctxt "#40274"
+msgid "Show Extrafanarts"
+msgstr "Показывать экстра-фанарт"
+
+msgctxt "#40275"
+msgid "Show multiple backgrounds on the home menu and library."
+msgstr "Показывать множественные фоны в главном меню и библиотеке"
+
+msgctxt "#40276"
+msgid "Disable Kodi screensaver"
+msgstr "Отключить хранитель экрана Kodi"
+
+msgctxt "#40277"
+msgid "Disable Kodi screensaver on fullscreen music playback."
+msgstr ""
+"Отключить хранитель экрана Kodi при полноэкранном воспроизведении музыки"
+
+#~ msgctxt "#31098"
+#~ msgid "Select your Kodi user profile[CR]to login and continue"
+#~ msgstr "Выберите профиль пользователя Kodi,[CR]чтобы войти и продолжить"
 
 #~ msgctxt "#31030"
 #~ msgid "Memory used"
