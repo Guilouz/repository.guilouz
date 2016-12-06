@@ -26,7 +26,7 @@ msgstr "Cerca..."
 
 msgctxt "#31002"
 msgid "Show media fanart as background"
-msgstr "Mostra fanart elementi come sfondo"
+msgstr "Mostra elementi fanart come sfondo"
 
 msgctxt "#31003"
 msgid "Cinema mode"
@@ -38,7 +38,7 @@ msgstr "Cambia modalità"
 
 msgctxt "#31005"
 msgid "Watch as 2D"
-msgstr "Guarda come 2D"
+msgstr "Guarda in 2D"
 
 msgctxt "#31006"
 msgid "Random movies"
@@ -182,7 +182,7 @@ msgstr "Annulla aggiornamento"
 
 msgctxt "#31041"
 msgid "Camera manufacturer"
-msgstr "Produttore fotocamera"
+msgstr "Produttore camera"
 
 msgctxt "#31042"
 msgid "Playlist options"
@@ -190,7 +190,7 @@ msgstr "Opzioni Playlist"
 
 msgctxt "#31043"
 msgid "Set the type and add rules to create a smart playlist. These playlists are dynamic and include all media items from your database which apply to your chosen rules."
-msgstr "Imposta il tipo e aggiungi regole per creare una playlist intelligente. Queste playlist sono dinamiche e includono tutti gli elementi multimediali dal tuo database che rispettano le regole scelte."
+msgstr "Imposta il tipo e aggiungi regole per creare una smart playlist. Queste playlist sono dinamiche e includono tutti gli elementi multimediali dal tuo database che rispettano le regole scelte."
 
 msgctxt "#31044"
 msgid "Add group"
@@ -218,7 +218,7 @@ msgstr "Premi [B]Su[/B] per riavvolgere o avanzare velocemente"
 
 msgctxt "#31050"
 msgid "Press [B]OK[/B] to stop"
-msgstr "Premi [B]OK[/B] per fermare"
+msgstr "Premi [B]OK[/B] per stop"
 
 msgctxt "#31051"
 msgid "Toggle language"
@@ -246,7 +246,7 @@ msgstr "Vai a Playlist"
 
 msgctxt "#31057"
 msgid "Show login screen on startup"
-msgstr "Mostra schermata login all'avvio"
+msgstr "Mostra schermata di login all'avvio"
 
 msgctxt "#31058"
 msgid "Automatic Login on startup"
@@ -266,7 +266,7 @@ msgstr "Elementi menù principale"
 
 msgctxt "#31062"
 msgid "Shortcuts to the \"Files\" sections of each media type. Go there to add additional sources for your databases."
-msgstr "Collegamenti alle sezioni \"File\" di ogni tipo di contenuto. Vai li per aggiungere sorgenti aggiuntive per i tuoi database."
+msgstr "Collegamenti alle sezioni \"File\" di ogni tipo di contenuto media. Vai li per aggiungere sorgenti aggiuntive per i tuoi database."
 
 msgctxt "#31063"
 msgid "Sections"
@@ -294,11 +294,11 @@ msgstr "Scegli predefiniti"
 
 msgctxt "#31069"
 msgid "Last Updated"
-msgstr "Ultimo agg."
+msgstr "Ultimo aggiornamento"
 
 msgctxt "#31070"
 msgid "Add media sources"
-msgstr "Aggiungi sorgenti"
+msgstr "Aggiungi sorgenti media"
 
 msgctxt "#31071"
 msgid "by"
@@ -314,7 +314,7 @@ msgstr "Titoli"
 
 msgctxt "#31074"
 msgid "Library root"
-msgstr "Root Libreria"
+msgstr "Radice della Libreria"
 
 msgctxt "#31075"
 msgid "Movie sets"
@@ -350,11 +350,11 @@ msgstr "Add-on Testi"
 
 msgctxt "#31083"
 msgid "Lyrics add-on settings"
-msgstr "Impostazioni Add-On Testi"
+msgstr "Impostazioni add-on Testi"
 
 msgctxt "#31084"
 msgid "Visualisation settings"
-msgstr "Impostazioni visualizzazione"
+msgstr "Impostazioni di visualizzazione"
 
 msgctxt "#31085"
 msgid "Channel Group"
@@ -382,11 +382,11 @@ msgstr "Cerca trailer"
 
 msgctxt "#31091"
 msgid "Download subtitles"
-msgstr "Scarica Sottotitoli"
+msgstr "Scarica sottotitoli"
 
 msgctxt "#31092"
 msgid "Video menu"
-msgstr "Menù Video"
+msgstr "Menu Video"
 
 msgctxt "#31093"
 msgid "Show weather info in top bar"
@@ -394,7 +394,7 @@ msgstr "Mostra info Meteo nella barra superiore"
 
 msgctxt "#31094"
 msgid "Show media flags for movies / episodes / music videos"
-msgstr "Mostra etichette media per film / episodi / video musicali"
+msgstr "Mostra icone media per film / episodi / video musicali"
 
 msgctxt "#31095"
 msgid "Use slide animations"
@@ -422,7 +422,7 @@ msgstr "Sposta"
 
 msgctxt "#31101"
 msgid "InfoWall"
-msgstr "Muro Info"
+msgstr "InfoWall"
 
 msgctxt "#31102"
 msgid "Wall"
@@ -430,7 +430,7 @@ msgstr "Muro"
 
 msgctxt "#31103"
 msgid "Enter text here..."
-msgstr "Inserisci testo..."
+msgstr "Inserisci il testo qui..."
 
 msgctxt "#31104"
 msgid "Your library is currently empty. In order to populate it with your personal media, enter \"Files\" section, add a media source and configure it. After the source has been added and indexed you will be able to browse your library."
@@ -454,7 +454,7 @@ msgstr "Usa sfondo globale personalizzato"
 
 msgctxt "#31109"
 msgid "Choose image path"
-msgstr "Scegli percorso immagine"
+msgstr "Scegli il percorso immagine"
 
 msgctxt "#31110"
 msgid "Enter files section"
@@ -462,7 +462,7 @@ msgstr "Inserisci sezione file"
 
 msgctxt "#31111"
 msgid "View your personal pictures or download one of the many image add-ons from the official repository."
-msgstr "Vedi le tue immagini personali o scarica uno dei tanti Add-On immagini dalla repository ufficiale."
+msgstr "Vedi le tue immagini personali o scarica uno dei tanti add-on immagini dal repository ufficiale."
 
 msgctxt "#31112"
 msgid "Toggle audio stream"
@@ -474,7 +474,7 @@ msgstr "Cerca nella libreria locale"
 
 msgctxt "#31114"
 msgid "Search YouTube"
-msgstr "Cerca su Youtube"
+msgstr "Cerca su YouTube"
 
 msgctxt "#31115"
 msgid "Search TheMovieDB"
@@ -482,7 +482,7 @@ msgstr "Cerca su TheMovieDB"
 
 msgctxt "#31116"
 msgid "Remove this main menu item"
-msgstr "Rimuovi questo elemento menù principale"
+msgstr "Rimuovi questo elemento dal menu principale"
 
 msgctxt "#31117"
 msgid "Edit nodes"
@@ -494,11 +494,11 @@ msgstr "Inserisci browser Add-On"
 
 msgctxt "#31119"
 msgid "You do not have any add-ons installed yet. Visit our add-on browser to browse through our collection and improve your Kodi experience."
-msgstr "Non hai ancora alcun Add-On installato. Visita il nostro browser Add-On per sfogliare la nostra collezione e migliorare la tua esperienza Kodi."
+msgstr "Non hai ancora alcun add-on installato. Visita il nostro browser add-on per sfogliare la nostra collezione e migliorare la tua esperienza Kodi."
 
 msgctxt "#31120"
 msgid "You did not set up a weather provider yet. In order to view weather information, choose a weather provider and set up your location."
-msgstr "Non hai ancora impostato un provider meteo. Per poter vedere le informazioni meteo, scegli un provider meteo e imposta la tua località."
+msgstr "Non hai ancora impostato un provider meteo. Per vedere le informazioni meteo, scegli un provider meteo e imposta la tua località."
 
 msgctxt "#31121"
 msgid "Set weather provider"
@@ -534,7 +534,7 @@ msgstr "Collaboratori"
 
 msgctxt "#31129"
 msgid "General settings applying to all areas of the skin."
-msgstr "Impostazioni generali che si applicano a tutte le aree della skin."
+msgstr "Impostazioni generali che si applicano a tutte le aree dell'interfaccia."
 
 msgctxt "#31130"
 msgid "Main menu-related settings: Configure the home screen to your likings."
@@ -542,7 +542,7 @@ msgstr "Impostazioni relative al menù principale: Configura la schermata home c
 
 msgctxt "#31131"
 msgid "Choose home fanart pack"
-msgstr "Scegli pacchetto fanart home"
+msgstr "Scegli il pacchetto fanart home"
 
 msgctxt "#31132"
 msgid "min"
@@ -552,6 +552,1189 @@ msgctxt "#31133"
 msgid "Hide"
 msgstr "Nascondi"
 
+#: /1080i/DialogSeekBar.xml
 msgctxt "#31134"
 msgid "Remaining"
 msgstr "Rimanenti"
+
+#: /1080i/DialogAddonInfo.xml
+msgctxt "#31135"
+msgid "Installed from"
+msgstr "Installato da"
+
+#: /1080i/DialogAddonInfo.xml
+msgctxt "#31136"
+msgid "Click here to see latest changes..."
+msgstr "Clicca qui per vedere le ultime modifiche..."
+
+#: /1080i/DialogPlayerProcessInfo.xml
+msgctxt "#31137"
+msgid "PVR info"
+msgstr "Info PVR"
+
+#: /1080i/DialogPlayerProcessInfo.xml
+msgctxt "#31138"
+msgid "Player process info"
+msgstr "Info Player process"
+
+#: /1080i/DialogPlayerProcessInfo.xml
+msgctxt "#31139"
+msgid "Video decoder"
+msgstr "Video decoder"
+
+#: /1080i/DialogPlayerProcessInfo.xml
+msgctxt "#31140"
+msgid "Pixel format"
+msgstr "Formato pixel"
+
+#: /1080i/DialogAddonInfo.xml
+msgctxt "#31141"
+msgid "Changes for version"
+msgstr "Modifiche di versione"
+
+#: /1080i/Variables.xml
+msgctxt "#31142"
+msgid "Play speed"
+msgstr "Velocità di Play"
+
+#: /1080i/Home.xml
+msgctxt "#31143"
+msgid "You did not set up PVR yet. In order to use PVR, choose a PVR client addon and configure it. Please visit http://kodi.wiki/view/PVR to learn more."
+msgstr "Non hai ancora impostato un PVR. Per usare PVR, scegli un addon client PVR e configuralo. Visita  http://kodi.wiki/view/PVR per maggiori informazioni."
+
+#: /1080i/Home.xml
+msgctxt "#31144"
+msgid "Enter add-on browser"
+msgstr "Entra nel browser add-on"
+
+#: /1080i/Custom_1107_SearchDialog.xml
+msgctxt "#31145"
+msgid "Search add-ons"
+msgstr "Cerca add-ons"
+
+#: /1080i/Home.xml
+msgctxt "#31146"
+msgid "Manage add-ons"
+msgstr "Gestisci add-ons"
+
+#: /1080i/Home.xml
+msgctxt "#31147"
+msgid "Download add-ons"
+msgstr "Scarica add-ons"
+
+#: /1080i/DialogNumeric.xml
+msgctxt "#31151"
+msgid "Numeric keypad"
+msgstr "Tastiera numerica"
+
+msgctxt "#40000"
+msgid "Show movies and tv shows clearlogos"
+msgstr "Mostra clearlogos di film e di Serie TV"
+
+msgctxt "#40001"
+msgid "Customize power menu"
+msgstr "Personalizza il Menu Alimentazione"
+
+msgctxt "#40002"
+msgid "Home menu"
+msgstr "Home menu"
+
+msgctxt "#40003"
+msgid "Reset menus settings"
+msgstr "Resetta le impostazioni dei menu"
+
+msgctxt "#40004"
+msgid "Debug infos"
+msgstr "Info di Debug"
+
+msgctxt "#40005"
+msgid "Extras"
+msgstr "Extras"
+
+msgctxt "#40006"
+msgid "Background options"
+msgstr "Opzioni di background"
+
+msgctxt "#40007"
+msgid "Display options"
+msgstr "Opzioni di visualizzazione"
+
+msgctxt "#40008"
+msgid "Weather widget"
+msgstr "Widget Meteo"
+
+msgctxt "#40009"
+msgid "Movies widget"
+msgstr "Widget Film"
+
+msgctxt "#40010"
+msgid "TV Shows widget"
+msgstr "Widget Serie TV"
+
+msgctxt "#40011"
+msgid "Music widget"
+msgstr "Widget Musica"
+
+msgctxt "#40012"
+msgid "Addons widget"
+msgstr "Widget Addons"
+
+msgctxt "#40013"
+msgid "Media sources widget"
+msgstr "Widget sorgenti media"
+
+msgctxt "#40014"
+msgid "Live TV widget - Channels"
+msgstr "Widget Live TV - Canali"
+
+msgctxt "#40015"
+msgid "Radios widget"
+msgstr "Widget Radio"
+
+msgctxt "#40016"
+msgid "Pictures widget"
+msgstr "Widget Immagini"
+
+msgctxt "#40017"
+msgid "Enable horizontal menu"
+msgstr "Abilita menu orizzontale"
+
+msgctxt "#40018"
+msgid "Video Sources"
+msgstr "Sorgenti Video"
+
+msgctxt "#40019"
+msgid "Audio Sources"
+msgstr "Sorgenti Audio"
+
+msgctxt "#40020"
+msgid "Replace vertical home menu by horizontal menu."
+msgstr "Sostituisci il menu Home da verticale ad orizzontale."
+
+msgctxt "#40021"
+msgid "Enable horizontal advanced menu"
+msgstr "Abilita il menu avanzato orizzontale"
+
+msgctxt "#40022"
+msgid "Replace vertical home menu by horizontal advanced menu."
+msgstr "Sostituisci il menu Home da verticale ad orizzontale avanzato."
+
+msgctxt "#40023"
+msgid "Set images path"
+msgstr "Scegli il percorso immagini"
+
+msgctxt "#40024"
+msgid "Display settings applying to all areas of the skin."
+msgstr "Le impostazioni di visualizzazione si applicano a tutta l'area dell'interfaccia."
+
+msgctxt "#40025"
+msgid "Background settings applying to all areas of the skin."
+msgstr "Le impostazioni di sfondo si applicano a tutta l'area dell'interfaccia."
+
+msgctxt "#40026"
+msgid "Additional settings."
+msgstr "Impostazioni addizionali."
+
+msgctxt "#40027"
+msgid "Show artists clearlogos"
+msgstr "Visualizza i clearlogos degli artisti"
+
+msgctxt "#40028"
+msgid "Hide plots to avoid spoilers"
+msgstr "Nascondi le trame per evitare sploiler"
+
+msgctxt "#40029"
+msgid "Enable extrafanarts for background"
+msgstr "Abilita gli extrafanarts per lo sfondo"
+
+msgctxt "#40030"
+msgid "Enable extrafanarts for thumb"
+msgstr "Abilita gli extrafanarts per le vignette"
+
+msgctxt "#40031"
+msgid "Animate background"
+msgstr "Sfondo animato"
+
+msgctxt "#40032"
+msgid "Show visualisation effects"
+msgstr "Visualizza gli effetti di visualizzazione"
+
+msgctxt "#40033"
+msgid "Music OSD"
+msgstr "OSD Musica"
+
+msgctxt "#40034"
+msgid "Visualization of the music screen related settings."
+msgstr "Parametri relativi alla schermata di visualizzazione della musica."
+
+msgctxt "#40035"
+msgid "Show CDArt"
+msgstr "Visualizza CDArt"
+
+msgctxt "#40036"
+msgid "Splash screen (photo, video or music)"
+msgstr "Splash screen (foto, video o musica)"
+
+msgctxt "#40037"
+msgid "None"
+msgstr "Nessuno"
+
+msgctxt "#40038"
+msgid "Start automatically Artwork Downloader after library update"
+msgstr "Avvia automaticamente Artwork Downloader dopo l'aggiornamento della libreria"
+
+msgctxt "#40039"
+msgid "Backup / Restore"
+msgstr "Backup / Ripristino"
+
+msgctxt "#40040"
+msgid "Backup skin settings"
+msgstr "Backup dei settaggi dell'interfaccia"
+
+msgctxt "#40041"
+msgid "Restore skin settings from file"
+msgstr "Ripristina i settaggi dell'interfaccia da file"
+
+msgctxt "#40042"
+msgid "Reset skin settings to defaults"
+msgstr "Ripristina i settaggi dell'interfaccia al predefinito"
+
+msgctxt "#40043"
+msgid "Backup and restore settings of skin settings."
+msgstr "Backup e ripristino dei settaggi dell'interfaccia."
+
+msgctxt "#40044"
+msgid "Video OSD"
+msgstr "OSD Video"
+
+msgctxt "#40045"
+msgid "Show ClearArt on video infos"
+msgstr "Mostra le ClearArt sulle info Video"
+
+msgctxt "#40046"
+msgid "Visualization of the video screen related settings."
+msgstr "Impostazioni per la schermata di visualizzazione video."
+
+msgctxt "#40047"
+msgid "Necessary addons"
+msgstr "Addons necessari"
+
+msgctxt "#40048"
+msgid "Necessary addons for good performance."
+msgstr "Addons necessari per prestazioni ottimali."
+
+msgctxt "#40049"
+msgid "Show ClearArt with NextUp Notification addon"
+msgstr "Mostra le ClearArt con l'addon NextUp Notification"
+
+msgctxt "#40050"
+msgid "Enter the paths of your RSS feeds"
+msgstr "Inserisci il percorso dell'RSS feeds"
+
+msgctxt "#40051"
+msgid "Select a Set"
+msgstr "Seleziona un Set"
+
+msgctxt "#40052"
+msgid "Show studios / recordslabels icons"
+msgstr "Mostra le icone Studios / Case discografiche"
+
+msgctxt "#40053"
+msgid "Studios icons"
+msgstr "Icone Studios"
+
+msgctxt "#40054"
+msgid "Weather icons"
+msgstr "Icone Meteo"
+
+msgctxt "#40055"
+msgid "Media flags of the same color as skin"
+msgstr "Icone Media dello stesso colore dell'interfaccia"
+
+msgctxt "#40056"
+msgid "Show animated posters"
+msgstr "Mostra i Posters animati"
+
+msgctxt "#40057"
+msgid "Context menu"
+msgstr "Menu contestuale"
+
+msgctxt "#40058"
+msgid "TV shows next aired"
+msgstr "Serie TV prossimamente in onda"
+
+msgctxt "#40059"
+msgid "Similar"
+msgstr "Similari"
+
+msgctxt "#40060"
+msgid "Multi fanarts for weather"
+msgstr "Fanarts multipli per il meteo"
+
+msgctxt "#40061"
+msgid "Info bars are always displayed"
+msgstr "Le barre d'informazioni sono sempre visualizzate"
+
+msgctxt "#40062"
+msgid "Recordslabels icons"
+msgstr "Icone case discografiche"
+
+msgctxt "#40063"
+msgid "Show media path"
+msgstr "Visualizza percorso Media"
+
+msgctxt "#40064"
+msgid "Media path"
+msgstr "Percordo Media"
+
+msgctxt "#40065"
+msgid "Kiosk Mode"
+msgstr "Modo Kiosk"
+
+msgctxt "#40066"
+msgid "Background opacity"
+msgstr "Opacità dello sfondo"
+
+msgctxt "#40067"
+msgid "Opacity "
+msgstr "Opacità "
+
+msgctxt "#40068"
+msgid "Never"
+msgstr "Mai"
+
+msgctxt "#40069"
+msgid "Only on library"
+msgstr "Solo sulla libreria"
+
+msgctxt "#40070"
+msgid "All over skin"
+msgstr "Su tutta l'interfaccia"
+
+msgctxt "#40071"
+msgid "Hide info bars"
+msgstr "Nascondi le barre d'informazione"
+
+msgctxt "#40072"
+msgid "Info bars are hidden only on library"
+msgstr "Le barre d'informazione sono nascoste solo sulla libreria"
+
+msgctxt "#40073"
+msgid "Info bars are hidden all over skin"
+msgstr "Le barre d'informazione sono nascoste su tutta l'interfaccia"
+
+msgctxt "#40074"
+msgid "Add-on settings"
+msgstr "Impostazioni Add-on"
+
+msgctxt "#40075"
+msgid "Hidden TV channels"
+msgstr "Canali TV nascosti"
+
+msgctxt "#40076"
+msgid "Visible TV channels"
+msgstr "Canali TV visibili"
+
+msgctxt "#40077"
+msgid "Access all of your favorites"
+msgstr "Accesso a tutti i tuoi preferiti"
+
+msgctxt "#40078"
+msgid "Access all settings"
+msgstr "Accesso a tutte le impostazioni"
+
+msgctxt "#40079"
+msgid "Access to filemanager"
+msgstr "Accesso al filemanager"
+
+msgctxt "#40080"
+msgid "Access to power options"
+msgstr "Accesso alle opzioni di Alimentazione"
+
+msgctxt "#40081"
+msgid "Do a research"
+msgstr "Effettua una ricerca"
+
+msgctxt "#40082"
+msgid "Custom busy spinner"
+msgstr "Icona personalizzata di occupato"
+
+msgctxt "#40083"
+msgid "Show background video"
+msgstr "Guarda il video in background"
+
+msgctxt "#40084"
+msgid "Type of Widgets"
+msgstr "Tipi di Widgets"
+
+msgctxt "#40085"
+msgid "Skin Helper Service Widgets"
+msgstr "Widgets del servizio di Skin Helper"
+
+msgctxt "#40086"
+msgid "Hide widget banner"
+msgstr "Nascondi il widget banner"
+
+msgctxt "#40087"
+msgid "ClearArt position"
+msgstr "Posizione di ClearArt"
+
+msgctxt "#40088"
+msgid "To the right"
+msgstr "A destra"
+
+msgctxt "#40089"
+msgid "To the left"
+msgstr "A sinistra"
+
+msgctxt "#40090"
+msgid "In the center"
+msgstr "Al centro"
+
+msgctxt "#40091"
+msgid "Big fanart"
+msgstr "Fanart grandi"
+
+msgctxt "#40092"
+msgid "Aired"
+msgstr "In onda"
+
+msgctxt "#40093"
+msgid "Big posters"
+msgstr "Posters grandi"
+
+msgctxt "#40094"
+msgid "Library"
+msgstr "Libreria"
+
+msgctxt "#40095"
+msgid "In-progress movies"
+msgstr "Film in corso"
+
+msgctxt "#40096"
+msgid "Most played albums"
+msgstr "Albums più riprodotti"
+
+msgctxt "#40097"
+msgid "Random albums"
+msgstr "Albums casuali"
+
+msgctxt "#40098"
+msgid "Random artists"
+msgstr "Artisti casuali"
+
+msgctxt "#40099"
+msgid "Random movies"
+msgstr "Film casuali"
+
+msgctxt "#40100"
+msgid "Random music videos"
+msgstr "Video clips casuali"
+
+msgctxt "#40101"
+msgid "Unplayed albums"
+msgstr "Albums non riprodotti"
+
+msgctxt "#40102"
+msgid "Unwatched movies"
+msgstr "Film non visti"
+
+msgctxt "#40103"
+msgid "Unwatched TV shows"
+msgstr "Serie TV non viste"
+
+msgctxt "#40104"
+msgid "Hide notification popup during playback"
+msgstr "Nascondi il popup di notifica durante la riproduzione"
+
+msgctxt "#40105"
+msgid "Hide notification popup during video or music playback."
+msgstr "Nascondi il popup di notifica durante la riproduzione di video o musica."
+
+msgctxt "#40106"
+msgid "Select widgets first"
+msgstr "Seleziona prima il widgets"
+
+msgctxt "#40107"
+msgid "Navigates main menu to widgets rather than main menu to submenus icons."
+msgstr "Naviga dal menu principale ai widgets piuttosto che dal menu principale alle icone dei sottomenu."
+
+msgctxt "#40108"
+msgid "Next aired"
+msgstr "Prossimamente in onda"
+
+msgctxt "#40109"
+msgid "Last aired"
+msgstr "Ultima trasmissione"
+
+msgctxt "#40110"
+msgid "Views"
+msgstr "Visualizzazioni"
+
+msgctxt "#40111"
+msgid "Hardware info"
+msgstr "Informazioni hardware"
+
+msgctxt "#40112"
+msgid "Hard disk usage:"
+msgstr "Utilizzo Hard Disk:"
+
+msgctxt "#40113"
+msgid "Show background visualisation effects"
+msgstr "Mostra gli effetti di visualizzaione sullo sfondo"
+
+msgctxt "#40114"
+msgid "Music videos - Library"
+msgstr "Video musicali - Libreria"
+
+msgctxt "#40115"
+msgid "Music videos widget"
+msgstr "Widget dei Video musicali"
+
+msgctxt "#40116"
+msgid "Unwatched music videos"
+msgstr "Video musicali non visti"
+
+msgctxt "#40117"
+msgid "Most watched music videos"
+msgstr "Video musicali più visti"
+
+msgctxt "#40118"
+msgid "Lyrics source"
+msgstr "Origine testi"
+
+msgctxt "#40119"
+msgid "Customize items and submenus of the home menu."
+msgstr "Personalizza gli elementi e sotto menu del menu principale."
+
+msgctxt "#40120"
+msgid "Customize items of the power menu."
+msgstr "Personalizza gli elementi del menu Alimentazione."
+
+msgctxt "#40121"
+msgid "Reset default items of the home menu and power menu."
+msgstr "Ripristina al valore predefinito gli elementi del menu Home e del menu Alimentazione."
+
+msgctxt "#40122"
+msgid "Hide top and bottom bars.[CR][[B]Never[/B]] Bars are always displayed.[CR][[B]Only on library[/B]] Bars are hidden only on Movies, TV Shows and Music libraries. [CR][[B]All over skin[/B]] Bars are hidden all over skin."
+msgstr "Nascondi le barre superiori e inferiori.[CR][[B]Mai[/B]] Visualizza sempre le barre.[CR][[B]Solo sulla Libreria[/B]] Nascondi le barre solo sui Film, Serie TV e Libreria Musicale.[CR][[B]Su tutta l'interfaccia[/B]] Nascondi le barre su tutta l'interfaccia."
+
+msgctxt "#40123"
+msgid "Show slide effect of skin windows."
+msgstr "Mostra l'effetto di scorrimento per le finestre dell'interfaccia."
+
+msgctxt "#40124"
+msgid "Enable auto scrolling for plots and reviews."
+msgstr "Abilita l'auto scroll per trame e recensioni."
+
+msgctxt "#40125"
+msgid "Show weather with the time and date on the top bar."
+msgstr "Mostra il meteo con data e ora sulla barra superiore."
+
+msgctxt "#40126"
+msgid "Replace episodes thumbnails by TV shows thumbnails"
+msgstr "Sostituisci le miniature degli episodi con quelle delle Serie TV"
+
+msgctxt "#40127"
+msgid "Show media flags icons such as resolution, ratio, video codec, audio codec, number of channels, duration..."
+msgstr "Mostra le icone dei media per la risoluzione, il rapporto, il codec video, il codec audio, il numero di canali, la durata ..."
+
+msgctxt "#40128"
+msgid "Show media flags to the same color as skin color."
+msgstr "Mostra le icone dei media con lo stesso colore dell'interfaccia."
+
+msgctxt "#40129"
+msgid "Show animated posters instead of conventional posters. Conventional posters will be showed when no animated poster is available."
+msgstr "Mostra i poster animati al posto dei poster convenzionali. I poster convenzionali saranno mostrati quando non sono disponibili poster animati"
+
+msgctxt "#40130"
+msgid "Show movies and TV shows clearlogos on video library."
+msgstr "Mostra i clearlogos di Film e Serie TV sulla libreria video."
+
+msgctxt "#40131"
+msgid "Show artists clearlogos on music library."
+msgstr "Mostra i clearlogos degli artisti sulla libreria musicale."
+
+msgctxt "#40132"
+msgid "Plot masked to avoid spoilers."
+msgstr "Maschera Plot per evitare spoilers."
+
+msgctxt "#40133"
+msgid "Show studios and recordslabels icons on library."
+msgstr "Mostra le icone degli studios e delle case discografiche sulla libreria."
+
+msgctxt "#40134"
+msgid "Select studios icons addon."
+msgstr "Seleziona l'addon per le icone degli studios."
+
+msgctxt "#40135"
+msgid "Select recordslabels icons addon."
+msgstr "Seleziona l'addon per le icone delle case discografiche."
+
+msgctxt "#40136"
+msgid "Show media fanart as background."
+msgstr "Mostra i media Fanarts come sfondo."
+
+msgctxt "#40137"
+msgid "Show video as background when returning on menu and a video is playing."
+msgstr "Mostra il video in background quando si ritorna al menu mentre un filmato è in riproduzione."
+
+msgctxt "#40138"
+msgid "Show visualisation effects as background when a song is playing."
+msgstr "Mostra effetti grafici in background quando un brano è in riproduzione."
+
+msgctxt "#40139"
+msgid "Replace default background by custom background."
+msgstr "Sostituisci lo sfondo predefinito con uno sfondo personalizzato."
+
+msgctxt "#40140"
+msgid "Set location of the custom background."
+msgstr "Imposta la posizione dello sfondo personalizzato."
+
+msgctxt "#40141"
+msgid "Select multi fanarts for weather addon."
+msgstr "Seleziona i multi fanarts per l'addon meteo."
+
+msgctxt "#40142"
+msgid "Set background opacity on all over skin."
+msgstr "Configura l'opacità dello sfondo per tutta l'interfaccia."
+
+msgctxt "#40143"
+msgid "Show slideshow of artist fanarts on music visualisation screen."
+msgstr "Mostra slideshow dei fanart degli artisti sulla schermata di visualizzazione musica."
+
+msgctxt "#40144"
+msgid "Show slideshow of artist fanarts in thumbnail on music visualisation screen."
+msgstr "Mostra slideshow dei fanart degli artisti in miniatura sulla schermata di visualizzazione musica."
+
+msgctxt "#40145"
+msgid "Animate background or slideshow (if enabled) on music visualisation screen."
+msgstr "Sfondo animato delle slideshow (se abilitato) sulla schermata di visualizzazione musica."
+
+msgctxt "#40146"
+msgid "Show visualisation effects on music visualisation screen."
+msgstr "Mostra effetti di visualizzazione sulla schermata di visualizzazione musica."
+
+msgctxt "#40147"
+msgid "Show CDArt on music visualisation screen."
+msgstr "Mostra CDArt sulla schermata di visualizzazione musica."
+
+msgctxt "#40148"
+msgid "Show ClearArt on video OSD."
+msgstr "Mostra ClearArt sull'OSD."
+
+msgctxt "#40149"
+msgid "Set ClearArt position on video OSD."
+msgstr "Imposta la posizione dei ClearArt sull'OSD."
+
+msgctxt "#40150"
+msgid "Show TV Show ClearArt with [B]NextUp Notification[/B] addon."
+msgstr "Mostra i ClearArt delle Serie TV con l'addon [B]NextUp Notification[/B]."
+
+msgctxt "#40151"
+msgid "Activate Kiosk mode. It allow to turn off sliding menu that provides access to various skin settings. Ideal for children or if Kodi is on free service."
+msgstr "Attiva modo Kiosk. Pemette di disattivare il menu scorrevole che consente di accedere alle varie impostazioni dell'interfaccia. Ideale per i bambini o se Kodi è su un servizio gratuito."
+
+msgctxt "#40152"
+msgid "Select a photo, a video or a music to run when Kodi starting."
+msgstr "Seleziona una foto, un video o musica da riprodurre quando Kodi si avvia."
+
+msgctxt "#40153"
+msgid "Download automatically all necessary artworks. [B]Artwork Downloader[/B] addon is needed."
+msgstr "Scarica automaticamente tutti gli artworks necessari. L'addon [B]Artwork Downloader[/B] è necessario."
+
+msgctxt "#40154"
+msgid "Select weather icons addon."
+msgstr "Seleziona l'addon delle icone meteo."
+
+msgctxt "#40155"
+msgid "Replace default busy spinner by custom busy spinner."
+msgstr "Sostituisci l'icona di Loading predefinita con un'icona personalizzata."
+
+msgctxt "#40156"
+msgid "Show debug infos."
+msgstr "Mostra le info di debug."
+
+msgctxt "#40157"
+msgid "Save all skin settings."
+msgstr "Salva tutte le impostazioni dell'interfaccia."
+
+msgctxt "#40158"
+msgid "Restore all skin settings."
+msgstr "Ripristina tutte le impostazioni dell'interfaccia."
+
+msgctxt "#40159"
+msgid "Disable zoom effect"
+msgstr "Disabilita l'effetto zoom"
+
+msgctxt "#40160"
+msgid "Disable zoom effect when selecting item."
+msgstr "Disabilita l'effetto zoom quando si seleziona un'oggetto."
+
+msgctxt "#40161"
+msgid "Show music visualisation screen when playing song"
+msgstr "Mostra la schermata di visualizzazione musica quando si riproduce una canzone"
+
+msgctxt "#40162"
+msgid "Show music visualisation screen directly when playing song."
+msgstr "Mostra direttamente la schermata di visualizzazione musica quando si riproduce una canzone."
+
+msgctxt "#40163"
+msgid "Main color"
+msgstr "Colore principale"
+
+msgctxt "#40164"
+msgid "Reset main color"
+msgstr "Ripristina il colore principale"
+
+msgctxt "#40165"
+msgid "Color"
+msgstr "Colore"
+
+msgctxt "#40166"
+msgid "Change main theme color."
+msgstr "Cambia il colore principale del tema."
+
+msgctxt "#40167"
+msgid "Reset main color to default."
+msgstr "Ripristina il colore principale al valore predefinito."
+
+msgctxt "#40168"
+msgid "Live TV widget - Recently played channels"
+msgstr "Widget Live TV - Canali riprodotti di recente"
+
+msgctxt "#40169"
+msgid "Watched to"
+msgstr "Visto al"
+
+msgctxt "#40170"
+msgid "unwatched episodes"
+msgstr "episodi non visti"
+
+msgctxt "#40171"
+msgid "unwatched episode"
+msgstr "episodio non visto"
+
+msgctxt "#40172"
+msgid "Watched episodes"
+msgstr "Episodi visti"
+
+msgctxt "#40173"
+msgid "Add sources"
+msgstr "Aggiungi sorgente"
+
+msgctxt "#40174"
+msgid "My TV shows airing today"
+msgstr "Le mie Serie TV in onda oggi"
+
+msgctxt "#40175"
+msgid "Next episodes to watch"
+msgstr "Prossimo episodio da vedere"
+
+msgctxt "#40176"
+msgid "Hide Rotten Tomatoes and Metacritic info"
+msgstr "Nascondi le info di Rotten Tomatoes e Metacritic"
+
+msgctxt "#40177"
+msgid "Hide info from Rotten Tomatoes and Metacritic."
+msgstr "Nascondi le info provenienti da Rotten Tomatoes e Metacritic."
+
+msgctxt "#40178"
+msgid "Show media flags icons on home menu such as resolution, ratio, video codec, audio codec and number of channels."
+msgstr "Mostra le icone dei media nel menu home come la risoluzione, il rapporto, il codec video, il codec audio, il numero di canali."
+
+msgctxt "#40179"
+msgid "Show media clearlogos"
+msgstr "Mostra clearlogos dei media"
+
+msgctxt "#40180"
+msgid "Show clearlogos on home menu."
+msgstr "Mostra clearlogos sul menu home."
+
+msgctxt "#40181"
+msgid "Colors"
+msgstr "Colori"
+
+msgctxt "#40182"
+msgid "Skin colors related settings."
+msgstr "Parametri relativi ai colori del tema."
+
+msgctxt "#40183"
+msgid "Background color"
+msgstr "Colore di sfondo"
+
+msgctxt "#40184"
+msgid "Reset background color"
+msgstr "Reimposta il colore di sfondo"
+
+msgctxt "#40185"
+msgid "Change background color."
+msgstr "Cambia il colore di sfondo."
+
+msgctxt "#40186"
+msgid "Reset background color to default."
+msgstr "Ripristina il colore di sfondo predefinito."
+
+msgctxt "#40187"
+msgid "Color selection"
+msgstr "Selezione colore"
+
+msgctxt "#40188"
+msgid "Go up item."
+msgstr "Vai all'elemento superiore."
+
+msgctxt "#40189"
+msgid "Go down item."
+msgstr "Vai all'elemento inferiore."
+
+msgctxt "#40190"
+msgid "Add item."
+msgstr "Aggiungi elemento."
+
+msgctxt "#40191"
+msgid "Delete item."
+msgstr "Cancella elemento."
+
+msgctxt "#40192"
+msgid "Library options"
+msgstr "Opzioni della libreria"
+
+msgctxt "#40193"
+msgid "Settings applying to library."
+msgstr "Impostazioni da applicare alla libreria."
+
+msgctxt "#40194"
+msgid "Notification popup position"
+msgstr "Posizione della notifica popup"
+
+msgctxt "#40195"
+msgid "Set notification popup position."
+msgstr "Configura la posizione della notifica popup."
+
+msgctxt "#40196"
+msgid "Bottom center"
+msgstr "In basso al centro"
+
+msgctxt "#40197"
+msgid "Bottom right"
+msgstr "In basso a destra"
+
+msgctxt "#40198"
+msgid "Bottom left"
+msgstr "In basso a sinistra"
+
+msgctxt "#40199"
+msgid "Top center"
+msgstr "In alto al centro"
+
+msgctxt "#40200"
+msgid "Top right"
+msgstr "In alto a destra"
+
+msgctxt "#40201"
+msgid "Top left"
+msgstr "In alto a sinistra"
+
+msgctxt "#40202"
+msgid "Video process information"
+msgstr "Informazioni del Processo Video"
+
+msgctxt "#40203"
+msgid "Hardware decoding"
+msgstr "Decodifica Hardware"
+
+msgctxt "#40204"
+msgid "Inactive"
+msgstr "Inattivo"
+ 
+msgctxt "#40205"
+msgid "Decoder"
+msgstr "Decoder"
+
+msgctxt "#40206"
+msgid "Audio process information"
+msgstr "Informazioni del Processo Audio"
+
+msgctxt "#40207"
+msgid "Memory used"
+msgstr "Memoria utilizzata"
+
+msgctxt "#40208"
+msgid "Channels"
+msgstr "Canali"
+
+msgctxt "#40209"
+msgid "Deinterlace"
+msgstr "Deinterlacciamento"
+
+msgctxt "#40210"
+msgid "Processing"
+msgstr "Processing"
+
+msgctxt "#40211"
+msgid "Customizable widget (posters)"
+msgstr "Widget personalizzabile (posters)"
+
+msgctxt "#40212"
+msgid "Customizable widget (thumbs)"
+msgstr "Widget personalizzabile (vignette)"
+
+msgctxt "#40213"
+msgid "Customizable widget (icons)"
+msgstr "Widget personalizzabile (icone)"
+
+msgctxt "#40214"
+msgid "Set type of widgets"
+msgstr "Configura i tipi di widgets"
+
+msgctxt "#40215"
+msgid "Hide posters info"
+msgstr "Nascondi le info dei poster"
+
+msgctxt "#40216"
+msgid "Simple wall"
+msgstr "Muro semplice"
+
+msgctxt "#40217"
+msgid "To be continued ..."
+msgstr "Continua..."
+
+msgctxt "#40218"
+msgid "Enable Next Up popup for Live TV"
+msgstr "Abilita il popup Next Up per la Live TV"
+
+msgctxt "#40219"
+msgid "Enable Next Up popup notification for Live TV."
+msgstr "Abilita la notifica popup Next Up per la Live TV."
+
+msgctxt "#40220"
+msgid "Random tv shows"
+msgstr "Serie TV casuali"
+
+msgctxt "#40221"
+msgid "Set Hub image"
+msgstr "Configura l'immagine dell'Hub"
+
+msgctxt "#40222"
+msgid "Set Hub items"
+msgstr "Configura l'elemento dell'Hub"
+
+msgctxt "#40223"
+msgid "Movies Hub"
+msgstr "Hub Film"
+
+msgctxt "#40224"
+msgid "TV Shows Hub"
+msgstr "Hub Serie TV"
+
+msgctxt "#40225"
+msgid "Customizable Hub 1"
+msgstr "Hub personalizzabile 1"
+
+msgctxt "#40226"
+msgid "Random episodes"
+msgstr "Episodi casuali"
+
+msgctxt "#40227"
+msgid "Select hub widget"
+msgstr "Seleziona l'Hub widget"
+
+msgctxt "#40228"
+msgid "Customizable Hub 2"
+msgstr "Hub personalizzabile 2"
+
+msgctxt "#40229"
+msgid "Customizable Hub 3"
+msgstr "Hub personalizzabile 3"
+
+msgctxt "#40230"
+msgid "Hub Widget"
+msgstr "Widget Hub"
+
+msgctxt "#40231"
+msgid "Hide widgets banners"
+msgstr "Nascondi i banners dei widgets"
+
+msgctxt "#40232"
+msgid "Next airing episodes"
+msgstr "Prossimi episodi in onda"
+
+msgctxt "#40233"
+msgid "Customizable widgets"
+msgstr "Widgets personalizzabili"
+
+msgctxt "#40234"
+msgid "Preconfigured widgets"
+msgstr "Widgets preconfigurati"
+
+msgctxt "#40235"
+msgid "No screenshot available"
+msgstr "Screenshot non disponibile"
+
+msgctxt "#40236"
+msgid "Use clearlogos instead of thumbnails"
+msgstr "Usa i clearlogos al posto delle vignette"
+
+msgctxt "#40237"
+msgid "Add rule"
+msgstr "Aggiungi ruolo"
+
+msgctxt "#40238"
+msgid "Delete rule"
+msgstr "Cancella ruolo"
+
+msgctxt "#40239"
+msgid "Hide CD case"
+msgstr "Nascondi la custodia del CD"
+
+msgctxt "#40240"
+msgid "Hide CD case on music visualisation screen."
+msgstr "Nascondi la custodia del CD sulla schermata di visualizzaione musica."
+
+msgctxt "#40241"
+msgid "Hide pictures info"
+msgstr "Nascondi le info delle immagini"
+
+msgctxt "#40242"
+msgid "Mosaics"
+msgstr "Mosaico"
+
+msgctxt "#40243"
+msgid "Hide time and date"
+msgstr "Nascondi tempo e data"
+
+msgctxt "#40244"
+msgid "Hide time and date on top bar."
+msgstr "Nascondi tempo e data sulla barra superiore."
+
+msgctxt "#40245"
+msgid "Hide plots of unwatched episodes to avoid spoilers."
+msgstr "Nascondi trame di episodi non visti per evitare spoiler."
+
+msgctxt "#40246"
+msgid "Unwatched movies recently added"
+msgstr "Film non visti aggiunti di recente"
+
+msgctxt "#40247"
+msgid "Unwatched episodes recently added"
+msgstr "Episodi non visti aggiunti di recente"
+
+msgctxt "#40248"
+msgid "Hide watched items from recently added"
+msgstr "Nascondi oggetti visti dagli aggiunti di recente"
+
+msgctxt "#40249"
+msgid "Unwatched music videos recently added"
+msgstr "Video musicali non visti aggiunti di recente"
+
+msgctxt "#40250"
+msgid "Bigger font"
+msgstr "Font più grande"
+
+msgctxt "#40251"
+msgid "Pause video during access to extended info"
+msgstr "Metti in pausa il video quando accedi alle info estese"
+
+msgctxt "#40252"
+msgid "Pause video when viewing extended info."
+msgstr "Metti in pausa il video quando vedi le info estese."
+
+msgctxt "#40253"
+msgid "Background of 'Search...' shortcut"
+msgstr "Sfondo del collegamento 'Cerca...'"
+
+msgctxt "#40254"
+msgid "Background of 'Favourites' shortcut"
+msgstr "Sfondo del collegamento 'Preferiti'"
+
+msgctxt "#40255"
+msgid "Background of 'File browser' shortcut"
+msgstr "Sfondo del collegamento 'File browser'"
+
+msgctxt "#40256"
+msgid "Background of 'Settings' shortcut"
+msgstr "Sfondo del collegamento 'Impostazioni'"
+
+msgctxt "#40257"
+msgid "Background of 'Power options' shortcut"
+msgstr "Sfondo del collegamento 'Opzioni Alimentazione'"
+
+msgctxt "#40258"
+msgid "Replace background of [B]Search...[/B] shortcut."
+msgstr "Sostituisci lo sfondo del collegamento [B]Cerca...[/B]."
+
+msgctxt "#40259"
+msgid "Replace background of [B]Favourites[/B] shortcut."
+msgstr "Sostituisci lo sfondo del collegamento [B]Preferiti[/B]."
+
+msgctxt "#40260"
+msgid "Replace background of [B]File browser[/B] shortcut."
+msgstr "Sostituisci lo sfondo del collegamento [B]File browser[/B]."
+
+msgctxt "#40261"
+msgid "Replace background of [B]Settings[/B] shortcut."
+msgstr "Sostituisci lo sfondo del collegamento [B]Impostazioni[/B]."
+
+msgctxt "#40262"
+msgid "Replace background of [B]Power options[/B] shortcut."
+msgstr "Sostituisci lo sfondo del collegamento [B]Opzioni Alimentazione[/B]."
+
+msgctxt "#40263"
+msgid "Disable item."
+msgstr "Disabilita elemento."
+
+msgctxt "#40264"
+msgid "Enable item."
+msgstr "Abilita elemento."
+
+msgctxt "#40265"
+msgid "Up item"
+msgstr "Elemento superiore"
+
+msgctxt "#40266"
+msgid "Down item"
+msgstr "Elemento inferiore"
+
+msgctxt "#40267"
+msgid "Add item"
+msgstr "Aggiungi elemento"
+
+msgctxt "#40268"
+msgid "Enable item"
+msgstr "Abilita elemento"
+
+msgctxt "#40269"
+msgid "Disable item"
+msgstr "Disabilita elemento"
+
+msgctxt "#40270"
+msgid "Delete item"
+msgstr "Cancella elemento"
+
+msgctxt "#40271"
+msgid "Use basic vertical menu"
+msgstr "Usa il menu verticale base"
+
+msgctxt "#40272"
+msgid "Use basic vertical menu instead of dynamic vertical menu."
+msgstr "Usa il menu verticale base invece del menu verticale dinamico."
+
+msgctxt "#40273"
+msgid "No bookmarks created yet."
+msgstr "Nessun preferito è stato ancora creato."
+
+msgctxt "#40274"
+msgid "Show Extrafanarts"
+msgstr "Mostra Extrafanarts"
+
+msgctxt "#40275"
+msgid "Show multiple backgrounds on the home menu and library."
+msgstr "Mostra sfondi multipli sul menu home e sulla libreria."
+
+msgctxt "#40276"
+msgid "Disable Kodi screensaver"
+msgstr "Disabilita lo screensaver di Kodi"
+
+msgctxt "#40277"
+msgid "Disable Kodi screensaver on fullscreen music playback."
+msgstr "Disabilita lo screensaver di Kodi sulla riproduzione musicale a schermo intero."
