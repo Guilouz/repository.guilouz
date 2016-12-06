@@ -1444,9 +1444,9 @@ msgctxt "#40203"
 msgid "Hardware decoding"
 msgstr "Décodage matériel"
 
- msgctxt "#40204"
- msgid "Inactive"
- msgstr "Inactif"
+msgctxt "#40204"
+msgid "Inactive"
+msgstr "Inactif"
  
 msgctxt "#40205"
 msgid "Decoder"
