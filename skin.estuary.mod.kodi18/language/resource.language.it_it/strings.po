@@ -218,7 +218,7 @@ msgstr "Premi [B]Su[/B] per riavvolgere o avanzare velocemente"
 
 msgctxt "#31050"
 msgid "Press [B]OK[/B] to stop"
-msgstr "Premi [B]OK[/B] per stop"
+msgstr "Premi [B]OK[/B] per fermare"
 
 msgctxt "#31051"
 msgid "Toggle language"
@@ -386,7 +386,7 @@ msgstr "Scarica sottotitoli"
 
 msgctxt "#31092"
 msgid "Video menu"
-msgstr "Menu Video"
+msgstr "Menù Video"
 
 msgctxt "#31093"
 msgid "Show weather info in top bar"
@@ -482,7 +482,7 @@ msgstr "Cerca su TheMovieDB"
 
 msgctxt "#31116"
 msgid "Remove this main menu item"
-msgstr "Rimuovi questo elemento dal menu principale"
+msgstr "Rimuovi questo elemento di menù principale"
 
 msgctxt "#31117"
 msgid "Edit nodes"
@@ -633,15 +633,15 @@ msgstr "Mostra clearlogos di film e di Serie TV"
 
 msgctxt "#40001"
 msgid "Customize power menu"
-msgstr "Personalizza il Menu Alimentazione"
+msgstr "Personalizza il Menù Alimentazione"
 
 msgctxt "#40002"
 msgid "Home menu"
-msgstr "Home menu"
+msgstr "Menù Home"
 
 msgctxt "#40003"
 msgid "Reset menus settings"
-msgstr "Resetta le impostazioni dei menu"
+msgstr "Resetta le impostazioni dei menù"
 
 msgctxt "#40004"
 msgid "Debug infos"
@@ -697,7 +697,7 @@ msgstr "Widget Immagini"
 
 msgctxt "#40017"
 msgid "Enable horizontal menu"
-msgstr "Abilita menu orizzontale"
+msgstr "Abilita menù orizzontale"
 
 msgctxt "#40018"
 msgid "Video Sources"
@@ -709,15 +709,15 @@ msgstr "Sorgenti Audio"
 
 msgctxt "#40020"
 msgid "Replace vertical home menu by horizontal menu."
-msgstr "Sostituisci il menu Home da verticale ad orizzontale."
+msgstr "Sostituisci il menù Home da verticale ad orizzontale."
 
 msgctxt "#40021"
 msgid "Enable horizontal advanced menu"
-msgstr "Abilita il menu avanzato orizzontale"
+msgstr "Abilita il menù avanzato orizzontale"
 
 msgctxt "#40022"
 msgid "Replace vertical home menu by horizontal advanced menu."
-msgstr "Sostituisci il menu Home da verticale ad orizzontale avanzato."
+msgstr "Sostituisci il menù Home da verticale ad orizzontale avanzato."
 
 msgctxt "#40023"
 msgid "Set images path"
@@ -837,7 +837,7 @@ msgstr "Seleziona un Set"
 
 msgctxt "#40052"
 msgid "Show studios / recordslabels icons"
-msgstr "Mostra le icone Studios / Case discografiche"
+msgstr "Mostra le icone di Studios / Case discografiche"
 
 msgctxt "#40053"
 msgid "Studios icons"
@@ -853,11 +853,11 @@ msgstr "Icone Media dello stesso colore dell'interfaccia"
 
 msgctxt "#40056"
 msgid "Show animated posters"
-msgstr "Mostra i Posters animati"
+msgstr "Mostra i Poster animati"
 
 msgctxt "#40057"
 msgid "Context menu"
-msgstr "Menu contestuale"
+msgstr "Menù contestuale"
 
 msgctxt "#40058"
 msgid "TV shows next aired"
@@ -1001,7 +1001,7 @@ msgstr "In onda"
 
 msgctxt "#40093"
 msgid "Big posters"
-msgstr "Posters grandi"
+msgstr "Poster grandi"
 
 msgctxt "#40094"
 msgid "Library"
@@ -1057,7 +1057,7 @@ msgstr "Seleziona prima il widgets"
 
 msgctxt "#40107"
 msgid "Navigates main menu to widgets rather than main menu to submenus icons."
-msgstr "Naviga dal menu principale ai widgets piuttosto che dal menu principale alle icone dei sottomenu."
+msgstr "Naviga dal menu principale ai widgets piuttosto che dal menù principale alle icone dei sottomenù."
 
 msgctxt "#40108"
 msgid "Next aired"
@@ -1105,15 +1105,15 @@ msgstr "Origine testi"
 
 msgctxt "#40119"
 msgid "Customize items and submenus of the home menu."
-msgstr "Personalizza gli elementi e sotto menu del menu principale."
+msgstr "Personalizza gli elementi e sottomenù del menù principale."
 
 msgctxt "#40120"
 msgid "Customize items of the power menu."
-msgstr "Personalizza gli elementi del menu Alimentazione."
+msgstr "Personalizza gli elementi del menù Alimentazione."
 
 msgctxt "#40121"
 msgid "Reset default items of the home menu and power menu."
-msgstr "Ripristina al valore predefinito gli elementi del menu Home e del menu Alimentazione."
+msgstr "Ripristina al valore predefinito gli elementi del menù Home e del menù Alimentazione."
 
 msgctxt "#40122"
 msgid "Hide top and bottom bars.[CR][[B]Never[/B]] Bars are always displayed.[CR][[B]Only on library[/B]] Bars are hidden only on Movies, TV Shows and Music libraries. [CR][[B]All over skin[/B]] Bars are hidden all over skin."
@@ -1177,7 +1177,7 @@ msgstr "Mostra i media Fanarts come sfondo."
 
 msgctxt "#40137"
 msgid "Show video as background when returning on menu and a video is playing."
-msgstr "Mostra il video in background quando si ritorna al menu mentre un filmato è in riproduzione."
+msgstr "Mostra il video in background quando si ritorna al menù mentre un filmato è in riproduzione."
 
 msgctxt "#40138"
 msgid "Show visualisation effects as background when a song is playing."
@@ -1233,7 +1233,7 @@ msgstr "Mostra i ClearArt delle Serie TV con l'addon [B]NextUp Notification[/B].
 
 msgctxt "#40151"
 msgid "Activate Kiosk mode. It allow to turn off sliding menu that provides access to various skin settings. Ideal for children or if Kodi is on free service."
-msgstr "Attiva modo Kiosk. Pemette di disattivare il menu scorrevole che consente di accedere alle varie impostazioni dell'interfaccia. Ideale per i bambini o se Kodi è su un servizio gratuito."
+msgstr "Attiva modo Kiosk. Pemette di disattivare il menù scorrevole che consente di accedere alle varie impostazioni dell'interfaccia. Ideale per i bambini o se Kodi è su un servizio gratuito."
 
 msgctxt "#40152"
 msgid "Select a photo, a video or a music to run when Kodi starting."
@@ -1341,7 +1341,7 @@ msgstr "Nascondi le info provenienti da Rotten Tomatoes e Metacritic."
 
 msgctxt "#40178"
 msgid "Show media flags icons on home menu such as resolution, ratio, video codec, audio codec and number of channels."
-msgstr "Mostra le icone dei media nel menu home come la risoluzione, il rapporto, il codec video, il codec audio, il numero di canali."
+msgstr "Mostra le icone dei media nel menù home come la risoluzione, il rapporto, il codec video, il codec audio, il numero di canali."
 
 msgctxt "#40179"
 msgid "Show media clearlogos"
@@ -1349,7 +1349,7 @@ msgstr "Mostra clearlogos dei media"
 
 msgctxt "#40180"
 msgid "Show clearlogos on home menu."
-msgstr "Mostra clearlogos sul menu home."
+msgstr "Mostra clearlogos sul menù home."
 
 msgctxt "#40181"
 msgid "Colors"
@@ -1473,7 +1473,7 @@ msgstr "Processing"
 
 msgctxt "#40211"
 msgid "Customizable widget (posters)"
-msgstr "Widget personalizzabile (posters)"
+msgstr "Widget personalizzabile (poster)"
 
 msgctxt "#40212"
 msgid "Customizable widget (thumbs)"
@@ -1713,11 +1713,11 @@ msgstr "Cancella elemento"
 
 msgctxt "#40271"
 msgid "Use basic vertical menu"
-msgstr "Usa il menu verticale base"
+msgstr "Usa il menù verticale base"
 
 msgctxt "#40272"
 msgid "Use basic vertical menu instead of dynamic vertical menu."
-msgstr "Usa il menu verticale base invece del menu verticale dinamico."
+msgstr "Usa il menù verticale base invece del menù verticale dinamico."
 
 msgctxt "#40273"
 msgid "No bookmarks created yet."
@@ -1729,7 +1729,7 @@ msgstr "Mostra Extrafanarts"
 
 msgctxt "#40275"
 msgid "Show multiple backgrounds on the home menu and library."
-msgstr "Mostra sfondi multipli sul menu home e sulla libreria."
+msgstr "Mostra sfondi multipli sul menù home e sulla libreria."
 
 msgctxt "#40276"
 msgid "Disable Kodi screensaver"
@@ -1738,3 +1738,11 @@ msgstr "Disabilita lo screensaver di Kodi"
 msgctxt "#40277"
 msgid "Disable Kodi screensaver on fullscreen music playback."
 msgstr "Disabilita lo screensaver di Kodi sulla riproduzione musicale a schermo intero."
+
+msgctxt "#40278"
+msgid "Show rating of TMDB rather than IMDB"
+msgstr "Mostra classificazioni di TMDB anziché quelle di IMDB"
+
+msgctxt "#40279"
+msgid "Show rating of TheMovieDB.org rather than IMDb.com."
+msgstr "Mostra classificazioni di TheMovieDB.org anziché quelle di IMDb.com."
