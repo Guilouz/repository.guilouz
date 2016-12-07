@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Estuary Mod KODI Skin\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2016-11-13 15:10+0300\n"
+"PO-Revision-Date: 2016-12-07 11:00+0300\n"
 "Last-Translator: Kodi Translation Team\n"
 "Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/kodi-"
 "main/language/ru_RU/)\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 1.8.7.1\n"
+"X-Generator: Poedit 1.8.7\n"
 
 #: /1080i/Home.xml:920 /1080i/Home.xml:520 /1080i/DialogFullScreenInfo.xml:44
 msgctxt "#31000"
@@ -536,7 +536,7 @@ msgstr "Настройки канала"
 #: /1080i/LoginScreen.xml:26
 msgctxt "#31098"
 msgid "Select your Kodi user profile to login and continue"
-msgstr "Выберите профиль пользователя Kodi чтобы войти и продолжить"
+msgstr "Выберите ваш профиль пользователя Kodi для входа и продолжения"
 
 #: /1080i/View_52_IconWall.xml:21
 msgctxt "#31099"
@@ -1947,3 +1947,49 @@ msgstr "Использовать простое вертикальное мен�
 msgctxt "#40272"
 msgid "Use basic vertical menu instead of dynamic vertical menu."
 msgstr "Использовать простое вертикальное меню вместо динамического."
+
+msgctxt "#40273"
+msgid "No bookmarks created yet."
+msgstr "Пока что нет созданных закладок"
+
+msgctxt "#40274"
+msgid "Show Extrafanarts"
+msgstr "Показывать экстра-фанарт"
+
+msgctxt "#40275"
+msgid "Show multiple backgrounds on the home menu and library."
+msgstr "Показывать множественные фоны в главном меню и библиотеке"
+
+msgctxt "#40276"
+msgid "Disable Kodi screensaver"
+msgstr "Отключить хранитель экрана Kodi"
+
+msgctxt "#40277"
+msgid "Disable Kodi screensaver on fullscreen music playback."
+msgstr ""
+"Отключить хранитель экрана Kodi при полноэкранном воспроизведении музыки"
+
+msgctxt "#40278"
+msgid "Show rating of TMDB rather than IMDB"
+msgstr "Показывать рейтинг TMDB вместо IMDB"
+
+msgctxt "#40279"
+msgid "Show rating of TheMovieDB.org rather than IMDb.com."
+msgstr "Показывать рейтинг TheMovieDB.org, а не IMDb.com"
+
+#~ msgctxt "#31098"
+#~ msgid "Select your Kodi user profile[CR]to login and continue"
+#~ msgstr "Выберите профиль пользователя Kodi,[CR]чтобы войти и продолжить"
+
+#~ msgctxt "#31030"
+#~ msgid "Memory used"
+#~ msgstr "Использовано памяти"
+
+#~ msgctxt "#40132"
+#~ msgid "Plot masked to avoid spoilers"
+#~ msgstr "Сюжет скрыт для предотвращения спойлеров"
+
+#~ msgctxt "#31018"
+#~ msgid "Most played channels"
+#~ msgstr "Самые проигрываемые каналы"
+
