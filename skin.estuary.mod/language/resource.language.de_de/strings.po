@@ -1728,3 +1728,19 @@ msgstr "Zeige Extra Fanarts"
 msgctxt "#40275"
 msgid "Show multiple backgrounds on the home menu and library."
 msgstr "Zeige mehrere Hintergründe im Home Menü und den Bibliotheken."
+
+msgctxt "#40276"
+msgid "Disable Kodi screensaver"
+msgstr "Kodi Bildschirmschoner deaktivieren"
+
+msgctxt "#40277"
+msgid "Disable Kodi screensaver on fullscreen music playback."
+msgstr "Deaktiviere den Kodi Bildschirmschoner bei der Musikwiedergabe"
+
+msgctxt "#40278"
+msgid "Show rating of TMDB rather than IMDB"
+msgstr "Bewertung von TMDB anstelle von IMDB"
+
+msgctxt "#40279"
+msgid "Show rating of TheMovieDB.org rather than IMDb.com."
+msgstr "Benutze die Bewertungen von TheMovieDB.org anstelle von IMDB.com."
