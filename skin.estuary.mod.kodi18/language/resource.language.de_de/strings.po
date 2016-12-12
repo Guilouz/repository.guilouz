@@ -1756,3 +1756,27 @@ msgstr "Hintergrundbild von 'Spiele' Verknüpfung"
 msgctxt "#40282"
 msgid "Replace background of [B]Games[/B] shortcut."
 msgstr "Eigenes Hintergrundbild für [B]Spiele[/B] Verknüpfung festlegen."
+
+msgctxt "#40283"
+msgid "Pattern type"
+msgstr "Art des Musters"
+
+msgctxt "#40284"
+msgid "Pattern color"
+msgstr "Farbe des Musters"
+
+msgctxt "#40285"
+msgid "Reset pattern color"
+msgstr "Musterfarbe zurücksetzen"
+
+msgctxt "#40286"
+msgid "Select pattern type of background."
+msgstr "Wähle die Art des Hintergrundmusters."
+
+msgctxt "#40287"
+msgid "Change pattern color of background."
+msgstr "Ändere die Farbe des Hintergrundmusters."
+
+msgctxt "#40288"
+msgid "Reset pattern color of background."
+msgstr "Setze die Farbe des Hintergrundmusters zurück."
