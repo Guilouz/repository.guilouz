@@ -1780,3 +1780,7 @@ msgstr "Ändere die Farbe des Hintergrundmusters."
 msgctxt "#40288"
 msgid "Reset pattern color of background."
 msgstr "Setze die Farbe des Hintergrundmusters zurück."
+
+msgctxt "#40289"
+msgid "Horizontal guide"
+msgstr "Horizontale Führung"
