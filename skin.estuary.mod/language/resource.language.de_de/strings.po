@@ -1784,3 +1784,11 @@ msgstr "Setze die Farbe des Hintergrundmusters zurück."
 msgctxt "#40289"
 msgid "Horizontal guide"
 msgstr "Horizontale Führung"
+
+msgctxt "#40290"
+msgid "Number of items for widgets"
+msgstr "Anzahl der Widget Einträge"
+
+msgctxt "#40291"
+msgid "Set number of items to display on widgets."
+msgstr "Legt die Anzahl der im Widget angezeigten Einträge fest."
