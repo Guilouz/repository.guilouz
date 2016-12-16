@@ -50,7 +50,7 @@ msgstr "Film non visti"
 
 msgctxt "#31008"
 msgid "No disclaimer"
-msgstr "Nessuna informazione"
+msgstr "Nessun avviso"
 
 msgctxt "#31009"
 msgid "Download icons"
@@ -266,7 +266,7 @@ msgstr "Elementi menù principale"
 
 msgctxt "#31062"
 msgid "Shortcuts to the \"Files\" sections of each media type. Go there to add additional sources for your databases."
-msgstr "Collegamenti alle sezioni \"File\" di ogni tipo di contenuto media. Vai li per aggiungere sorgenti aggiuntive per i tuoi database."
+msgstr "Scorciatoie alle sezioni \"File\" di ogni tipo di contenuto media. Vai li per aggiungere sorgenti aggiuntive per i tuoi database."
 
 msgctxt "#31063"
 msgid "Sections"
@@ -318,7 +318,7 @@ msgstr "Radice della Libreria"
 
 msgctxt "#31075"
 msgid "Movie sets"
-msgstr "Raccolte di Film"
+msgstr "Raccolte Film"
 
 msgctxt "#31076"
 msgid "Play optical disc"
@@ -837,11 +837,11 @@ msgstr "Seleziona un Set"
 
 msgctxt "#40052"
 msgid "Show studios / recordslabels icons"
-msgstr "Mostra le icone di Studios / Case discografiche"
+msgstr "Mostra le icone di Studio / Case discografiche"
 
 msgctxt "#40053"
 msgid "Studios icons"
-msgstr "Icone Studios"
+msgstr "Icone Studio"
 
 msgctxt "#40054"
 msgid "Weather icons"
@@ -885,7 +885,7 @@ msgstr "Visualizza percorso Media"
 
 msgctxt "#40064"
 msgid "Media path"
-msgstr "Percordo Media"
+msgstr "Percorso Media"
 
 msgctxt "#40065"
 msgid "Kiosk Mode"
@@ -1161,11 +1161,11 @@ msgstr "Maschera Plot per evitare spoilers."
 
 msgctxt "#40133"
 msgid "Show studios and recordslabels icons on library."
-msgstr "Mostra le icone degli studios e delle case discografiche sulla libreria."
+msgstr "Mostra le icone degli studio e delle case discografiche sulla libreria."
 
 msgctxt "#40134"
 msgid "Select studios icons addon."
-msgstr "Seleziona l'addon per le icone degli studios."
+msgstr "Seleziona l'addon per le icone degli studio."
 
 msgctxt "#40135"
 msgid "Select recordslabels icons addon."
@@ -1269,7 +1269,7 @@ msgstr "Disabilita l'effetto zoom"
 
 msgctxt "#40160"
 msgid "Disable zoom effect when selecting item."
-msgstr "Disabilita l'effetto zoom quando si seleziona un'oggetto."
+msgstr "Disabilita l'effetto zoom quando si seleziona un elemento."
 
 msgctxt "#40161"
 msgid "Show music visualisation screen when playing song"
@@ -1621,7 +1621,7 @@ msgstr "Episodi non visti aggiunti di recente"
 
 msgctxt "#40248"
 msgid "Hide watched items from recently added"
-msgstr "Nascondi oggetti visti dagli aggiunti di recente"
+msgstr "Nascondi elementi visti dagli aggiunti di recente"
 
 msgctxt "#40249"
 msgid "Unwatched music videos recently added"
@@ -1641,43 +1641,43 @@ msgstr "Metti in pausa il video quando vedi le info estese."
 
 msgctxt "#40253"
 msgid "Background of 'Search...' shortcut"
-msgstr "Sfondo del collegamento 'Cerca...'"
+msgstr "Sfondo della scorciatoia 'Cerca...'"
 
 msgctxt "#40254"
 msgid "Background of 'Favourites' shortcut"
-msgstr "Sfondo del collegamento 'Preferiti'"
+msgstr "Sfondo della scorciatoia 'Preferiti'"
 
 msgctxt "#40255"
 msgid "Background of 'File browser' shortcut"
-msgstr "Sfondo del collegamento 'File browser'"
+msgstr "Sfondo della scorciatoia 'File browser'"
 
 msgctxt "#40256"
 msgid "Background of 'Settings' shortcut"
-msgstr "Sfondo del collegamento 'Impostazioni'"
+msgstr "Sfondo della scorciatoia 'Impostazioni'"
 
 msgctxt "#40257"
 msgid "Background of 'Power options' shortcut"
-msgstr "Sfondo del collegamento 'Opzioni Alimentazione'"
+msgstr "Sfondo della scorciatoia 'Opzioni Alimentazione'"
 
 msgctxt "#40258"
 msgid "Replace background of [B]Search...[/B] shortcut."
-msgstr "Sostituisci lo sfondo del collegamento [B]Cerca...[/B]."
+msgstr "Sostituisci lo sfondo della scorciatoia [B]Cerca...[/B]."
 
 msgctxt "#40259"
 msgid "Replace background of [B]Favourites[/B] shortcut."
-msgstr "Sostituisci lo sfondo del collegamento [B]Preferiti[/B]."
+msgstr "Sostituisci lo sfondo della scorciatoia [B]Preferiti[/B]."
 
 msgctxt "#40260"
 msgid "Replace background of [B]File browser[/B] shortcut."
-msgstr "Sostituisci lo sfondo del collegamento [B]File browser[/B]."
+msgstr "Sostituisci lo sfondo della scorciatoia [B]File browser[/B]."
 
 msgctxt "#40261"
 msgid "Replace background of [B]Settings[/B] shortcut."
-msgstr "Sostituisci lo sfondo del collegamento [B]Impostazioni[/B]."
+msgstr "Sostituisci lo sfondo della scorciatoia [B]Impostazioni[/B]."
 
 msgctxt "#40262"
 msgid "Replace background of [B]Power options[/B] shortcut."
-msgstr "Sostituisci lo sfondo del collegamento [B]Opzioni Alimentazione[/B]."
+msgstr "Sostituisci lo sfondo della scorciatoia [B]Opzioni Alimentazione[/B]."
 
 msgctxt "#40263"
 msgid "Disable item."
@@ -1746,3 +1746,51 @@ msgstr "Mostra classificazioni di TMDB anziché quelle di IMDB"
 msgctxt "#40279"
 msgid "Show rating of TheMovieDB.org rather than IMDb.com."
 msgstr "Mostra classificazioni di TheMovieDB.org anziché quelle di IMDb.com."
+
+msgctxt "#40280"
+msgid "Access to all your games"
+msgstr "Accesso a tutti i tuoi giochi"
+
+msgctxt "#40281"
+msgid "Background of 'Games' shortcut"
+msgstr "Sfondo della scorciatoia 'Giochi'"
+
+msgctxt "#40282"
+msgid "Replace background of [B]Games[/B] shortcut."
+msgstr "Sostituisci lo sfondo della scorciatoia [B]Giochi[/B]"
+
+msgctxt "#40283"
+msgid "Pattern type"
+msgstr "Tipo Modello"
+
+msgctxt "#40284"
+msgid "Pattern color"
+msgstr "Colore Modello"
+
+msgctxt "#40285"
+msgid "Reset pattern color"
+msgstr "Ripristina il colore del modello"
+
+msgctxt "#40286"
+msgid "Select pattern type of background."
+msgstr "Seleziona il tipo di modello dello sfondo."
+
+msgctxt "#40287"
+msgid "Change pattern color of background."
+msgstr "Cambia il colore del modello dello sfondo."
+
+msgctxt "#40288"
+msgid "Reset pattern color of background."
+msgstr "Ripristina il colore del modello dello sfondo."
+
+msgctxt "#40289"
+msgid "Horizontal guide"
+msgstr "Guida orizzontale"
+
+msgctxt "#40290"
+msgid "Number of items for widgets"
+msgstr "Numero di elementi per i widget"
+
+msgctxt "#40291"
+msgid "Set number of items to display on widgets."
+msgstr "Imposta il numero di elementi da visualizzare sui widget."
