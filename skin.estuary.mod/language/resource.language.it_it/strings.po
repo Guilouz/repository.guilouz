@@ -1794,3 +1794,7 @@ msgstr "Numero di elementi per i widget"
 msgctxt "#40291"
 msgid "Set number of items to display on widgets."
 msgstr "Imposta il numero di elementi da visualizzare sui widget."
+
+msgctxt "#40292"
+msgid "votes"
+msgstr "voti"
