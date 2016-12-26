@@ -1796,3 +1796,7 @@ msgstr "Legt die Anzahl der im Widget angezeigten Einträge fest."
 msgctxt "#40292"
 msgid "votes"
 msgstr "Stimmen"
+
+msgctxt "#40293"
+msgid "Eject"
+msgstr "Auswerfen"
