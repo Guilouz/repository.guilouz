@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <window>
     <onload condition="System.HasAddon(script.tv.show.next.aired)">RunScript(script.tv.show.next.aired,backend=True)</onload>
-    <onload condition="!String.IsEmpty(ListItem.TvShowTitle) + System.HasAddon(script.tvtunes)">SetProperty("TvTunesSupported", "TvShows")</onload>
-    <onload condition="String.IsEmpty(ListItem.TvShowTitle) + System.HasAddon(script.tvtunes)">SetProperty("TvTunesSupported", "Movies")</onload>
     <defaultcontrol always="true">50</defaultcontrol>
     <backgroundcolor>background</backgroundcolor>
     <views>50,51,52,53,54,55,505,500,507,501,502,59,58,56,57,503</views>
