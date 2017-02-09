@@ -6,552 +6,2026 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/kodi-main/language/lt_LT/)\n"
+"POT-Creation-Date: 2017-02-04 08:49+0200\n"
+"PO-Revision-Date: 2017-02-04 10:44+0200\n"
+"Last-Translator: Algimantas Margevičius <algimantas@margevicius.lt>\n"
+"Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/"
+"kodi-main/language/lt_LT/)\n"
+"Language: lt_LT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: lt_LT\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.8\n"
 
+#: /1080i/Home.xml:920 /1080i/Home.xml:520 /1080i/DialogFullScreenInfo.xml:44
 msgctxt "#31000"
 msgid "Now playing"
 msgstr "Dabar atkuriama"
 
+#: /1080i/Home.xml:775
 msgctxt "#31001"
 msgid "Search..."
 msgstr "Paieška ..."
 
+#: /1080i/SkinSettings.xml:125
 msgctxt "#31002"
 msgid "Show media fanart as background"
 msgstr "Rodyti media įrašo Fanart fone"
 
+#: /1080i/DialogVideoInfo.xml:431
 msgctxt "#31003"
 msgid "Cinema mode"
 msgstr "Kino teatro režimas"
 
+#: /1080i/VideoOSD.xml:409
 msgctxt "#31004"
 msgid "Change mode"
 msgstr "Pakeisti režimą"
 
+#: /1080i/VideoOSD.xml:416
 msgctxt "#31005"
 msgid "Watch as 2D"
 msgstr "Žiūrėti 2D režimu"
 
+#: /1080i/Home.xml:93
 msgctxt "#31006"
 msgid "Random movies"
 msgstr "Atsitiktiniai filmai"
 
+#: /1080i/Home.xml:102
 msgctxt "#31007"
 msgid "Unwatched movies"
 msgstr "Neperžiūrėti filmai"
 
+#: /1080i/DialogAddonInfo.xml:32
 msgctxt "#31008"
 msgid "No disclaimer"
 msgstr "Nėra atsakomybės apribojimo"
 
+#: /1080i/MyVideoNav.xml:278
 msgctxt "#31009"
 msgid "Download icons"
 msgstr "Atsisiųsti piktogramas"
 
+#: /1080i/Home.xml:75
 msgctxt "#31010"
 msgid "In progress movies"
 msgstr "Nebaigti žiūrėti filmai"
 
+#: /1080i/Home.xml:194
 msgctxt "#31011"
 msgid "Most played albums"
 msgstr "Dažniausiai klausyti albumai"
 
+#: /1080i/Home.xml:210
 msgctxt "#31012"
 msgid "Random albums"
 msgstr "Atsitiktiniai albumai"
 
+#: /1080i/Home.xml:218
 msgctxt "#31013"
 msgid "Random artists"
 msgstr "Atsitiktiniai atlikėjai"
 
+#: /1080i/Home.xml:227
 msgctxt "#31014"
 msgid "Unplayed albums"
 msgstr "Neperklausyti albumai"
 
+#: /1080i/Home.xml:362
 msgctxt "#31015"
 msgid "Recent recordings"
 msgstr "Naujausi įrašai"
 
+#: /1080i/Home.xml:374
 msgctxt "#31016"
 msgid "Recently played channels"
 msgstr "Neseniai žiūrėti kanalai"
 
+#: /1080i/DialogVideoInfo.xml:265
 msgctxt "#31017"
 msgid "Rated"
 msgstr "Įvertinta"
 
+#: /1080i/Home.xml:443
 msgctxt "#31018"
-msgid "Most played channels"
-msgstr "Dažniausiai žiūrimi kanalai"
+msgid "Recently played channels"
+msgstr "Paskutiniu metu atkurti kanalai"
 
+#: /1080i/Home.xml:675 /1080i/MyWeather.xml:52
 msgctxt "#31019"
 msgid "Forecast"
 msgstr "Prognozė"
 
+#: /1080i/MyMusicNav.xml:43 /1080i/MyPics.xml:40 /1080i/MyVideoNav.xml:98
 msgctxt "#31020"
 msgid "Actions"
 msgstr "Veiksmai"
 
+#: /1080i/AddonBrowser.xml:35 /1080i/DialogPVRChannelManager.xml:203
+#: /1080i/Includes_MediaMenu.xml:116 /1080i/EventLog.xml:228
 msgctxt "#31021"
 msgid "Misc options"
 msgstr "Įvairios parinktys"
 
+#: /1080i/Includes_MediaMenu.xml:97 /1080i/Includes_MediaMenu.xml:221
+#: /1080i/Includes.xml:1109
 msgctxt "#31022"
 msgid "Sort by"
 msgstr "Rūšiuoti pagal"
 
+#: /1080i/Includes_MediaMenu.xml:213 /1080i/Includes_MediaMenu.xml:89
 msgctxt "#31023"
 msgid "Viewtype"
 msgstr "Rodinio tipas"
 
+#: /1080i/MusicVisualisation.xml:143
 msgctxt "#31024"
 msgid "Next tracks"
 msgstr "Kiti takeliai"
 
+#: /1080i/DialogFavourites.xml:117
 msgctxt "#31025"
-msgid "No favourites found. You can add any item from media views to this list by using the context menu."
-msgstr "Nerasta mėgstamiausiųjų. Jūs galite pridėti bet kurį elementą iš media rodinių į šį sąrašą naudojant kontekstinį meniu."
+msgid ""
+"No favourites found. You can add any item from media views to this list by "
+"using the context menu."
+msgstr ""
+"Nerasta mėgstamiausiųjų. Jūs galite pridėti bet kurį elementą iš media "
+"rodinių į šį sąrašą naudojant kontekstinį meniu."
 
+#: /1080i/DialogAlbumInfo.xml:122
 msgctxt "#31026"
 msgid "Go to albums"
 msgstr "Eiti į albumus"
 
+#: /1080i/DialogAlbumInfo.xml:131
 msgctxt "#31027"
 msgid "Go to songs"
 msgstr "Eiti į dainas"
 
+#: /1080i/DialogAlbumInfo.xml:140 /1080i/DialogVideoInfo.xml:280
 msgctxt "#31028"
 msgid "Show fanart"
 msgstr "Rodyti Fanart"
 
+#: /1080i/SettingsProfile.xml:115
 msgctxt "#31029"
 msgid "Last logged in"
 msgstr "Paskutinis prisijungimas"
 
+#: /1080i/SettingsSystemInfo.xml:172
 msgctxt "#31030"
-msgid "Memory used"
-msgstr "Naudojama atminties"
+msgid "System Memory used"
+msgstr "Išnaudota atminties"
 
+#: /1080i/SettingsSystemInfo.xml:191
 msgctxt "#31031"
 msgid "Version info"
 msgstr "Versijos informacija"
 
+#: /1080i/EventLog.xml:25 /1080i/Includes_MediaMenu.xml:216
+#: /1080i/SmartPlaylistEditor.xml:67 /1080i/EventLog.xml:220
+#: /1080i/Includes_MediaMenu.xml:139
 msgctxt "#31032"
 msgid "Order"
 msgstr "Rūšiavimas"
 
+#: /1080i/DialogVideoInfo.xml:238 /1080i/DialogSongInfo.xml:232
 msgctxt "#31033"
 msgid "Your rating"
 msgstr "Jūsų reitingas"
 
+#: /1080i/DialogVideoInfo.xml:263
 msgctxt "#31034"
 msgid "Extended info"
 msgstr "Išplėstinė informacija"
 
+#: /1080i/DialogPVRChannelManager.xml:279 /1080i/DialogPVRChannelsOSD.xml:291
+#: /1080i/DialogPVRGuideOSD.xml:171 /1080i/Variables.xml:41
+#: /1080i/FileBrowser.xml:238
 msgctxt "#31035"
 msgid "Pages"
 msgstr "Puslapis"
 
+#: /1080i/FileBrowser.xml:238 /1080i/Variables.xml:41
+#: /1080i/MyPVRRecordings.xml:242
 msgctxt "#31036"
 msgid "items"
 msgstr "elem."
 
+#: /1080i/Variables.xml:55
 msgctxt "#31037"
 msgid "Tracklist"
 msgstr "Takelių sąrašas"
 
+#: /1080i/Variables.xml:112
 msgctxt "#31038"
 msgid "Rewind"
 msgstr "Prasukti atgal"
 
+#: /1080i/Variables.xml:111
 msgctxt "#31039"
 msgid "Fast forward"
 msgstr "Prasukti pirmyn"
 
+#: /1080i/Variables.xml:200
 msgctxt "#31040"
 msgid "Cancel update"
 msgstr "Nutraukti atnaujinimą"
 
+#: /1080i/Variables.xml:14 /1080i/MyPics.xml:95
 msgctxt "#31041"
 msgid "Camera manufacturer"
 msgstr "Kameros gamintojas"
 
+#: /1080i/SmartPlaylistEditor.xml:46
 msgctxt "#31042"
 msgid "Playlist options"
 msgstr "Grojaraščio parinktys"
 
+#: /1080i/SmartPlaylistEditor.xml:126
 msgctxt "#31043"
-msgid "Set the type and add rules to create a smart playlist. These playlists are dynamic and include all media items from your database which apply to your chosen rules."
-msgstr "Nustatykite išmaniojo grojaraščio tipą ir taisykles. Šie grojaraščiai yra dinaminiai ir įtraukia visus media elementus iš jūsų duomenų bazės, kurie atitinka pasirinktas taisykles."
+msgid ""
+"Set the type and add rules to create a smart playlist. These playlists are "
+"dynamic and include all media items from your database which apply to your "
+"chosen rules."
+msgstr ""
+"Nustatykite išmaniojo grojaraščio tipą ir taisykles. Šie grojaraščiai yra "
+"dinaminiai ir įtraukia visus media elementus iš jūsų duomenų bazės, kurie "
+"atitinka pasirinktas taisykles."
 
+#: /1080i/DialogPVRGroupManager.xml:31
 msgctxt "#31044"
 msgid "Add group"
 msgstr "Pridėti grupę"
 
+#: /1080i/DialogPVRGroupManager.xml:37
 msgctxt "#31045"
 msgid "Rename group"
 msgstr "Pervadinti grupę"
 
+#: /1080i/DialogPVRGroupManager.xml:49
 msgctxt "#31046"
 msgid "Delete group"
 msgstr "Pašalinti grupę"
 
+#: /1080i/View_50_List.xml:43
 msgctxt "#31047"
 msgid "Read more..."
 msgstr "Daugiau..."
 
+#: /1080i/DialogVideoInfo.xml:62
 msgctxt "#31048"
 msgid "Available"
 msgstr "Prieinama"
 
+#: /1080i/Variables.xml:119
 msgctxt "#31049"
 msgid "Press [B]Up[/B] to rewind or fast-forward"
 msgstr "Paspauskite [B]aukštyn[/B] norėdami prasukti atgal ar į priekį"
 
+#: /1080i/Variables.xml:120
 msgctxt "#31050"
 msgid "Press [B]OK[/B] to stop"
 msgstr "Paspauskite [B]OK[/B] norėdami sustabdyti"
 
+#: /1080i/VideoOSD.xml:361
 msgctxt "#31051"
 msgid "Toggle language"
 msgstr "Perjungti kalbą"
 
+#: /1080i/Includes.xml:1102
 msgctxt "#31052"
 msgid "filtered"
 msgstr "filtruota"
 
+#: /1080i/Font.xml:99
 msgctxt "#31053"
 msgid "Arial based"
 msgstr "Arial pagrindu"
 
+#: /1080i/Variables.xml:127
 msgctxt "#31054"
 msgid "Press [B]Left[/B] to rewind, or [B]Right[/B] to fast-forward"
-msgstr "Paspauskite [B]kairėn[/B] norėdami prasukti atgal ar [B]dešinėn[/B], jei norite prasukti į priekį"
+msgstr ""
+"Paspauskite [B]kairėn[/B] norėdami prasukti atgal ar [B]dešinėn[/B], jei "
+"norite prasukti į priekį"
 
+#: /1080i/Variables.xml:126
 msgctxt "#31055"
 msgid "Subtitle download"
 msgstr "Subtitrų atsiuntimas"
 
+#: /1080i/MyMusicNav.xml:58 /1080i/MyVideoNav.xml:125
 msgctxt "#31056"
 msgid "Go to playlist"
 msgstr "Eiti į grojaraštį"
 
+#: /1080i/SettingsProfile.xml:189
 msgctxt "#31057"
 msgid "Show login screen on startup"
 msgstr "Rodyti prisijungimo langą paleidžiant"
 
+#: /1080i/SettingsProfile.xml:194
 msgctxt "#31058"
 msgid "Automatic Login on startup"
 msgstr "Automatinis prisijungimas paleidžiant"
 
+#: /1080i/Includes.xml:579
 msgctxt "#31059"
 msgid "Updates available"
 msgstr "Galimi atnaujinimai"
 
+#: /1080i/Variables.xml:35 /1080i/DialogVideoInfo.xml:193
 msgctxt "#31060"
 msgid "minutes"
 msgstr "minutės"
 
+#: /1080i/SkinSettings.xml:42
 msgctxt "#31061"
 msgid "Main menu items"
 msgstr "Meniu elementai"
 
+#: /1080i/Custom_1103_SourcesDialog.xml:24
 msgctxt "#31062"
-msgid "Shortcuts to the \"Files\" sections of each media type. Go there to add additional sources for your databases."
-msgstr "Nuorodos į kiekvieno media tipo \"Failų\" skyrius. Pereikite ten, jei norite pridėti papildomų šaltinių į duomenų bazes."
+msgid ""
+"Shortcuts to the \"Files\" sections of each media type. Go there to add "
+"additional sources for your databases."
+msgstr ""
+"Nuorodos į kiekvieno media tipo \"Failų\" skyrius. Pereikite ten, jei norite "
+"pridėti papildomų šaltinių į duomenų bazes."
 
+#: /1080i/Includes_MediaMenu.xml:74
 msgctxt "#31063"
 msgid "Sections"
 msgstr "Skyriai"
 
+#: /1080i/Variables.xml:36
 msgctxt "#31064"
 msgid "unwatched"
 msgstr "neperžiūrėta"
 
+#: /1080i/MyVideoPlaylist.xml:29
 msgctxt "#31065"
 msgid "Video playlist"
 msgstr "Vaizdo įrašų grojaraštis"
 
+#: /1080i/MyMusicPlaylist.xml:19
 msgctxt "#31066"
 msgid "Music playlist"
 msgstr "Muzikos grojaraštis"
 
+#: /1080i/EventLog.xml:251
 msgctxt "#31067"
 msgid "Event log"
 msgstr "Įvykių žurnalas"
 
+#: /1080i/Custom_1105_MusicOSDSettings.xml:41
 msgctxt "#31068"
 msgid "Choose presets"
 msgstr "Pasirinkite išankstines parinktis"
 
+#: /1080i/AddonBrowser.xml:75
 msgctxt "#31069"
 msgid "Last Updated"
 msgstr "Paskutinis atnaujinimas"
 
+#: /1080i/Custom_1103_SourcesDialog.xml:13
 msgctxt "#31070"
 msgid "Add media sources"
 msgstr "Pridėti media šaltinių"
 
+#: /1080i/DialogAddonInfo.xml:90
 msgctxt "#31071"
 msgid "by"
 msgstr "nuo"
 
+#: /1080i/DialogButtonMenu.xml:13 /1080i/LoginScreen.xml:140
 msgctxt "#31072"
 msgid "Power Options"
 msgstr "Maitinimo parinktys"
 
+#: /1080i/Home.xml:132
 msgctxt "#31073"
 msgid "Titles"
 msgstr "Pavadinimai"
 
+#: /1080i/Home.xml:74 /1080i/Home.xml:337
 msgctxt "#31074"
 msgid "Library root"
 msgstr "Bibliotekos katalogas"
 
+#: /1080i/Home.xml:62
 msgctxt "#31075"
 msgid "Movie sets"
 msgstr "Filmų rinkiniai"
 
+#: /1080i/Home.xml:333
 msgctxt "#31076"
 msgid "Play optical disc"
 msgstr "Atkurti optinį diską"
 
+#: /1080i/Home.xml:499
 msgctxt "#31077"
 msgid "Previous location"
 msgstr "Ankstesnė vieta"
 
+#: /1080i/Home.xml:502
 msgctxt "#31078"
 msgid "Next location"
 msgstr "Kita vieta"
 
+#: /1080i/DialogVideoInfo.xml:110
 msgctxt "#31079"
 msgid "Cast not available"
 msgstr "Vaidmenys negalimi"
 
+#: /1080i/VideoOSD.xml:287
 msgctxt "#31080"
 msgid "Ends at"
 msgstr "Baigiasi"
 
+#: /1080i/DialogSongInfo.xml:203
 msgctxt "#31081"
 msgid "Album info"
 msgstr "Albumo informacija"
 
+#: /1080i/Custom_1105_MusicOSDSettings.xml:46
 msgctxt "#31082"
 msgid "Lyrics add-on"
 msgstr "Dainų žodžių priedas"
 
+#: /1080i/Custom_1105_MusicOSDSettings.xml:50
 msgctxt "#31083"
 msgid "Lyrics add-on settings"
 msgstr "Dainų žodžių priedo nustatymai"
 
+#: /1080i/Custom_1105_MusicOSDSettings.xml:37
 msgctxt "#31084"
 msgid "Visualisation settings"
 msgstr "Vizualizacijos nustatymai"
 
+#: /1080i/DialogFullScreenInfo.xml:271
 msgctxt "#31085"
 msgid "Channel Group"
 msgstr "Kanalų grupė"
 
+#: /1080i/DialogFullScreenInfo.xml:107
 msgctxt "#31086"
 msgid "Metadata"
 msgstr "Metaduomenys"
 
+#: /1080i/DialogContentSettings.xml:52
 msgctxt "#31087"
 msgid "Provider settings"
 msgstr "Tiekėjo nustatymai"
 
+#: /1080i/DialogContentSettings.xml:61
 msgctxt "#31088"
 msgid "Content scanning options"
 msgstr "Turinio nuskaitymo parinktys"
 
+#: /1080i/DialogPVRGroupManager.xml:67
 msgctxt "#31089"
 msgid "Available groups"
 msgstr "Galimos grupės"
 
+#: /1080i/DialogVideoInfo.xml:248
 msgctxt "#31090"
 msgid "Search trailer"
 msgstr "Ieškoti anonso"
 
+#: /1080i/VideoOSD.xml:160
 msgctxt "#31091"
 msgid "Download subtitles"
 msgstr "Atsisiųsti subtitrus"
 
+#: /1080i/VideoOSD.xml:169 /1080i/Variables.xml:163
 msgctxt "#31092"
 msgid "Video menu"
 msgstr "Vaizdo meniu"
 
+#: /1080i/SkinSettings.xml:95
 msgctxt "#31093"
 msgid "Show weather info in top bar"
 msgstr "Rodyti orų informaciją viršutinėje juostoje"
 
+#: /1080i/SkinSettings.xml:102
 msgctxt "#31094"
 msgid "Show media flags for movies / episodes / music videos"
 msgstr "Rodyti media vėliavas filmams / epizodams / muzikiniams vaizdo įrašams"
 
+#: /1080i/SkinSettings.xml:81
 msgctxt "#31095"
 msgid "Use slide animations"
 msgstr "Naudoti slinkimo animacijas"
 
+#: /1080i/DialogSubtitles.xml:58
 msgctxt "#31096"
 msgid "Local subtitle available"
 msgstr "Prieinami lokalūs subtitrai"
 
+#: /1080i/DialogPVRChannelManager.xml:145
 msgctxt "#31097"
 msgid "Channel options"
 msgstr "Kanalo parinktys"
 
+#: /1080i/LoginScreen.xml:26
 msgctxt "#31098"
-msgid "Select your Kodi user profile[CR]to login and continue"
-msgstr "Pasirinkite savi Kodi profilį[CR]norėdami prisijungti ir tęsti"
+msgid "Select your Kodi user profile to login and continue"
+msgstr "Pasirinkite savo Kodi profilį norėdami prisijungti ir tęsti"
 
+#: /1080i/View_52_IconWall.xml:21
 msgctxt "#31099"
 msgid "Icon Wall"
 msgstr "Piktogramų siena"
 
+#: /1080i/View_53_Shift.xml:80
 msgctxt "#31100"
 msgid "Shift"
 msgstr "Postūmis"
 
+#: /1080i/View_54_InfoWall.xml:334
 msgctxt "#31101"
 msgid "InfoWall"
 msgstr "Infosiena"
 
+#: /1080i/View_500_SmallThumb.xml:414
 msgctxt "#31102"
 msgid "Wall"
 msgstr "Siena"
 
+#: /1080i/SmartPlaylistRule.xml:48
 msgctxt "#31103"
 msgid "Enter text here..."
 msgstr "Įveskite tekstą čia..."
 
+#: /1080i/Home.xml:134 /1080i/Home.xml:228
 msgctxt "#31104"
-msgid "Your library is currently empty. In order to populate it with your personal media, enter \"Files\" section, add a media source and configure it. After the source has been added and indexed you will be able to browse your library."
-msgstr "Jūsų biblioteka šiuo metu tuščia. Norėdami užpildyti ją asmeniniais media įrašais, eikite į \"Failų\" skyrių, pridėkite media šaltinį ir sukonfigūruokite jį. Kai šaltinis bus pridėtas ir suindeksuotas, galėsite naršyti po savo biblioteką."
+msgid ""
+"Your library is currently empty. In order to populate it with your personal "
+"media, enter \"Files\" section, add a media source and configure it. After "
+"the source has been added and indexed you will be able to browse your "
+"library."
+msgstr ""
+"Jūsų biblioteka šiuo metu tuščia. Norėdami užpildyti ją asmeniniais media "
+"įrašais, eikite į \"Failų\" skyrių, pridėkite media šaltinį ir "
+"sukonfigūruokite jį. Kai šaltinis bus pridėtas ir suindeksuotas, galėsite "
+"naršyti po savo biblioteką."
 
+#: /1080i/Home.xml:468
 msgctxt "#31105"
-msgid "Add video sources and set the appropriate content type in order to populate your video libraries."
-msgstr "Pridėkite vaizdo įrašų šaltinius ir nustatykite atitinkamą turinio tipą, jei norite užpildyti savo vaizdo įrašų bibliotekas."
+msgid ""
+"Add video sources and set the appropriate content type in order to populate "
+"your video libraries."
+msgstr ""
+"Pridėkite vaizdo įrašų šaltinius ir nustatykite atitinkamą turinio tipą, jei "
+"norite užpildyti savo vaizdo įrašų bibliotekas."
 
+#: /1080i/Variables.xml:164
 msgctxt "#31106"
 msgid "Teletext"
 msgstr "Teletekstas"
 
+#: /1080i/View_55_WideList.xml:33
 msgctxt "#31107"
 msgid "WideList"
 msgstr "Platus sąrašas"
 
+#: /1080i/SkinSettings.xml:109
 msgctxt "#31108"
 msgid "Use custom global background"
 msgstr "Naudoti savą globalų foną"
 
+#: /1080i/SkinSettings.xml:116
 msgctxt "#31109"
 msgid "Choose image path"
 msgstr "Pasirinkite atvaizdo kelią"
 
+#: /1080i/Home.xml:138
 msgctxt "#31110"
 msgid "Enter files section"
 msgstr "Eiti į failų skyrių"
 
+#: /1080i/Home.xml:775
 msgctxt "#31111"
-msgid "View your personal pictures or download one of the many image add-ons from the official repository."
-msgstr "Peržiūrėti asmeninius paveikslėlius ar atsisiųsti vieną iš daugelio atvaizdų priedų iš oficialios saugyklos."
+msgid ""
+"View your personal pictures or download one of the many image add-ons from "
+"the official repository."
+msgstr ""
+"Peržiūrėti asmeninius paveikslėlius ar atsisiųsti vieną iš daugelio atvaizdų "
+"priedų iš oficialios saugyklos."
 
+#: /1080i/VideoOSD.xml:322
 msgctxt "#31112"
 msgid "Toggle audio stream"
 msgstr "Perjungti garso srautą"
 
+#: /1080i/Custom_1107_SearchDialog.xml:32
 msgctxt "#31113"
 msgid "Search local library"
 msgstr "Ieškoti lokalioje bibliotekoje"
 
+#: /1080i/Custom_1107_SearchDialog.xml:38 /1080i/DialogMusicInfo.xml:202
 msgctxt "#31114"
 msgid "Search YouTube"
 msgstr "Ieškoti YouTube"
 
+#: /1080i/Custom_1107_SearchDialog.xml:44
 msgctxt "#31115"
 msgid "Search TheMovieDB"
 msgstr "Ieškoti TheMovieDB"
 
+#: /1080i/Includes_Home.xml:414
 msgctxt "#31116"
 msgid "Remove this main menu item"
 msgstr "Pašalinti šį pagrindinio meniu elementą"
 
+#: /1080i/MyVideoNav.xml:271
 msgctxt "#31117"
 msgid "Edit nodes"
 msgstr "Redaguoti mazgus"
 
+#: /1080i/Home.xml:416
 msgctxt "#31118"
 msgid "Enter add-on browser"
 msgstr "Atidaryti priedų naršyklę"
 
+#: /1080i/Home.xml:415
 msgctxt "#31119"
-msgid "You do not have any add-ons installed yet. Visit our add-on browser to browse through our collection and improve your Kodi experience."
-msgstr "Jūs kol kas neturite jokių įdiegtų priedų. Atsidarykite mūsų priedų naršyklę, jei norite naršyti mūsų kolekciją ir pagerinti Kodi patirtį."
+msgid ""
+"You do not have any add-ons installed yet. Visit our add-on browser to "
+"browse through our collection and improve your Kodi experience."
+msgstr ""
+"Jūs kol kas neturite jokių įdiegtų priedų. Atsidarykite mūsų priedų "
+"naršyklę, jei norite naršyti mūsų kolekciją ir pagerinti Kodi patirtį."
 
+#: /1080i/Home.xml:769
 msgctxt "#31120"
-msgid "You did not set up a weather provider yet. In order to view weather information, choose a weather provider and set up your location."
-msgstr "Jūs kol kas nenustatėte orų tiekėjo. Jei norite matyti orų informaciją, pasirinkite orų tiekėją ir nustatykite savo vietovę."
+msgid ""
+"You did not set up a weather provider yet. In order to view weather "
+"information, choose a weather provider and set up your location."
+msgstr ""
+"Jūs kol kas nenustatėte orų tiekėjo. Jei norite matyti orų informaciją, "
+"pasirinkite orų tiekėją ir nustatykite savo vietovę."
 
+#: /1080i/Home.xml:770
 msgctxt "#31121"
 msgid "Set weather provider"
 msgstr "Nustatyti orų tiekėją"
 
+#: /1080i/Home.xml:216
 msgctxt "#31122"
 msgid "Unwatched TV Shows"
 msgstr "Neperžiūrėtos TV laidos"
 
+#: /1080i/DialogVideoInfo.xml:456
 msgctxt "#31123"
 msgid "Same director"
 msgstr "Tas pats režisierius"
 
+#: /1080i/MyPics.xml:229
 msgctxt "#31124"
 msgid "Show images on map"
 msgstr "Rodyti atvaizdus žemėlapyje"
 
+#: /1080i/DialogVideoInfo.xml:521
 msgctxt "#31125"
 msgid "Press up for actor info"
 msgstr "Paspauskite aukštyn norėdami atidaryti aktoriaus informaciją"
 
+#: /1080i/DialogVideoInfo.xml:558
 msgctxt "#31126"
 msgid "Press OK to read plot"
 msgstr "Paspauskite OK, jei norite skaityti siužetą"
 
+#: /1080i/Includes_MediaMenu.xml:137
 msgctxt "#31127"
 msgid "Show icons"
 msgstr "Rodyti piktogramas"
 
+#: /1080i/Variables.xml:30
 msgctxt "#31128"
 msgid "Contributors"
 msgstr "Bendraautoriai"
 
+#: /1080i/Variables.xml:229
 msgctxt "#31129"
 msgid "General settings applying to all areas of the skin."
 msgstr "Pagrindiniai nustatymai pritaikomi visoms teminės išvaizdoms sritims"
 
+#: /1080i/Variables.xml:230
 msgctxt "#31130"
 msgid "Main menu-related settings: Configure the home screen to your likings."
-msgstr "Su pagrindiniu meniu susiję nustatymai: susikonfigūruokite pradinį ekraną taip kaip patinka"
+msgstr ""
+"Su pagrindiniu meniu susiję nustatymai: susikonfigūruokite pradinį ekraną "
+"taip kaip patinka"
 
+#: /1080i/SkinSettings.xml:117
 msgctxt "#31131"
 msgid "Choose home fanart pack"
 msgstr "Pasirinkti pradinio ekrano Fanart paketą"
 
+#: /1080i/MyVideoNav.xml:121 /1080i/View_502_FanArt.xml:213
 msgctxt "#31132"
 msgid "min"
 msgstr "min"
 
+#: /1080i/DialogKeyboard.xml
 msgctxt "#31133"
 msgid "Hide"
 msgstr "Slėpti"
 
+#: /1080i/DialogSeekBar.xml
 msgctxt "#31134"
 msgid "Remaining"
 msgstr "Liko"
+
+#: /1080i/DialogAddonInfo.xml
+msgctxt "#31135"
+msgid "Installed from"
+msgstr "Įdiegta iš"
+
+#: /1080i/DialogAddonInfo.xml
+msgctxt "#31136"
+msgid "Click here to see latest changes..."
+msgstr "Paspauskite čia norėdami pamatyti paskutinius pakeitimus..."
+
+#: /1080i/DialogPlayerProcessInfo.xml
+msgctxt "#31137"
+msgid "PVR info"
+msgstr "PVR Informacija"
+
+#: /1080i/DialogPlayerProcessInfo.xml
+msgctxt "#31138"
+msgid "Player process info"
+msgstr "Grotuvo proceso Informacija"
+
+#: /1080i/DialogPlayerProcessInfo.xml
+msgctxt "#31139"
+msgid "Video decoder"
+msgstr "Video dekoderis"
+
+#: /1080i/DialogPlayerProcessInfo.xml
+msgctxt "#31140"
+msgid "Pixel format"
+msgstr "Pikselių formatas"
+
+#: /1080i/DialogAddonInfo.xml
+msgctxt "#31141"
+msgid "Changes for version"
+msgstr "Versijos pakeitimai"
+
+#: /1080i/Variables.xml
+msgctxt "#31142"
+msgid "Play speed"
+msgstr "Atkūrimo greitis"
+
+#: /1080i/Home.xml
+msgctxt "#31143"
+msgid ""
+"You did not set up PVR yet. In order to use PVR, choose a PVR client addon "
+"and configure it. Please visit http://kodi.wiki/view/PVR to learn more."
+msgstr ""
+"Jūs nenustatėte PVR. Norėdami naudoti PVR, pasirinkite PVR klientą ir "
+"sukonfigūruokite jį. Aplankykite http://kodi.wiki/view/PVR ir sužinokite "
+"daugiau."
+
+#: /1080i/Home.xml
+msgctxt "#31144"
+msgid "Enter add-on browser"
+msgstr "Atidaryti priedų naršyklę"
+
+#: /1080i/Custom_1107_SearchDialog.xml
+msgctxt "#31145"
+msgid "Search add-ons"
+msgstr "Ieškoti papildinių"
+
+#: /1080i/Home.xml
+msgctxt "#31146"
+msgid "Manage add-ons"
+msgstr "Tvarkyti priedus"
+
+#: /1080i/Home.xml
+msgctxt "#31147"
+msgid "Download add-ons"
+msgstr "Parsiųsti priedų"
+
+#: /1080i/DialogNumeric.xml
+msgctxt "#31151"
+msgid "Numeric keypad"
+msgstr "Skaitmenų sritis "
+
+msgctxt "#40000"
+msgid "Show movies and tv shows clearlogos"
+msgstr "Rodyti filmų ir tv laidų „clearlogo“"
+
+msgctxt "#40001"
+msgid "Customize power menu"
+msgstr "Derinti pažengusiųjų meniu"
+
+msgctxt "#40002"
+msgid "Home menu"
+msgstr "Namų meniu"
+
+msgctxt "#40003"
+msgid "Reset menus settings"
+msgstr "Atkurti meniu nustatymus"
+
+msgctxt "#40004"
+msgid "Debug infos"
+msgstr "Derinimo informacija"
+
+msgctxt "#40005"
+msgid "Extras"
+msgstr "Papildomai"
+
+msgctxt "#40006"
+msgid "Background options"
+msgstr "Fono nustatymai"
+
+msgctxt "#40007"
+msgid "Display options"
+msgstr "Rodymo parinktys"
+
+msgctxt "#40008"
+msgid "Weather widget"
+msgstr "Oro programėlė"
+
+msgctxt "#40009"
+msgid "Movies widget"
+msgstr "Filmų programėlė"
+
+msgctxt "#40010"
+msgid "TV Shows widget"
+msgstr "TV laidų programėlė"
+
+msgctxt "#40011"
+msgid "Music widget"
+msgstr "Muzikos programėlė"
+
+msgctxt "#40012"
+msgid "Addons widget"
+msgstr "Priedų programėlė"
+
+msgctxt "#40013"
+msgid "Media sources widget"
+msgstr "Kūrinių šaltinų programėlė"
+
+msgctxt "#40014"
+msgid "Live TV widget - Channels"
+msgstr "TV laidų transliacijos programėlė - Kanalai"
+
+msgctxt "#40015"
+msgid "Radios widget"
+msgstr "Radio programėlė"
+
+msgctxt "#40016"
+msgid "Pictures widget"
+msgstr "Paveikslėlių programėlė"
+
+msgctxt "#40017"
+msgid "Enable horizontal menu"
+msgstr "Įjungti horizontalų meniu"
+
+msgctxt "#40018"
+msgid "Video Sources"
+msgstr "Video šaltiniai"
+
+msgctxt "#40019"
+msgid "Audio Sources"
+msgstr "Audio šaltiniai"
+
+msgctxt "#40020"
+msgid "Replace vertical home menu by horizontal menu."
+msgstr "Pakeisti vertikalų namų meniu į horizontalų."
+
+msgctxt "#40021"
+msgid "Enable horizontal advanced menu"
+msgstr "Įjungti išplėstinį  horizontalų meniu"
+
+msgctxt "#40022"
+msgid "Replace vertical home menu by horizontal advanced menu."
+msgstr "Pakeisti vertikalų namų meniu į išplėstinį horizontalų."
+
+msgctxt "#40023"
+msgid "Set images path"
+msgstr "Nustatyti paveikslėlių kelią"
+
+msgctxt "#40024"
+msgid "Display settings applying to all areas of the skin."
+msgstr "Rodymo nustatymai pritaikomi visoms teminės išvaizdos sritims"
+
+msgctxt "#40025"
+msgid "Background settings applying to all areas of the skin."
+msgstr "Fono nustatymai pritaikomi visoms teminės išvaizdos sritims"
+
+msgctxt "#40026"
+msgid "Additional settings."
+msgstr "Papildomos nuostatos."
+
+msgctxt "#40027"
+msgid "Show artists clearlogos"
+msgstr "Rodyti atlikėjo „clearlogo“"
+
+msgctxt "#40028"
+msgid "Hide plots to avoid spoilers"
+msgstr "Slėpti siužetą, kad nebūtų atskleista istorija"
+
+msgctxt "#40029"
+msgid "Enable extrafanarts for background"
+msgstr "Fonui įgalinti papildomą „fanart“"
+
+msgctxt "#40030"
+msgid "Enable extrafanarts for thumb"
+msgstr "Miniatiūrai įgalinti papildomą „fanart“"
+
+msgctxt "#40031"
+msgid "Animate background"
+msgstr "Animuoti foną"
+
+msgctxt "#40032"
+msgid "Show visualisation effects"
+msgstr "Rodyti vizualizacijos efektus"
+
+msgctxt "#40033"
+msgid "Music OSD"
+msgstr "Muzikos OSD"
+
+msgctxt "#40034"
+msgid "Visualization of the music screen related settings."
+msgstr "Nustatymų susijusių su muzikos ekranu vizualizacija."
+
+msgctxt "#40035"
+msgid "Show CDArt"
+msgstr "Rodyti CDArt"
+
+msgctxt "#40036"
+msgid "Splash screen (photo, video or music)"
+msgstr "Įjungimo ekranas (foto, video ar muzika)"
+
+msgctxt "#40037"
+msgid "None"
+msgstr "Niekas"
+
+msgctxt "#40038"
+msgid "Start automatically Artwork Downloader after library update"
+msgstr "Po bibliotekos atnaujinimo automatiškai paleisti „Artwork Downloader“"
+
+msgctxt "#40039"
+msgid "Backup / Restore"
+msgstr "Atsarginė kopiją/Atstatyti"
+
+msgctxt "#40040"
+msgid "Backup skin settings"
+msgstr "Daryti išvaizdos nustatymų atsarginę kopiją"
+
+msgctxt "#40041"
+msgid "Restore skin settings from file"
+msgstr "Atstatyti išvaizdos nustatymus iš failo"
+
+msgctxt "#40042"
+msgid "Reset skin settings to defaults"
+msgstr "Atstatyti išvaizdos nustatymus į numatytuosius"
+
+msgctxt "#40043"
+msgid "Backup and restore settings of skin settings."
+msgstr "Sukurti ir atstatyti išvaizdos nustatymus."
+
+msgctxt "#40044"
+msgid "Video OSD"
+msgstr "Video OSD"
+
+msgctxt "#40045"
+msgid "Show ClearArt on video infos"
+msgstr "Video informacijoj rodyti „ClearArt“"
+
+msgctxt "#40046"
+msgid "Visualization of the video screen related settings."
+msgstr "Nustatymų susijusių su video ekranu vizualizacija."
+
+msgctxt "#40047"
+msgid "Necessary addons"
+msgstr "Būtini priedai"
+
+msgctxt "#40048"
+msgid "Necessary addons for good performance."
+msgstr "Būtini priedai gerai greitaveikai."
+
+msgctxt "#40049"
+msgid "Show ClearArt with NextUp Notification addon"
+msgstr "Su NextUp priedo pranešimu rodyti ClearArt„“"
+
+msgctxt "#40050"
+msgid "Enter the paths of your RSS feeds"
+msgstr "Nustatykite savo RSS srautų kelius"
+
+msgctxt "#40051"
+msgid "Select a Set"
+msgstr "Pasirinkite rinkinį"
+
+msgctxt "#40052"
+msgid "Show studios / recordslabels icons"
+msgstr "Rodyti studijos/įrašų studijos piktogramas"
+
+msgctxt "#40053"
+msgid "Studios icons"
+msgstr "Studijos piktogramos"
+
+msgctxt "#40054"
+msgid "Weather icons"
+msgstr "Oro piktogramos"
+
+msgctxt "#40055"
+msgid "Media flags of the same color as skin"
+msgstr "Media vėliavos tokios pat spalvos kaip ir išvaizda"
+
+msgctxt "#40056"
+msgid "Show animated posters"
+msgstr "Rodyti animuotus plakatus"
+
+msgctxt "#40057"
+msgid "Context menu"
+msgstr "Kontekstinis meniu"
+
+msgctxt "#40058"
+msgid "TV shows next aired"
+msgstr " TV laidos sekančio rodymo data"
+
+msgctxt "#40059"
+msgid "Similar"
+msgstr "Panašu"
+
+msgctxt "#40060"
+msgid "Multi fanarts for weather"
+msgstr "Keli „fanarts“ orui"
+
+msgctxt "#40061"
+msgid "Info bars are always displayed"
+msgstr "Info juostos visada rodomos"
+
+msgctxt "#40062"
+msgid "Recordslabels icons"
+msgstr "Įrašų studijos piktogramos"
+
+msgctxt "#40063"
+msgid "Show media path"
+msgstr "Rodyti media kelią"
+
+msgctxt "#40064"
+msgid "Media path"
+msgstr "Media kelias"
+
+msgctxt "#40065"
+msgid "Kiosk Mode"
+msgstr "„Kiosk“ režimas"
+
+msgctxt "#40066"
+msgid "Background opacity"
+msgstr "Fono permatomumas:"
+
+msgctxt "#40067"
+msgid "Opacity "
+msgstr "Permatomumas"
+
+msgctxt "#40068"
+msgid "Never"
+msgstr "Niekada"
+
+msgctxt "#40069"
+msgid "Only on library"
+msgstr "Tik bibliotekoje"
+
+msgctxt "#40070"
+msgid "All over skin"
+msgstr "Visur išvaizdoje"
+
+msgctxt "#40071"
+msgid "Hide info bars"
+msgstr "Slėpti info juostas"
+
+msgctxt "#40072"
+msgid "Info bars are hidden only on library"
+msgstr "Informacijos juostos paslėptos tik bibliotekoje"
+
+msgctxt "#40073"
+msgid "Info bars are hidden all over skin"
+msgstr "Informacijos juostos paslėptos visur"
+
+msgctxt "#40074"
+msgid "Add-on settings"
+msgstr "Priedo nustatymai"
+
+msgctxt "#40075"
+msgid "Hidden TV channels"
+msgstr "Paslėpti TV kanalai"
+
+msgctxt "#40076"
+msgid "Visible TV channels"
+msgstr "Matomi TV kanalai"
+
+msgctxt "#40077"
+msgid "Access all of your favorites"
+msgstr "Pasiekite visus mėgiamiausius"
+
+msgctxt "#40078"
+msgid "Access all settings"
+msgstr "Pasiekti visus nustatymus"
+
+msgctxt "#40079"
+msgid "Access to filemanager"
+msgstr "Pasiekti failų tvarkyklę"
+
+msgctxt "#40080"
+msgid "Access to power options"
+msgstr "Pasiekti maitinimo parinktis"
+
+msgctxt "#40081"
+msgid "Do a research"
+msgstr "Daryti tyrimą"
+
+msgctxt "#40082"
+msgid "Custom busy spinner"
+msgstr "Pasirinktinis užimtumo suktukas"
+
+msgctxt "#40083"
+msgid "Show background video"
+msgstr "Rodyti fono video"
+
+msgctxt "#40084"
+msgid "Type of Widgets"
+msgstr "Programėlių tipas"
+
+msgctxt "#40085"
+msgid "Skin Helper Service Widgets"
+msgstr "„Skin Helper Service“ programėlės"
+
+msgctxt "#40086"
+msgid "Hide widget banner"
+msgstr "Slėpti programėlės piktogramą"
+
+msgctxt "#40087"
+msgid "ClearArt position"
+msgstr "„Clearart“ vieta"
+
+msgctxt "#40088"
+msgid "To the right"
+msgstr "Į dešinę"
+
+msgctxt "#40089"
+msgid "To the left"
+msgstr "Į kairę"
+
+msgctxt "#40090"
+msgid "In the center"
+msgstr "Centre"
+
+msgctxt "#40091"
+msgid "Big fanart"
+msgstr "Didelis „Fanart“"
+
+msgctxt "#40092"
+msgid "Aired"
+msgstr "Rodyta"
+
+msgctxt "#40093"
+msgid "Big posters"
+msgstr "Dideli plakatai"
+
+msgctxt "#40094"
+msgid "Library"
+msgstr "Biblioteka"
+
+msgctxt "#40095"
+msgid "In-progress movies"
+msgstr "Nebaigti žiūrėti filmai"
+
+msgctxt "#40096"
+msgid "Most played albums"
+msgstr "Dažniausiai klausyti albumai"
+
+msgctxt "#40097"
+msgid "Random albums"
+msgstr "Atsitiktiniai albumai"
+
+msgctxt "#40098"
+msgid "Random artists"
+msgstr "Atsitiktiniai atlikėjai"
+
+msgctxt "#40099"
+msgid "Random movies"
+msgstr "Atsitiktiniai filmai"
+
+msgctxt "#40100"
+msgid "Random music videos"
+msgstr "Atsitiktiniai muzikos video"
+
+msgctxt "#40101"
+msgid "Unplayed albums"
+msgstr "Neperklausyti albumai"
+
+msgctxt "#40102"
+msgid "Unwatched movies"
+msgstr "Neperžiūrėti filmai"
+
+msgctxt "#40103"
+msgid "Unwatched TV shows"
+msgstr "Neperžiūrėtos TV laidos"
+
+msgctxt "#40104"
+msgid "Hide notification popup during playback"
+msgstr "Atkūrimo metu slėpti iššokančius pranešimus"
+
+msgctxt "#40105"
+msgid "Hide notification popup during video or music playback."
+msgstr "Slėpti iššokančius meniu muzikos ar video atkūrimo metu."
+
+msgctxt "#40106"
+msgid "Select widgets first"
+msgstr "Pirmiausia pasirinkite programėles"
+
+msgctxt "#40107"
+msgid "Navigates main menu to widgets rather than main menu to submenus icons."
+msgstr "Pagrindiniame meniu peršoka prie programėlių, o ne pomeniu piktogramų."
+
+msgctxt "#40108"
+msgid "Next aired"
+msgstr "Toliau bus rodoma"
+
+msgctxt "#40109"
+msgid "Last aired"
+msgstr "Neseniai rodyta"
+
+msgctxt "#40110"
+msgid "Views"
+msgstr "Peržiūros"
+
+msgctxt "#40111"
+msgid "Hardware info"
+msgstr "Aparatūros informacija"
+
+msgctxt "#40112"
+msgid "Hard disk usage:"
+msgstr "Kietojo disko naudojims:"
+
+msgctxt "#40113"
+msgid "Show background visualisation effects"
+msgstr "Rodyti fono vizualizacijos efektus"
+
+msgctxt "#40114"
+msgid "Music videos - Library"
+msgstr "Muzikos video - biblioteka"
+
+msgctxt "#40115"
+msgid "Music videos widget"
+msgstr "Muzikos video programėlė"
+
+msgctxt "#40116"
+msgid "Unwatched music videos"
+msgstr "Neperžiūrėti muzikos video"
+
+msgctxt "#40117"
+msgid "Most watched music videos"
+msgstr "Daugiausiai žiūrėti muzikos video"
+
+msgctxt "#40118"
+msgid "Lyrics source"
+msgstr "Dainų žodžių šaltinis"
+
+msgctxt "#40119"
+msgid "Customize items and submenus of the home menu."
+msgstr "Derinti namų ekrano elementus ir pomeniu."
+
+msgctxt "#40120"
+msgid "Customize items of the power menu."
+msgstr "Derinti pažengusiųjų meniu."
+
+msgctxt "#40121"
+msgid "Reset default items of the home menu and power menu."
+msgstr "Atstatyti namų ir maitinimo meniu elementus."
+
+msgctxt "#40122"
+msgid ""
+"Hide top and bottom bars.[CR][[B]Never[/B]] Bars are always displayed.[CR]"
+"[[B]Only on library[/B]] Bars are hidden only on Movies, TV Shows and Music "
+"libraries. [CR][[B]All over skin[/B]] Bars are hidden all over skin."
+msgstr ""
+"Slėpti viršutinę ir apatinę juostas.[CR][[B]Niekada[/B]] Juostos visada "
+"rodomos.[CR][[B]Tik bibliotekoje[/B]] Juostos slepiamos tik Filmuose, TV "
+"laidose ir muzikos bibliotekoje. [CR][[B]Visur[/B]] Juostos slepiamos visoje "
+"temoje."
+
+msgctxt "#40123"
+msgid "Show slide effect of skin windows."
+msgstr "Išvaizdos languose rodyti slinkimo efektą."
+
+msgctxt "#40124"
+msgid "Enable auto scrolling for plots and reviews."
+msgstr "Siužetuose ir apžvalgose įjungti automatinį slinkimą."
+
+msgctxt "#40125"
+msgid "Show weather with the time and date on the top bar."
+msgstr "Rodyti orų informaciją su laiku ir data viršutinėje juostoje."
+
+msgctxt "#40126"
+msgid "Replace episodes thumbnails by TV shows thumbnails"
+msgstr "Pakeisti epizodų miniatiūras TV laidų miniatiūromis"
+
+msgctxt "#40127"
+msgid ""
+"Show media flags icons such as resolution, ratio, video codec, audio codec, "
+"number of channels, duration..."
+msgstr ""
+"Rodyti media žymas tokias kaip raiška, santykis, video kodekas, audio "
+"kodekas, kanalų skaičius, trukmė...."
+
+msgctxt "#40128"
+msgid "Show media flags to the same color as skin color."
+msgstr "Rodyti media žymas tokia pat spalva kaip ir išvaizda."
+
+msgctxt "#40129"
+msgid ""
+"Show animated posters instead of conventional posters. Conventional posters "
+"will be showed when no animated poster is available."
+msgstr ""
+"Rodyti animuotus plakatus vietoj statinių. Jei nebus animuotų plakatų bus "
+"rodomas paprastas."
+
+msgctxt "#40130"
+msgid "Show movies and TV shows clearlogos on video library."
+msgstr "Video bibliotekoje rodyti filmų ir tv laidų „clearlogo“."
+
+msgctxt "#40131"
+msgid "Show artists clearlogos on music library."
+msgstr "Muzikos bibliotekoje rodyti atlikėjo „clearlogo“."
+
+msgctxt "#40132"
+msgid "Plot masked to avoid spoilers."
+msgstr "Siužetas paslėptas siekiant neatskleisti istorijos."
+
+msgctxt "#40133"
+msgid "Show studios and recordslabels icons on library."
+msgstr "Bibliotekoje rodyti studijos ir įrašų studijos piktogramas."
+
+msgctxt "#40134"
+msgid "Select studios icons addon."
+msgstr "Pasirinkite studijos piktogramų priedą."
+
+msgctxt "#40135"
+msgid "Select recordslabels icons addon."
+msgstr "Pasirinkite įrašų studijos piktogramų priedą."
+
+msgctxt "#40136"
+msgid "Show media fanart as background."
+msgstr "„fanart“ rodyti kaip foną."
+
+msgctxt "#40137"
+msgid "Show video as background when returning on menu and a video is playing."
+msgstr "Atkuriant video, grįžtant į meniu, video rodyti kaip foną."
+
+msgctxt "#40138"
+msgid "Show visualisation effects as background when a song is playing."
+msgstr "Grojant dainai vizualizacijos efektus rodyti kaip foną."
+
+msgctxt "#40139"
+msgid "Replace default background by custom background."
+msgstr "Pakeisti numatytąjį foną į savo."
+
+msgctxt "#40140"
+msgid "Set location of the custom background."
+msgstr "Nustatyti pasirinktinio fono vietą."
+
+msgctxt "#40141"
+msgid "Select multi fanarts for weather addon."
+msgstr "Pasirinkti kelis „fanart“ oro programėlei."
+
+msgctxt "#40142"
+msgid "Set background opacity on all over skin."
+msgstr "Fono permatomumą nustatyti visoje temoje."
+
+msgctxt "#40143"
+msgid "Show slideshow of artist fanarts on music visualisation screen."
+msgstr "Muzikos vizualizacijos ekrane rodyti atlikėjų „fanart“ skaidres."
+
+msgctxt "#40144"
+msgid ""
+"Show slideshow of artist fanarts in thumbnail on music visualisation screen."
+msgstr ""
+"Muzikos vizualizacijos ekrane rodyti atlikėjų „fanart“ skaidres, miniatiūros "
+"vietoje."
+
+msgctxt "#40145"
+msgid ""
+"Animate background or slideshow (if enabled) on music visualisation screen."
+msgstr ""
+"Muzikos vizualizacijos ekrane animuoti foną arba skaidres(jei įjungta)."
+
+msgctxt "#40146"
+msgid "Show visualisation effects on music visualisation screen."
+msgstr "Muzikos vizualizacijos ekrane rodyti vizualizacijos efektus."
+
+msgctxt "#40147"
+msgid "Show CDArt on music visualisation screen."
+msgstr "Muzikos vizualizacijos ekrane rodyti „CDArt“."
+
+msgctxt "#40148"
+msgid "Show ClearArt on video OSD."
+msgstr "Rodyti „Clearart“ video OSD."
+
+msgctxt "#40149"
+msgid "Set ClearArt position on video OSD."
+msgstr "Nustatyti „ClearArt“ vietą ant video OSD."
+
+msgctxt "#40150"
+msgid "Show TV Show ClearArt with [B]NextUp Notification[/B] addon."
+msgstr "Rodyti tv laidų „ClearArt“ su [B]NextUp pranešimų[/B]priedu."
+
+msgctxt "#40151"
+msgid ""
+"Activate Kiosk mode. It allow to turn off sliding menu that provides access "
+"to various skin settings. Ideal for children or if Kodi is on free service."
+msgstr ""
+"Įjungti „Kiosk“ režimą. Jis leidžia išjungti meniu kuriame yra įvairūs "
+"nustatymai. Idealu vaikams ar kai kodi naudojamas viešai."
+
+msgctxt "#40152"
+msgid "Select a photo, a video or a music to run when Kodi starting."
+msgstr "Pasrinkite foto, video ar dainą kuri bus atkuriama paleidžiant „Kodi“."
+
+msgctxt "#40153"
+msgid ""
+"Download automatically all necessary artworks. [B]Artwork Downloader[/B] "
+"addon is needed."
+msgstr ""
+"Automatiškai parsiųsti visus būtinus „artworks“. Reikia [B]Artwork "
+"Downloader[/B] priedo."
+
+msgctxt "#40154"
+msgid "Select weather icons addon."
+msgstr "Pasirinkite orų piktogramų priedą."
+
+msgctxt "#40155"
+msgid "Replace default busy spinner by custom busy spinner."
+msgstr "Pakeisti numatytąjį užimtumo suktuką pasirinktiniu."
+
+msgctxt "#40156"
+msgid "Show debug infos."
+msgstr "Rodyti derinimo informaciją."
+
+msgctxt "#40157"
+msgid "Save all skin settings."
+msgstr "Išsaugoti visus išvaizdos nustatymus."
+
+msgctxt "#40158"
+msgid "Restore all skin settings."
+msgstr "Atstatyti visus išvaizdos nustatymus."
+
+msgctxt "#40159"
+msgid "Disable zoom effect"
+msgstr "Išjungti išdidinimo efektą"
+
+msgctxt "#40160"
+msgid "Disable zoom effect when selecting item."
+msgstr "Išjungti priartinimo efektą pasirenkant elementą."
+
+msgctxt "#40161"
+msgid "Show music visualisation screen when playing song"
+msgstr "Atkuriant dainą rodyti muzikos vizualizaciją"
+
+msgctxt "#40162"
+msgid "Show music visualisation screen directly when playing song."
+msgstr "Atkuriant muziką rodyti muzikos vizualizacijos ekraną tiesiogiai."
+
+msgctxt "#40163"
+msgid "Main color"
+msgstr "Pagrindinė spalva"
+
+msgctxt "#40164"
+msgid "Reset main color"
+msgstr "Atstatyti pagrindinę spalvą"
+
+msgctxt "#40165"
+msgid "Color"
+msgstr "Spalva"
+
+msgctxt "#40166"
+msgid "Change main theme color."
+msgstr "Keisti pagrindinę temos spalvą."
+
+msgctxt "#40167"
+msgid "Reset main color to default."
+msgstr "Atstatyti pagrindinę spalvą į numatytąją."
+
+msgctxt "#40168"
+msgid "Live TV widget - Recently played channels"
+msgstr "TV laidų transliacijos programėlė - nesenai atkurti kanalai"
+
+msgctxt "#40169"
+msgid "Watched to"
+msgstr "Žiūrėta"
+
+msgctxt "#40170"
+msgid "unwatched episodes"
+msgstr "nežiūrėti epizodai"
+
+msgctxt "#40171"
+msgid "unwatched episode"
+msgstr "nežiūrėtas epizodas"
+
+msgctxt "#40172"
+msgid "Watched episodes"
+msgstr "Žiūrėti epizodai"
+
+msgctxt "#40173"
+msgid "Add sources"
+msgstr "Pridėti šaltinių"
+
+msgctxt "#40174"
+msgid "My TV shows airing today"
+msgstr "Mano tv laidos rodomos šiandien"
+
+msgctxt "#40175"
+msgid "Next episodes to watch"
+msgstr "Kiti žiūrimi epizodai"
+
+msgctxt "#40176"
+msgid "Hide Rotten Tomatoes and Metacritic info"
+msgstr "Slėpti „Rotten Tomatoes“ ir „Metacritic“ informaciją"
+
+msgctxt "#40177"
+msgid "Hide info from Rotten Tomatoes and Metacritic."
+msgstr "Slėpti informaciją iš „Rotten Tomatoes“ ir  „Metacritic“."
+
+msgctxt "#40178"
+msgid ""
+"Show media flags icons on home menu such as resolution, ratio, video codec, "
+"audio codec and number of channels."
+msgstr ""
+"Rodyti media žymų piktogramas tokias kaip raiška, santykis, video kodekas, "
+"audio kodekas, kanalų skaičius."
+
+msgctxt "#40179"
+msgid "Show media clearlogos"
+msgstr "Rodyti media „clearlogo“"
+
+msgctxt "#40180"
+msgid "Show clearlogos on home menu."
+msgstr "Rodyti „clearlogo“ namų meniu."
+
+msgctxt "#40181"
+msgid "Colors"
+msgstr "Spalvos"
+
+msgctxt "#40182"
+msgid "Skin colors related settings."
+msgstr "Su išvaizdos spalvomis susiję nustatymai."
+
+msgctxt "#40183"
+msgid "Background color"
+msgstr "Fono spalva"
+
+msgctxt "#40184"
+msgid "Reset background color"
+msgstr "Atstatyti fono spalvą"
+
+msgctxt "#40185"
+msgid "Change background color."
+msgstr "Keisti fono spalvą."
+
+msgctxt "#40186"
+msgid "Reset background color to default."
+msgstr "Atstatyti fono spalvą į numatytąją."
+
+msgctxt "#40187"
+msgid "Color selection"
+msgstr "Spalvos pasirinkimas"
+
+msgctxt "#40188"
+msgid "Go up item."
+msgstr "Eiti aukščiau."
+
+msgctxt "#40189"
+msgid "Go down item."
+msgstr "Eiti žemiau."
+
+msgctxt "#40190"
+msgid "Add item."
+msgstr "Pridėti elementą."
+
+msgctxt "#40191"
+msgid "Delete item."
+msgstr "Pašalinti elementą."
+
+msgctxt "#40192"
+msgid "Library options"
+msgstr "Bibliotekos parinktys"
+
+msgctxt "#40193"
+msgid "Settings applying to library."
+msgstr "Nustatymai taikomi bibliotekai."
+
+msgctxt "#40194"
+msgid "Notification popup position"
+msgstr "Iššokančių pranešimų vieta"
+
+msgctxt "#40195"
+msgid "Set notification popup position."
+msgstr "Nustatyti iššokančių pranešimų vietą."
+
+msgctxt "#40196"
+msgid "Bottom center"
+msgstr "Apačioje per vidurį"
+
+msgctxt "#40197"
+msgid "Bottom right"
+msgstr "Apačioje dešinėje"
+
+msgctxt "#40198"
+msgid "Bottom left"
+msgstr "Apačioje kairėje"
+
+msgctxt "#40199"
+msgid "Top center"
+msgstr "Viršuje per vidurį"
+
+msgctxt "#40200"
+msgid "Top right"
+msgstr "Viršuje dešinėje"
+
+msgctxt "#40201"
+msgid "Top left"
+msgstr "Viršuje kairėje"
+
+msgctxt "#40202"
+msgid "Video process information"
+msgstr "Video apdorojimo informacija"
+
+msgctxt "#40203"
+msgid "Hardware decoding"
+msgstr "Aparatinis dekodavimas"
+
+msgctxt "#40204"
+msgid "Inactive"
+msgstr "Neaktyvus"
+
+msgctxt "#40205"
+msgid "Decoder"
+msgstr "Dekoderis"
+
+msgctxt "#40206"
+msgid "Audio process information"
+msgstr "Audio apdorojimo informacija"
+
+msgctxt "#40207"
+msgid "Memory used"
+msgstr "Panaudota atmintis"
+
+msgctxt "#40208"
+msgid "Channels"
+msgstr "Kanalai"
+
+msgctxt "#40209"
+msgid "Deinterlace"
+msgstr "Išpinti"
+
+msgctxt "#40210"
+msgid "Processing"
+msgstr "Apdorojama"
+
+msgctxt "#40211"
+msgid "Customizable widget (posters)"
+msgstr "Derinama programėlė (plakatai)"
+
+msgctxt "#40212"
+msgid "Customizable widget (thumbs)"
+msgstr "Derinama programėlė (minatiūros)"
+
+msgctxt "#40213"
+msgid "Customizable widget (icons)"
+msgstr "Derinama programėlė (piktogramos)"
+
+msgctxt "#40214"
+msgid "Set type of widgets"
+msgstr "Programėliės tipas"
+
+msgctxt "#40215"
+msgid "Hide posters info"
+msgstr "Slėpti plakatų informaciją"
+
+msgctxt "#40216"
+msgid "Simple wall"
+msgstr "Paprasta siena"
+
+msgctxt "#40217"
+msgid "To be continued ..."
+msgstr "Laukite tęsinio..."
+
+msgctxt "#40218"
+msgid "Enable Next Up popup for Live TV"
+msgstr "TV transliacijai įjungti „Next Up“ pranešimą"
+
+msgctxt "#40219"
+msgid "Enable Next Up popup notification for Live TV."
+msgstr "TV transliacijai įjungti „Next Up“ iššokantį pranešimą."
+
+msgctxt "#40220"
+msgid "Random tv shows"
+msgstr "Atsitiktinė tv laida"
+
+msgctxt "#40221"
+msgid "Set Hub image"
+msgstr "Nustatyti mazgo paveikslėlį"
+
+msgctxt "#40222"
+msgid "Set Hub items"
+msgstr "Nustatyti mazgo elementus"
+
+msgctxt "#40223"
+msgid "Movies Hub"
+msgstr "Filmų mazgas"
+
+msgctxt "#40224"
+msgid "TV Shows Hub"
+msgstr "TV laidų mazgas"
+
+msgctxt "#40225"
+msgid "Customizable Hub 1"
+msgstr "Derinamas mazgas 1"
+
+msgctxt "#40226"
+msgid "Random episodes"
+msgstr "Atsitiktiniai epizodai"
+
+msgctxt "#40227"
+msgid "Select hub widget"
+msgstr "Pasirinkite mazgo programėlę"
+
+msgctxt "#40228"
+msgid "Customizable Hub 2"
+msgstr "Derinamas mazgas 2"
+
+msgctxt "#40229"
+msgid "Customizable Hub 3"
+msgstr "Derinamas mazgas 3"
+
+msgctxt "#40230"
+msgid "Hub Widget"
+msgstr "Mazgo programėlė"
+
+msgctxt "#40231"
+msgid "Hide widgets banners"
+msgstr "Slėpti programėlių juostas"
+
+msgctxt "#40232"
+msgid "Next airing episodes"
+msgstr "Kiti rodomi epizodai"
+
+msgctxt "#40233"
+msgid "Customizable widgets"
+msgstr "Derinamos programėlės"
+
+msgctxt "#40234"
+msgid "Preconfigured widgets"
+msgstr "Iš anksto nustatytos programėlės"
+
+msgctxt "#40235"
+msgid "No screenshot available"
+msgstr "Ekrano nuotraukos nėra"
+
+msgctxt "#40236"
+msgid "Use clearlogos instead of thumbnails"
+msgstr "Vietoj miniatiūrų naudoti „clearlogo“"
+
+msgctxt "#40237"
+msgid "Add rule"
+msgstr "Pridėti taisyklę"
+
+msgctxt "#40238"
+msgid "Delete rule"
+msgstr "Šalinti taisyklę"
+
+msgctxt "#40239"
+msgid "Hide CD case"
+msgstr "Slėpti CD dėklą"
+
+msgctxt "#40240"
+msgid "Hide CD case on music visualisation screen."
+msgstr "Muzikos vizualizacijos ekrane slėpti CD dėklą."
+
+msgctxt "#40241"
+msgid "Hide pictures info"
+msgstr "Slėpti paveikslėlių informaciją"
+
+msgctxt "#40242"
+msgid "Mosaics"
+msgstr "Mozaika"
+
+msgctxt "#40243"
+msgid "Hide time and date"
+msgstr "Slėpti laiką ir datą"
+
+msgctxt "#40244"
+msgid "Hide time and date on top bar."
+msgstr "Slėpti laiką ir datą viršutinėje juostoje."
+
+msgctxt "#40245"
+msgid "Hide plots of unwatched episodes to avoid spoilers."
+msgstr "Slėpti nematytų epizodų siužetą, kad nebūtų atskleista istorija."
+
+msgctxt "#40246"
+msgid "Unwatched movies recently added"
+msgstr "Neseniai pridėti neperžiūrėti filmai"
+
+msgctxt "#40247"
+msgid "Unwatched episodes recently added"
+msgstr "Neseniai pridėti neperžiūrėti epizodai"
+
+msgctxt "#40248"
+msgid "Hide watched items from recently added"
+msgstr "Neseniai pridėtuose nerodyti matytų elementų"
+
+msgctxt "#40249"
+msgid "Unwatched music videos recently added"
+msgstr "Neseniai pridėti neperžiūrėti muzikos video"
+
+msgctxt "#40250"
+msgid "Bigger font"
+msgstr "Didesnis šriftas"
+
+msgctxt "#40251"
+msgid "Pause video during access to extended info"
+msgstr "Atidarant išplėstą informaciją sustabdyti video"
+
+msgctxt "#40252"
+msgid "Pause video when viewing extended info."
+msgstr "Atidarant išplėstą informaciją sustabdyti video."
+
+msgctxt "#40253"
+msgid "Background of 'Search...' shortcut"
+msgstr "„Ieškoti“ nuorodos fonas"
+
+msgctxt "#40254"
+msgid "Background of 'Favourites' shortcut"
+msgstr "„Mėgstamiausi“ nuorodos fonas"
+
+msgctxt "#40255"
+msgid "Background of 'File browser' shortcut"
+msgstr "„Failų naršyklė“ nuorodos fonas"
+
+msgctxt "#40256"
+msgid "Background of 'Settings' shortcut"
+msgstr "„Nustatymai“ nuorodos fonas"
+
+msgctxt "#40257"
+msgid "Background of 'Power options' shortcut"
+msgstr "„Maitinimo nustatymai“ nuorodos fonas"
+
+msgctxt "#40258"
+msgid "Replace background of [B]Search...[/B] shortcut."
+msgstr "Pakeisti [B]Ieškoti...[/B] nuorodos foną."
+
+msgctxt "#40259"
+msgid "Replace background of [B]Favourites[/B] shortcut."
+msgstr "Pakeisti [B]Mėgstamiausi...[/B] nuorodos foną."
+
+msgctxt "#40260"
+msgid "Replace background of [B]File browser[/B] shortcut."
+msgstr "Pakeisti [B]Failų naršyklė...[/B] nuorodos foną."
+
+msgctxt "#40261"
+msgid "Replace background of [B]Settings[/B] shortcut."
+msgstr "Pakeisti [B]Nustatymai...[/B] nuorodos foną."
+
+msgctxt "#40262"
+msgid "Replace background of [B]Power options[/B] shortcut."
+msgstr "Pakeisti [B]Maitinimo parinktys...[/B] nuorodos foną."
+
+msgctxt "#40263"
+msgid "Disable item."
+msgstr "Išjungti elementą"
+
+msgctxt "#40264"
+msgid "Enable item."
+msgstr "Įjungti elementą."
+
+msgctxt "#40265"
+msgid "Up item"
+msgstr "Eiti aukščiau"
+
+msgctxt "#40266"
+msgid "Down item"
+msgstr "Eiti žemiau"
+
+msgctxt "#40267"
+msgid "Add item"
+msgstr "Pridėti elementą"
+
+msgctxt "#40268"
+msgid "Enable item"
+msgstr "Įjungti elementą"
+
+msgctxt "#40269"
+msgid "Disable item"
+msgstr "Išjungti elementą"
+
+msgctxt "#40270"
+msgid "Delete item"
+msgstr "Pašalinti elementą"
+
+msgctxt "#40271"
+msgid "Use basic vertical menu"
+msgstr "Naudoti paprastą vertikalų meniu"
+
+msgctxt "#40272"
+msgid "Use basic vertical menu instead of dynamic vertical menu."
+msgstr "Naudoti paprastą vertikalų meniu, vietoj dinaminio meniu."
+
+msgctxt "#40273"
+msgid "No bookmarks created yet."
+msgstr "Kol kas nėra žymelių."
+
+msgctxt "#40274"
+msgid "Show Extrafanarts"
+msgstr "Rodyti „extrafanart“"
+
+msgctxt "#40275"
+msgid "Show multiple backgrounds on the home menu and library."
+msgstr "Rodyti kelis fonus namų meniu ir bibliotekoje."
+
+msgctxt "#40276"
+msgid "Disable Kodi screensaver"
+msgstr "Išjungti Kodi ekrano užsklandą"
+
+msgctxt "#40277"
+msgid "Disable Kodi screensaver on fullscreen music playback."
+msgstr "Atkuriant muziką visame ekrane išjungti kodi ekrano užsklandą."
+
+msgctxt "#40278"
+msgid "Show rating of TMDB rather than IMDB"
+msgstr "Rodyti TMDB vertinimą vietoj IMDB"
+
+msgctxt "#40279"
+msgid "Show rating of TheMovieDB.org rather than IMDb.com."
+msgstr "Rodyti TheMovieDB.org vietoj IMDb.com."
+
+msgctxt "#40280"
+msgid "Access to all your games"
+msgstr "Pasiekite visus savo žaidimus"
+
+msgctxt "#40281"
+msgid "Background of 'Games' shortcut"
+msgstr "„Žaidimai“ nuorodos fonas"
+
+msgctxt "#40282"
+msgid "Replace background of [B]Games[/B] shortcut."
+msgstr "Pakeisti nuorodos [B]Žaidimai[/B] foną."
+
+msgctxt "#40283"
+msgid "Pattern type"
+msgstr "Šablono tipas"
+
+msgctxt "#40284"
+msgid "Pattern color"
+msgstr "Šablono spalva"
+
+msgctxt "#40285"
+msgid "Reset pattern color"
+msgstr "Atstatyti šablono spalvą"
+
+msgctxt "#40286"
+msgid "Select pattern type of background."
+msgstr "Pasirinkite fono šablono tipą."
+
+msgctxt "#40287"
+msgid "Change pattern color of background."
+msgstr "Keisti fono šablono spalvą."
+
+msgctxt "#40288"
+msgid "Reset pattern color of background."
+msgstr "Atstatyti šablono fono spalvą į numatytąją."
+
+msgctxt "#40289"
+msgid "Horizontal guide"
+msgstr "Horizontali gairė"
+
+msgctxt "#40290"
+msgid "Number of items for widgets"
+msgstr "Programėlių elementų skaičius"
+
+msgctxt "#40291"
+msgid "Set number of items to display on widgets."
+msgstr "Nurodykite kiek bus rodoma programėlių."
+
+msgctxt "#40292"
+msgid "votes"
+msgstr "balsai"
+
+msgctxt "#40293"
+msgid "Eject"
+msgstr "Išstumti"
+
+msgctxt "#40294"
+msgid "Hide Spoilers"
+msgstr "Slėpti siužetą"
