@@ -1,0 +1,1211 @@
+# Kodi Media Center language file
+# Addon Name: Estuary MOD v2
+# Addon id: skin.estuary.modv2
+# Addon Provider: Guilouz
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: elChupete\n"
+"Language-Team: German (Germany) (http://www.transifex.com/projects/p/kodi-main/language/de_DE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: /xml/Home.xml /xml/DialogSeekBar.xml
+msgctxt "#31000"
+msgid "Now playing"
+msgstr "Es läuft"
+
+#: /xml/Home.xml
+msgctxt "#31001"
+msgid "Search..."
+msgstr "Suche..."
+
+#: /xml/SkinSettings.xml
+msgctxt "#31002"
+msgid "Show media fanart as background"
+msgstr "Medien-Fanart als Hintergrund nutzen (wenn verfügbar)"
+
+msgctxt "#31003"
+msgid "Cinema mode"
+msgstr "Kinomodus"
+
+msgctxt "#31004"
+msgid "Change mode"
+msgstr "Modus ändern"
+
+msgctxt "#31005"
+msgid "Watch as 2D"
+msgstr "In 2D ansehen"
+
+msgctxt "#31006"
+msgid "Random movies"
+msgstr "Zufällige Filme"
+
+msgctxt "#31007"
+msgid "Unwatched movies"
+msgstr "Ungesehene Filme"
+
+msgctxt "#31009"
+msgid "Download icons"
+msgstr "Icons herunterladen"
+
+msgctxt "#31010"
+msgid "In progress movies"
+msgstr "Begonnene Filme"
+
+msgctxt "#31011"
+msgid "Most played albums"
+msgstr "Meistgespielte Alben"
+
+msgctxt "#31012"
+msgid "Random albums"
+msgstr "Zufällige Alben"
+
+msgctxt "#31013"
+msgid "Random artists"
+msgstr "Zufällige Interpreten"
+
+msgctxt "#31014"
+msgid "Unplayed albums"
+msgstr "Ungespielte Alben"
+
+msgctxt "#31015"
+msgid "Recent recordings"
+msgstr "Zuletzt gemachte Aufnahmen"
+
+msgctxt "#31016"
+msgid "Recently played channels"
+msgstr "Zuletzt gesehene Kanäle"
+
+msgctxt "#31017"
+msgid "Rated"
+msgstr "Bewertung"
+
+msgctxt "#31018"
+msgid "Recently played channels"
+msgstr "Zuletzt gehörte Kanäle"
+
+msgctxt "#31019"
+msgid "Forecast"
+msgstr "Vorhersage"
+
+msgctxt "#31020"
+msgid "Actions"
+msgstr "Aktionen"
+
+msgctxt "#31021"
+msgid "Misc options"
+msgstr "Sonstige Einstellungen"
+
+msgctxt "#31022"
+msgid "Sort by"
+msgstr "Sortieren nach"
+
+msgctxt "#31023"
+msgid "Viewtype"
+msgstr "Ansicht"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31024"
+msgid "Choose rating to display for media items"
+msgstr "Wähle anzuzeigendes Rating für Medien"
+
+msgctxt "#31025"
+msgid "No favourites found. You can add any item from media views to this list by using the context menu."
+msgstr "Keine Favoriten gespeichert. Es kann jedes beliebige Element aus den Medienansichten via Rechtsklick zu den Favoriten hinzugefügt werden."
+
+#: /xml/DialogSeekBar.xml
+msgctxt "#31026"
+msgid "Timeshift"
+msgstr "Timeshift"
+
+msgctxt "#31028"
+msgid "Show fanart"
+msgstr "Fanart zeigen"
+
+msgctxt "#31029"
+msgid "Last logged in"
+msgstr "Zuletzt angemeldet"
+
+#: /xml/SettingsSystemInfo.xml
+msgctxt "#31030"
+msgid "System memory usage"
+msgstr "Speicherausnutzung"
+
+msgctxt "#31031"
+msgid "Version info"
+msgstr "Versionsinfos"
+
+msgctxt "#31032"
+msgid "Order"
+msgstr "Reihenfolge"
+
+msgctxt "#31033"
+msgid "Your rating"
+msgstr "Persönliche Bewertung"
+
+msgctxt "#31034"
+msgid "Extended info"
+msgstr "Erweiterte Infos"
+
+msgctxt "#31035"
+msgid "Pages"
+msgstr "Seiten"
+
+msgctxt "#31036"
+msgid "items"
+msgstr "Einträge"
+
+msgctxt "#31038"
+msgid "Rewind"
+msgstr "Rücklauf"
+
+msgctxt "#31039"
+msgid "Fast forward"
+msgstr "Schneller Vorlauf"
+
+msgctxt "#31041"
+msgid "Camera manufacturer"
+msgstr "Kamerahersteller"
+
+msgctxt "#31042"
+msgid "Playlist options"
+msgstr "Wiedergabelisten-Einstellungen"
+
+msgctxt "#31043"
+msgid "Set the type and add rules to create a smart playlist. These playlists are dynamic and include all media items from your database which apply to your chosen rules."
+msgstr "Typ einstellen und Regeln für die Smart Playlist hinzufügen. Diese Art von Playlisten ist dynamisch und beinhaltet alle Medien aus der Bibliothek, die die gesetzten Regeln erfüllen."
+
+msgctxt "#31044"
+msgid "Add group"
+msgstr "Gruppe hinzufügen"
+
+msgctxt "#31045"
+msgid "Rename group"
+msgstr "Gruppe umbenennen"
+
+msgctxt "#31046"
+msgid "Delete group"
+msgstr "Gruppe löschen"
+
+msgctxt "#31048"
+msgid "Available"
+msgstr "Verfügbar"
+
+msgctxt "#31050"
+msgid "Press [B]OK[/B] to stop"
+msgstr "[B]OK[/B] zum Stoppen drücken"
+
+msgctxt "#31051"
+msgid "Toggle language"
+msgstr "Sprache umstellen"
+
+msgctxt "#31052"
+msgid "filtered"
+msgstr "gefiltert"
+
+msgctxt "#31053"
+msgid "Arial based"
+msgstr "Arial-basiert"
+
+msgctxt "#31054"
+msgid "Press [B]Left[/B] to rewind, or [B]Right[/B] to fast-forward"
+msgstr "[B]Links[/B] zum Zurückspulen, [B]Rechts[/B] zum Vorspulen drücken"
+
+msgctxt "#31056"
+msgid "Go to playlist"
+msgstr "Zur Playlist..."
+
+msgctxt "#31057"
+msgid "Show login screen on startup"
+msgstr "Login-Screen beim Programmstart anzeigen"
+
+msgctxt "#31058"
+msgid "Automatic Login on startup"
+msgstr "Automatischer Login beim Programmstart"
+
+msgctxt "#31061"
+msgid "Main menu items"
+msgstr "Hauptmenüeinträge"
+
+msgctxt "#31062"
+msgid "Weather fanarts pack"
+msgstr "Fanart-Sammlung für Wetterbildschirm wählen"
+
+msgctxt "#31063"
+msgid "Sections"
+msgstr "Sektionen"
+
+#: /xml/Variables.xml
+msgctxt "#31064"
+msgid "unwatched"
+msgstr "ungesehen"
+
+msgctxt "#31065"
+msgid "Video playlist"
+msgstr "Video-Playlist"
+
+msgctxt "#31066"
+msgid "Music playlist"
+msgstr "Musik-Playlist"
+
+msgctxt "#31067"
+msgid "Event log"
+msgstr "Ereignisse"
+
+msgctxt "#31068"
+msgid "Choose presets"
+msgstr "Presets wählen"
+
+msgctxt "#31069"
+msgid "Last Updated"
+msgstr "Zuletzt aktualisiert"
+
+msgctxt "#31071"
+msgid "by"
+msgstr "von"
+
+msgctxt "#31072"
+msgid "Power Options"
+msgstr "Ausschalt-Einstellungen"
+
+msgctxt "#31075"
+msgid "Movie sets"
+msgstr "Filmkollektionen"
+
+msgctxt "#31079"
+msgid "Cast not available"
+msgstr "Vorhersage nicht verfügbar"
+
+msgctxt "#31080"
+msgid "Ends at"
+msgstr "Endet um"
+
+msgctxt "#31082"
+msgid "Lyrics add-on"
+msgstr "Liedtexte-Addon"
+
+msgctxt "#31083"
+msgid "Lyrics add-on settings"
+msgstr "Liedtexte-Addon-Einstellungen"
+
+msgctxt "#31084"
+msgid "Visualisation settings"
+msgstr "Visualisierungs-Einstellungen"
+
+msgctxt "#31089"
+msgid "Available groups"
+msgstr "Verfügbare Gruppen"
+
+msgctxt "#31090"
+msgid "Search trailer"
+msgstr "Trailer suchen"
+
+msgctxt "#31092"
+msgid "Video menu"
+msgstr "Videomenü"
+
+msgctxt "#31093"
+msgid "Show weather info in top bar"
+msgstr "Wetterinformationen in Kopfleiste anzeigen"
+
+msgctxt "#31095"
+msgid "Use slide animations"
+msgstr "Slide-Animationen benutzen"
+
+msgctxt "#31096"
+msgid "Local subtitle available"
+msgstr "Lokaler Untertitel verfügbar"
+
+msgctxt "#31097"
+msgid "Channel options"
+msgstr "Kanal-Einstellungen"
+
+msgctxt "#31098"
+msgid "Select your Kodi user profile[CR]to login and continue"
+msgstr "Bitte Kodi-Benutzerprofil auswählen[CR]um fortzufahren"
+
+#. viewtype name
+#: /xml/View_52_IconWall.xml
+msgctxt "#31099"
+msgid "IconWall"
+msgstr "Icon Wall"
+
+msgctxt "#31100"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "#31101"
+msgid "InfoWall"
+msgstr "Info Wall"
+
+msgctxt "#31102"
+msgid "Wall"
+msgstr "Wall"
+
+msgctxt "#31103"
+msgid "Enter text here..."
+msgstr "Text hier eingeben..."
+
+msgctxt "#31104"
+msgid "Your library is currently empty. In order to populate it with your personal media, enter \"Files\" section, add a media source and configure it. After the source has been added and indexed you will be able to browse your library."
+msgstr "Die persönliche Bibliothek ist derzeit leer. Um sie mit Inhalten zu füllen, zu \"Dateien\" wechseln, eine Medienquelle hinzufügen und diese dann konfigurieren. Nachdem die Quelle hinzugefügt und indiziert wurde, kann die Bibliothek durchstöbert werden."
+
+msgctxt "#31105"
+msgid "Add video sources and set the appropriate content type in order to populate your video libraries."
+msgstr "Videoquellen hinzufügen und den korrekten Inhaltstyp auswählen, um die persönlichen Bibliotheken zu befüllen."
+
+msgctxt "#31106"
+msgid "Teletext"
+msgstr "Teletext"
+
+msgctxt "#31107"
+msgid "WideList"
+msgstr "WideList"
+
+msgctxt "#31110"
+msgid "Enter files section"
+msgstr "Zu \"Dateien\"..."
+
+msgctxt "#31111"
+msgid "View your personal pictures or download one of the many image add-ons from the official repository."
+msgstr "Persönliche Fotos anschauen oder eines der vielen Bilder-Addons aus dem offiziellen Repository ausprobieren."
+
+msgctxt "#31112"
+msgid "Toggle audio stream"
+msgstr "Tonspur wechseln"
+
+msgctxt "#31113"
+msgid "Search local library"
+msgstr "Lokale Bibliothek durchsuchen"
+
+msgctxt "#31114"
+msgid "Search YouTube"
+msgstr "YouTube durchsuchen"
+
+msgctxt "#31115"
+msgid "Search TheMovieDB"
+msgstr "TheMovieDB durchsuchen"
+
+msgctxt "#31116"
+msgid "Remove this main menu item"
+msgstr "Diesen Hauptmenüeintrag entfernen"
+
+msgctxt "#31117"
+msgid "Edit nodes"
+msgstr "Menü editieren"
+
+msgctxt "#31118"
+msgid "Enter add-on browser"
+msgstr "Zum Addon-Browser..."
+
+msgctxt "#31119"
+msgid "You do not have any add-ons installed yet. Visit our add-on browser to browse through our collection and improve your Kodi experience."
+msgstr "Es sind noch keine Addons installiert. Den Addon-Browser öffnen, um in der Addon-Sammlung zu stöbern."
+
+msgctxt "#31120"
+msgid "You did not set up a weather provider yet. In order to view weather information, choose a weather provider and set up your location."
+msgstr "Es ist noch kein Wetterprovider eingerichtet. Um Wetterinformationen zu erhalten, einen Wetterprovider auswählen und Orte einrichten."
+
+msgctxt "#31121"
+msgid "Set weather provider"
+msgstr "Wetterprovider wählen"
+
+msgctxt "#31122"
+msgid "Unwatched TV Shows"
+msgstr "Ungesehene Serien"
+
+msgctxt "#31123"
+msgid "Same director"
+msgstr "Filme dieses Regisseurs"
+
+msgctxt "#31124"
+msgid "Show images on map"
+msgstr "Bilder auf Karte zeigen"
+
+msgctxt "#31125"
+msgid "Press up for actor info"
+msgstr "[B]Hoch[/B] für Schauspieler-Infos drücken"
+
+msgctxt "#31126"
+msgid "Press OK to read plot"
+msgstr "[B]OK[/B] zum Lesen der Handlung drücken"
+
+msgctxt "#31127"
+msgid "Show icons"
+msgstr "Icons zeigen"
+
+msgctxt "#31128"
+msgid "Contributors"
+msgstr "Mitwirkende"
+
+msgctxt "#31129"
+msgid "General settings applying to all areas of the skin."
+msgstr "Allgemeine Einstellungen, die für den gesamten Skin gelten."
+
+msgctxt "#31130"
+msgid "Main menu-related settings: Configure the home screen to your likings."
+msgstr "Einstellungen für das Hauptmenü: Der Hauptbildschirm kann nach Belieben angepaßt werden."
+
+msgctxt "#31131"
+msgid "Main menu fanarts pack"
+msgstr "Fanart-Sammlung für Skin wählen"
+
+msgctxt "#31132"
+msgid "min"
+msgstr "min"
+
+msgctxt "#31134"
+msgid "Remaining"
+msgstr "Verbleibend"
+
+msgctxt "#31136"
+msgid "Click here to see latest changes..."
+msgstr "Hier klicken, um die letzten Änderungen zu sehen..."
+
+msgctxt "#31137"
+msgid "PVR info"
+msgstr "PVR-Info"
+
+msgctxt "#31138"
+msgid "Player process info"
+msgstr "Player-Info"
+
+msgctxt "#31139"
+msgid "Video decoder"
+msgstr "Video-Decoder"
+
+msgctxt "#31140"
+msgid "Pixel format"
+msgstr "Pixel-Format"
+
+msgctxt "#31141"
+msgid "Changes for version"
+msgstr "Änderungen für Version"
+
+msgctxt "#31142"
+msgid "Play speed"
+msgstr "Wiedergabe-Geschwindigkeit"
+
+msgctxt "#31143"
+msgid "You did not set up PVR yet. In order to use PVR, choose a PVR client addon and configure it. Please visit http://kodi.wiki/view/PVR to learn more."
+msgstr "Der PVR wurde noch nicht eingerichtet. Um den PVR nutzen zu können, muß ein PVR-Client Addon ausgewählt und konfiguriert werden. Mehr Informationen unter http://kodi.wiki/view/PVR"
+
+msgctxt "#31144"
+msgid "Enter add-on browser"
+msgstr "Zum Addon-Browser..."
+
+msgctxt "#31145"
+msgid "Search add-ons"
+msgstr "Finde Addons"
+
+#: /xml/Home.xml
+msgctxt "#31148"
+msgid "Categories"
+msgstr "Kategorien"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31149"
+msgid "Video genres fanarts pack"
+msgstr "Fanartpacket für Videos"
+
+#: /xml/DialogAddonInfo.xml
+msgctxt "#31150"
+msgid "Repository"
+msgstr "Repository"
+
+#: /xml/Home.xml
+msgctxt "#31151"
+msgid "Unwatched music videos"
+msgstr "Ungesehene Musikvideos"
+
+#: /xml/Home.xml
+msgctxt "#31152"
+msgid "Random music videos"
+msgstr "Zufälliges Musik Video"
+
+#: /xml/Includes.xml
+msgctxt "#31153"
+msgid "You do not have any add-ons of this type installed. Enter the add-on browser to download add-ons created by our community."
+msgstr "Es sind noch keine Addons dieser Art installiert. Den Addon-Browser öffnen, um in der Addon-Sammlung zu stöbern."
+
+#: /xml/MyWeather.xml
+msgctxt "#31154"
+msgid "Press [B]OK[/B] to switch between locations"
+msgstr "Klicke B]OK[/B] um zwischen den Orten zu wechseln"
+
+#: /xml/VideoOSDBookmarks.xml
+msgctxt "#31155"
+msgid "No bookmarks created yet."
+msgstr "Noch keine Lesezeichen erstellt"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31156"
+msgid "Choose background pattern"
+msgstr "Wähle Hintergrundmuster"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31157"
+msgid "Edit videos medias categories"
+msgstr "Editier Videokategorien"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31158"
+msgid "Touch mode"
+msgstr "Touch Modus"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31159"
+msgid "Artwork"
+msgstr "Artwork"
+
+#: /xml/SkinSettings.xml
+msgctxt "#31160"
+msgid "Show media flags"
+msgstr "Zeige Medienflags"
+
+#: /xml/DialogNumeric.xml
+msgctxt "#31161"
+msgid "Numeric pad"
+msgstr "Nummernpad"
+
+#: /xml/Home.xml
+msgctxt "#31162"
+msgid "Play your personal games or download one of the many game add-ons from the official repository."
+msgstr "Spiele Deine eigenen Spiele oder lade eines der Spieladdons vom offiziellen Repository"
+
+#: /xml/Custom_1105_MusicOSDSettings.xml
+msgctxt "#31163"
+msgid "Show Fanart background"
+msgstr "Zeige Fanart Hintergrund"
+
+#: /xml/SkinSettings.xml
+msgctxt "#40000"
+msgid "Main menu"
+msgstr "Haupt Menü"
+
+#: /xml/Custom_1120_SourcesDialog.xml
+msgctxt "#40001"
+msgid "Add media sources"
+msgstr "Medienquellen hinzufügen"
+
+#: /xml/Custom_1120_SourcesDialog.xml
+msgctxt "#40002"
+msgid "Shortcuts to the \"Files\" sections of each media type. Go there to add additional sources for your databases."
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40003"
+msgid "Home menu"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40004"
+msgid "Hide main menu when selecting widgets"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40005"
+msgid "Show 'Movies' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40006"
+msgid "Show 'TV shows' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40007"
+msgid "Show 'Music' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40008"
+msgid "Show 'Music videos' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40009"
+msgid "Show 'TV' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40010"
+msgid "Show 'Radio' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40011"
+msgid "Show 'Add-ons' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40012"
+msgid "Show 'Pictures' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40013"
+msgid "Show 'Videos' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40014"
+msgid "Show 'Games' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40015"
+msgid "Show 'Favourites' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40016"
+msgid "Show 'Weather' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40017"
+msgid "Edit audio media categories"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40018"
+msgid "Hide items of widget"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40019"
+msgid "Colors"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40020"
+msgid "Main color"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40021"
+msgid "Reset main color"
+msgstr ""
+
+#: /xml/script-skin_helper_service-ColorPicker.xml
+msgctxt "#40022"
+msgid "Color selection"
+msgstr ""
+
+#: /xml/script-skin_helper_service-ColorPicker.xml
+msgctxt "#40023"
+msgid "Color"
+msgstr ""
+
+#: /xml/DialogContextMenu.xml
+msgctxt "#40024"
+msgid "Context menu"
+msgstr ""
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#40025"
+msgid "Next aired"
+msgstr ""
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#40026"
+msgid "Last aired"
+msgstr ""
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#40027"
+msgid "votes"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#40028"
+msgid "hardware decoding"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#40029"
+msgid "software decoding"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#40030"
+msgid "Plot masked to avoid spoilers."
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40031"
+msgid "Hide episodes plots to avoid spoilers"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40032"
+msgid "Debug infos"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40033"
+msgid "Background color"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40034"
+msgid "Reset background color"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40035"
+msgid "Background pattern color"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40036"
+msgid "Reset background pattern color"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40037"
+msgid "Opacity for fanart as background"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40038"
+msgid "0%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40039"
+msgid "5%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40040"
+msgid "10%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40041"
+msgid "15%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40042"
+msgid "20%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40043"
+msgid "25%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40044"
+msgid "30%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40045"
+msgid "35%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40046"
+msgid "40%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40047"
+msgid "45%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40048"
+msgid "50%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40049"
+msgid "55%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40050"
+msgid "60%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40051"
+msgid "65%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40052"
+msgid "70%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40053"
+msgid "75%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40054"
+msgid "80%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40055"
+msgid "85%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40056"
+msgid "90%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40057"
+msgid "95%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40058"
+msgid "100%"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40059"
+msgid "Show ExtraFanarts"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40060"
+msgid "Start automatically Artwork Downloader after library update"
+msgstr ""
+
+#: /xml/DialogMusicInfo.xml
+msgctxt "#40061"
+msgid "Press OK to read description"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40062"
+msgid "Weather icons pack"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40063"
+msgid "Kiosk Mode"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#40064"
+msgid "None"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40065"
+msgid "Splash screen (photo, video or music)"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40066"
+msgid "Extras"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40067"
+msgid "Number of items to display on widgets"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40068"
+msgid "Show media clearlogos"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40069"
+msgid "Backup / Restore"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40070"
+msgid "Backup skin settings"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40071"
+msgid "Restore skin settings"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40072"
+msgid "Set location of backup file"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40073"
+msgid "Necessary addons"
+msgstr ""
+
+#: /xml/script-nextup-notification-PostPlayInfo.xml
+msgctxt "#40074"
+msgid "Hide Spoilers"
+msgstr ""
+
+#: /xml/script-nextup-notification-NextUpInfo.xml
+msgctxt "#40075"
+msgid "Next episode"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40076"
+msgid "Disable zoom effect"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40077"
+msgid "Hide notification popup during playback"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40078"
+msgid "Music OSD"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40079"
+msgid "Video OSD"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40080"
+msgid "Show music visualisation screen when playing song"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40081"
+msgid "Enable ExtraFanarts for background"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40082"
+msgid "Animate background"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40083"
+msgid "Show visualisation effects"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40084"
+msgid "Show music visualisation effects on background"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40085"
+msgid "Show video on background"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40086"
+msgid "Disable Kodi screensaver"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40087"
+msgid "Show album CDArt"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40088"
+msgid "Hide CD case"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40089"
+msgid "Show artist Clearlogo"
+msgstr ""
+
+#: /xml/MusicVisualisation.xml
+msgctxt "#40090"
+msgid "Next tracks"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40091"
+msgid "Show artist banner"
+msgstr ""
+
+#: /xml/script-cu-lrclyrics-main.xml
+msgctxt "#40092"
+msgid "Lyrics source"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40093"
+msgid "Media flags of the same color as main skin color"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40094"
+msgid "Show ClearArt on video infos"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40095"
+msgid "Show CDArt"
+msgstr ""
+
+#: /xml/VideoOSD.xml
+msgctxt "#40096"
+msgid "Actors list"
+msgstr ""
+
+#: /xml/Custom_1123_SettingsMoviesWidgets.xml
+msgctxt "#40097"
+msgid "Hide widget"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40098"
+msgid "Manage widgets from 'Movies' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40099"
+msgid "Manage widgets from 'TV shows' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40100"
+msgid "Manage widgets from 'Music' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40101"
+msgid "Manage widgets from 'Music videos' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40102"
+msgid "Manage widgets from 'TV' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40103"
+msgid "Manage widgets from 'Radio' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40104"
+msgid "Manage widgets from 'Add-ons' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40105"
+msgid "Manage widgets from 'Videos' item"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40106"
+msgid "Manage display of menu items"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40107"
+msgid "Next airing episodes"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40108"
+msgid "Studios icons pack"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40109"
+msgid "Records labels icons pack"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40110"
+msgid "Video genres icons pack"
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#40111"
+msgid "Settings applying to library."
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#40112"
+msgid "Display of Artworks related settings."
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#40113"
+msgid "Visualization of the music screen related settings."
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#40114"
+msgid "Visualization of the video screen related settings."
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#40115"
+msgid "Skin colors related settings."
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#40116"
+msgid "Necessary addons for good performance."
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#40117"
+msgid "Backup and restore skin settings."
+msgstr ""
+
+#: /xml/Variables.xml
+msgctxt "#40118"
+msgid "Additional settings."
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40119"
+msgid "Show animated posters"
+msgstr ""
+
+#: /xml/script-NextAired-TVGuide.xml
+msgctxt "#40120"
+msgid "TV shows next aired"
+msgstr ""
+
+#: /xml/Includes_MediaMenu.xml
+msgctxt "#40121"
+msgid "Horizontal guide"
+msgstr ""
+
+#: /xml/Home.xml
+msgctxt "#40122"
+msgid "Hardware info"
+msgstr ""
+
+#: /xml/Home.xml
+msgctxt "#40123"
+msgid "Hard disk usage:"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40124"
+msgid "Opacity for top and bottom bars"
+msgstr ""
