@@ -1,4 +1,5 @@
 1.7.11
+• Add polish translation
 • Drop support for using hyphen as none value
 
 1.7.10

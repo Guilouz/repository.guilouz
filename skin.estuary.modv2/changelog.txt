@@ -4,6 +4,8 @@
 • Fix banner on music visualisation when next tracks are not available
 • Fix missing clearlogos with moviesets widget
 • Fix in musicvideo views
+• Fix label with moviesets thumbnails
+• Enable landscape views for seasons
 • Drop support for using hyphen as none value
 • Minnor fixes
 
