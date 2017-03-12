@@ -3,8 +3,13 @@
 	<defaultcontrol></defaultcontrol>
 	<backgroundcolor>background</backgroundcolor>
 	<controls>
+		<control type="visualisation">
+			<include>FullScreenDimensions</include>
+			<visible>Player.HasAudio</visible>
+			<visible>Skin.HasSetting(enable_visualisation)</visible>
+		</control>
 		<control type="image">
-			<texture colordiffuse="$VAR[BackgroundColorVar]" fallback="special://skin/extras/backgrounds/default.jpg">$VAR[GlobalFanartVar]</texture>
+			<texture colordiffuse="$VAR[Background_Opacity]" fallback="special://skin/extras/backgrounds/default.jpg">$VAR[GlobalFanartVar]</texture>
 			<width>100%</width>
 			<height>100%</height>
 			<aspectratio align="center">scale</aspectratio>
@@ -50,11 +55,6 @@
 			<visible>String.IsEmpty(Window(Home).Property(SkinHelper.Player.Art.ExtraFanArt)) + Skin.HasSetting(enable_artistslideshow)</visible>
 			<animation effect="zoom" start="110" end="130" center="auto" time="10000" tween="sine" easing="inout" pulse="true" condition="Skin.HasSetting(animate_artistslideshow)">Conditional</animation>
 			<animation effect="slide" start="-30,-30" end="30,30" time="6000" tween="sine" easing="inout" pulse="true" condition="Skin.HasSetting(animate_artistslideshow)">Conditional</animation>
-		</control>
-		<control type="visualisation">
-			<include>FullScreenDimensions</include>
-			<visible>Player.HasAudio</visible>
-			<visible>Skin.HasSetting(enable_visualisation)</visible>
 		</control>
 		<control type="group">
 			<centerleft>50%</centerleft>
