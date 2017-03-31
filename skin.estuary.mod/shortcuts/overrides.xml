@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <overrides>
+    <!-- Power menu: close before opening other window -->
+    <groupoverride group="powermenu" condition="Window.IsActive(DialogButtonMenu.xml)">Close</groupoverride>
+    
     <!-- Icons overrides -->
     <icon image="DefaultShortcut.png">special://skin/extras/icons/addtile.png</icon>
     <icon labelID="livetv">DefaultTVGuide.png</icon>
