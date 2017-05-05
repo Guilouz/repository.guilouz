@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
 "Report-Msgid-Bugs-To: karlheinzgraf74@gmail.com\n"
-"POT-Creation-Date: 2017-05-05 17:17+2\n"
-"PO-Revision-Date: 2017-05-05 17:17+2\n"
+"POT-Creation-Date: 2017-05-05 20:02+2\n"
+"PO-Revision-Date: 2017-05-05 20:02+2\n"
 "Last-Translator: Rainman74\n"
 "Language-Team: German (Germany)\n"
 "MIME-Version: 1.0\n"
@@ -402,7 +402,7 @@ msgstr "Kanal-Einstellungen"
 #: /xml/LoginScreen.xml
 msgctxt "#31098"
 msgid "Select your Kodi user profile[CR]to login and continue"
-msgstr "Bitte Benutzerprofil auswählen[CR]um fortzufahren"
+msgstr "Bitte Kodi-Benutzerprofil zum[CR]Anmelden und Fortfahren auswählen"
 
 #. viewtype name
 #: /xml/View_52_IconWall.xml
