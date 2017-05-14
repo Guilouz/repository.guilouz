@@ -16,14 +16,6 @@ msgstr ""
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. Label of various controls for resuming playback from a certain point in time
-#: xbmc/pvr/PVRGUIActions.cpp
-#: xbmc/video/windows/GUIWindowVideoBase.cpp
-#: fix for missing literal in string.po
-msgctxt "#12022"
-msgid "Resume from {0:s}"
-msgstr "Fortsetzen ab {0:s}"
-
 #: /xml/Home.xml /xml/DialogSeekBar.xml
 msgctxt "#31000"
 msgid "Now playing"
