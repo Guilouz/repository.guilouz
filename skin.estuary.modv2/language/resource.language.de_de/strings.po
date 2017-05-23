@@ -1317,7 +1317,7 @@ msgstr "Nächste ausgestrahlte Serien"
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40121"
 msgid "Thumbs with banners"
-msgstr ""
+msgstr "Miniaturen mit Banner"
 
 #: /xml/Home.xml
 msgctxt "#40122"
@@ -1387,7 +1387,7 @@ msgstr ""
 #: /shortcuts/overrides.xml
 msgctxt "#40135"
 msgid "Skin Helper Service Widgets"
-msgstr "Skin-Helper-Service-Widgets"
+msgstr "Skin Helper Service Widgets"
 
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40136"
@@ -1397,7 +1397,7 @@ msgstr "Zusammenstellung der Widgets auswählen"
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40137"
 msgid "Widget appearence"
-msgstr "Widgets anpassen"
+msgstr "Erscheinungsbild des Widgets"
 
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40138"
@@ -1407,7 +1407,7 @@ msgstr "Poster"
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40139"
 msgid "Thumbs without banners"
-msgstr ""
+msgstr "Miniaturen ohne Banner"
 
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40140"
@@ -1547,12 +1547,12 @@ msgstr "Personalisierbares Widget"
 #: /shortcuts/overrides.xml
 msgctxt "#40167"
 msgid "Sort method of widget"
-msgstr ""
+msgstr "Art der Sortierung des Widgets"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40168"
 msgid "Sort direction of widget"
-msgstr ""
+msgstr "Sortierreihenfolge des Widgets"
 
 #: Empty string 40169
 
