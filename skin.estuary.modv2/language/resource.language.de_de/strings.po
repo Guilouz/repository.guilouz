@@ -1017,7 +1017,7 @@ msgstr "Artwork-Downloader nach Bibliotheksaktualisierung automatisch starten"
 #: /xml/DialogMusicInfo.xml
 msgctxt "#40061"
 msgid "Press [B]OK[/B] to read description"
-msgstr "Drücken Sie [B]OK(/B], um die Beschreibung zu lesen"
+msgstr "Drücken Sie [B]OK[/B], um die Beschreibung zu lesen"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40062"
@@ -1557,7 +1557,7 @@ msgstr "Sortierreihenfolge des Widgets"
 #: /xml/DialogMusicInfo.xml
 msgctxt "#40169"
 msgid "Press [B]OK[/B] to read description or [B]Left[/B] to show back thumb"
-msgstr ""
+msgstr "Drücken Sie [B]OK[/B], um die Beschreibung zu lesen oder [B]links[/B] zum Anzeigen der Zurückoption"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40170"
@@ -1717,9 +1717,9 @@ msgstr "Nicht mehr anzeigen"
 #: /xml/SkinSettings.xml
 msgctxt "#40201"
 msgid "Rating text color"
-msgstr ""
+msgstr "Textfarbe für Berwertungen"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40202"
 msgid "Reset rating text color"
-msgstr ""
+msgstr "Textfarbe für Bewertungen zurück setzen"
