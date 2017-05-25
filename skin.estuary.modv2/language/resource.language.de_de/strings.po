@@ -1557,7 +1557,7 @@ msgstr "Sortierreihenfolge des Widgets"
 #: /xml/DialogMusicInfo.xml
 msgctxt "#40169"
 msgid "Press [B]OK[/B] to read description or [B]Left[/B] to show back thumb"
-msgstr "Drücken Sie [B]OK[/B], um die Beschreibung zu lesen oder [B]links[/B] zum Anzeigen der Zurückoption"
+msgstr "Drücken Sie [B]OK[/B], um die Beschreibung zu lesen oder [B]links[/B] zum Anzeigen der Albumrückseite"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40170"
