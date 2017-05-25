@@ -1722,4 +1722,4 @@ msgstr "Textfarbe für Berwertungen"
 #: /xml/SkinSettings.xml
 msgctxt "#40202"
 msgid "Reset rating text color"
-msgstr "Textfarbe für Bewertungen zurück setzen"
+msgstr "Textfarbe für Bewertungen zurücksetzen"
