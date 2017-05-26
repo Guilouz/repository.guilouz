@@ -1542,7 +1542,7 @@ msgstr "Bibliothek alphabetisch scrollen"
 #: /shortcuts/overrides.xml
 msgctxt "#40166"
 msgid "Lists (up to 8 items)"
-msgstr ""
+msgstr "Liste (bis zu 8 Einträge)"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40167"
@@ -1727,34 +1727,34 @@ msgstr "Textfarbe für Bewertungen zurücksetzen"
 #: /shortcuts/overrides.xml
 msgctxt "#40203"
 msgid "Posters panel"
-msgstr ""
+msgstr "Poster Vorlage"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40204"
 msgid "Widgets to personalize"
-msgstr ""
+msgstr "Widgets anpassen"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40205"
 msgid "Vertical panel (1 item)"
-msgstr ""
+msgstr "Vertikale Vorlage (1 Eintrag)"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40206"
 msgid "Thumbs without banners panel"
-msgstr ""
+msgstr "Vorlage für Miniaturen ohne Banner"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40207"
 msgid "Thumbs with banners panel"
-msgstr ""
+msgstr "Vorlage für Miniaturen mit Banner"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40208"
 msgid "Squares panel"
-msgstr ""
+msgstr "Quadrat Vorlage"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40209"
 msgid "Banners panel"
-msgstr ""
+msgstr "Banner Vorlage"
