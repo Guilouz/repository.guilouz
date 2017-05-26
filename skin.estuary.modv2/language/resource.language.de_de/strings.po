@@ -1727,34 +1727,34 @@ msgstr "Textfarbe für Bewertungen zurücksetzen"
 #: /shortcuts/overrides.xml
 msgctxt "#40203"
 msgid "Posters panel"
-msgstr "Poster Vorlage"
+msgstr "Poster"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40204"
 msgid "Widgets to personalize"
-msgstr "Widgets anpassen"
+msgstr "Konfigurierbares Widget"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40205"
 msgid "Vertical panel (1 item)"
-msgstr "Vertikale Vorlage (1 Eintrag)"
+msgstr "Vertikales Widget (1 Eintrag)"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40206"
 msgid "Thumbs without banners panel"
-msgstr "Vorlage für Miniaturen ohne Banner"
+msgstr "Miniaturen ohne Banner"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40207"
 msgid "Thumbs with banners panel"
-msgstr "Vorlage für Miniaturen mit Banner"
+msgstr "Miniaturen mit Banner"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40208"
 msgid "Squares panel"
-msgstr "Quadrat Vorlage"
+msgstr "Quadrate"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40209"
 msgid "Banners panel"
-msgstr "Banner Vorlage"
+msgstr "Banner"
