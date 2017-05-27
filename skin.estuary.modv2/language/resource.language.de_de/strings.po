@@ -567,7 +567,7 @@ msgstr "Addons-Einstellungen"
 #: /xml/script-skinshortcuts.xml
 msgctxt "#31132"
 msgid "Hide submenus widget"
-msgstr "Widgets in Untermenüs ausblenden"
+msgstr "Untermenü Widget ausblenden"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31133"
