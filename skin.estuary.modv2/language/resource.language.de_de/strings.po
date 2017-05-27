@@ -1762,9 +1762,9 @@ msgstr "Banner"
 #: /shortcuts/overrides.xml
 msgctxt "#40210"
 msgid "Miniatures"
-msgstr "Miniaturen"
+msgstr "Kleine Miniaturen"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40211"
 msgid "Miniatures panel"
-msgstr "Miniaturen"
+msgstr "Kleine Miniaturen"
