@@ -1773,4 +1773,4 @@ msgstr "Kleine Miniaturen"
 #: /xml/View_508_AlbumsAndSongs.xml
 msgctxt "#40212"
 msgid "List of albums and songs"
-msgstr ""
+msgstr "Album und Song Liste"
