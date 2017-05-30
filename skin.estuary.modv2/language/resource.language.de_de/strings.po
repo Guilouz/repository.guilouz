@@ -1773,15 +1773,15 @@ msgstr "Kleine Miniaturen"
 #: /xml/View_508_DoubleLists.xml
 msgctxt "#40212"
 msgid "Double lists"
-msgstr ""
+msgstr "Zweifach-Liste"
 
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40213"
 msgid "Show Skin Helper Service widgets settings"
-msgstr ""
+msgstr "Zeige die Skin Helper Service Widget Einstellungen"
 
 #. viewtype name
 #: /xml/View_509_TripleLists.xml
 msgctxt "#40214"
 msgid "Triple lists"
-msgstr ""
+msgstr "Dreifach-Liste"
