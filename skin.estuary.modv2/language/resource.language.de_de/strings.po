@@ -1789,4 +1789,4 @@ msgstr "Dreifach-Liste"
 #: /xml/SkinSettings.xml
 msgctxt "#40215"
 msgid "Show clearlogos at the top of menu"
-msgstr ""
+msgstr "Clearlog oberhalb des Hauptmenüs anzeigen"
