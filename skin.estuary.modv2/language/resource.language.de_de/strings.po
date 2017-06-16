@@ -1794,9 +1794,9 @@ msgstr "Clearlogos oberhalb des Hauptmenüs anzeigen"
 #: /xml/SkinSettings.xml
 msgctxt "#40216"
 msgid "Minimize main menu"
-msgstr ""
+msgstr "Verkleinertes Hauptmenü"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40217"
 msgid "Show item label on top"
-msgstr ""
+msgstr "Label des Eintrags oberhalb anzeigen"
