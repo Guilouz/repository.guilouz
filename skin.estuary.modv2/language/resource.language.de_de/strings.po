@@ -1799,29 +1799,29 @@ msgstr "Verkleinertes Hauptmenü"
 #: /xml/SkinSettings.xml
 msgctxt "#40217"
 msgid "Show item label on top"
-msgstr "Label des Eintrags oberhalb anzeigen"
+msgstr "Zeige den Text des Menü-Eintrags oberhalb an"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40218"
 msgid "Required add-ons"
-msgstr ""
+msgstr "Benötigte Addons"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40219"
 msgid "Optional add-ons"
-msgstr ""
+msgstr "Optionale Addons"
 
 #: /xml/DialogVideoInfo.xml
 msgctxt "#40220"
 msgid "Click button to play[CR]movie trailer[CR][CR]Click again to stop playback"
-msgstr ""
+msgstr "Klicke Knopf zur  Wiedergabe einer[CR]Filmvorschau[CR][CR]Erneut klicken um Wiedergabe zu stoppen"
 
 #: /xml/Variables.xml
 msgctxt "#40221"
 msgid "Stop playback"
-msgstr ""
+msgstr "Stoppe Wiedergabe"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40222"
 msgid "Play trailers on movie information screen"
-msgstr ""
+msgstr "Zeige Filmvorschauen im Film-Info Bildschirm"
