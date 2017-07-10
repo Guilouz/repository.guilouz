@@ -1829,29 +1829,29 @@ msgstr "Zeige Filmvorschauen im Film-Info Bildschirm"
 #: /xml/SkinSettings.xml
 msgctxt "#40223"
 msgid "Enable gradient colors"
-msgstr ""
+msgstr "Farbverläufe aktivieren"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40224"
 msgid "Secondary color"
-msgstr ""
+msgstr "Zweite Farbe"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40225"
 msgid "Reset secondary color"
-msgstr ""
+msgstr "Zweite Farbe zurücksetzen"
 
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40226"
 msgid "Personalize 'Categories' widget"
-msgstr ""
+msgstr "'Kategorie' Widget anpassen"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40227"
 msgid "Classic list"
-msgstr ""
+msgstr "Klassische Liste"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40228"
 msgid "Icons list"
-msgstr ""
+msgstr "Icon Liste"
