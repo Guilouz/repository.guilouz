@@ -1869,4 +1869,4 @@ msgstr "OSD in pausierten Videos ausblenden"
 #: /xml/SkinSettings.xml
 msgctxt "#40231"
 msgid "Show scrolling text"
-msgstr ""
+msgstr "Zeige animierten Text"
