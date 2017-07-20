@@ -1874,9 +1874,9 @@ msgstr "Zeige animierten Text"
 #: /xml/SkinSettings.xml
 msgctxt "#40232"
 msgid "Scrapers ratings"
-msgstr ""
+msgstr "Bewertungen des Informationsanbieters"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40233"
 msgid "My ratings"
-msgstr ""
+msgstr "Meine Bewertungen"
