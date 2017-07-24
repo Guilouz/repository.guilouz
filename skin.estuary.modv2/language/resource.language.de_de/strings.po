@@ -1884,19 +1884,19 @@ msgstr "Meine Bewertungen"
 #: /xml/Variables.xml
 msgctxt "#40234"
 msgid "win"
-msgstr ""
+msgstr "gewonnen"
 
 #: /xml/Variables.xml
 msgctxt "#40235"
 msgid "wins"
-msgstr ""
+msgstr "gewonnen"
 
 #: /xml/DialogVideoInfo.xml
 msgctxt "#40236"
 msgid "Oscars"
-msgstr ""
+msgstr "Oscars"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40237"
 msgid "Hide fanart opacity in fullscreen mode"
-msgstr ""
+msgstr "Keine Durchsichtigkeit für Fanart im Vollbildmodus"
