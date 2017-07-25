@@ -1904,4 +1904,4 @@ msgstr "Keine Durchsichtigkeit für Fanart im Vollbildmodus"
 #: /xml/SkinSettings.xml
 msgctxt "#40238"
 msgid "Show a white border for media"
-msgstr ""
+msgstr "Zeige Medien mit weissem Rahmen"
