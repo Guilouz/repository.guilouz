@@ -817,7 +817,7 @@ msgstr "Hauptfarbe"
 #: /xml/SkinSettings.xml
 msgctxt "#40021"
 msgid "Border color"
-msgstr "Farben für Rahmen"
+msgstr "Rahmenfarbe"
 
 #: /xml/script-skin_helper_service-ColorPicker.xml
 msgctxt "#40022"
@@ -1171,7 +1171,7 @@ msgstr "Lyrics-Quelle"
 #: /xml/SkinSettings.xml
 msgctxt "#40093"
 msgid "Media flags color"
-msgstr "Farben für die Medien-Flags"
+msgstr "Farbe der Medien-Flags"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40094"
@@ -1521,12 +1521,12 @@ msgstr "Alle Radiosender"
 #: /xml/Custom_1105_MusicOSDSettings.xml
 msgctxt "#40163"
 msgid "Fixed lyrics colors"
-msgstr "Optimierte Farben für Liedertexte"
+msgstr "Feste Farben für Liedertexte"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40164"
 msgid "Greyed out watched items"
-msgstr "Gesehene Medien ausblenden"
+msgstr "Gesehene Medien abdunkeln"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40165"
