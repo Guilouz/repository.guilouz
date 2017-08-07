@@ -1897,14 +1897,14 @@ msgstr "Zeige Medien mit Rahmen"
 #: /xml/DialogVideoInfo.xml
 msgctxt "#40239"
 msgid "Get all Artworks"
-msgstr ""
+msgstr "Hole alle Grafiken"
 
 #: /xml/Includes_MediaMenu.xml
 msgctxt "#40240"
 msgid "Standard colors for genres"
-msgstr ""
+msgstr "Standardfarben für Genres"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40241"
 msgid "Pause video during access to extended info"
-msgstr ""
+msgstr "Während Zugriff auf erweiterte Info, Video pausieren"
