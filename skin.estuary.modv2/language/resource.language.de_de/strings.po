@@ -1306,7 +1306,7 @@ msgstr "Animierte Poster anzeigen"
 #: /xml/script-NextAired-TVGuide.xml
 msgctxt "#40120"
 msgid "Next aired episode"
-msgstr ""
+msgstr "Nächste ausgestrahlte Folge"
 
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40121"
@@ -1912,74 +1912,74 @@ msgstr "Während Zugriff auf erweiterte Info, Video pausieren"
 #: /xml/script-NextAired-TVGuide.xml
 msgctxt "#40242"
 msgid "Last aired episode"
-msgstr ""
+msgstr "Zuletzt gesendete Folge"
 
 #: /xml/script-NextAired-TVGuide.xml
 msgctxt "#40243"
 msgid "Date and time of broadcast"
-msgstr ""
+msgstr "Datum und Uhrzeit der Sendung"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40244"
 msgid "Configure media flags"
-msgstr ""
+msgstr "Medienflags konfigurieren"
 
 #: /xml/Custom_1137_SettingsFlags.xml
 msgctxt "#40245"
 msgid "Show media source"
-msgstr ""
+msgstr "Zeige Quelle"
 
 #: /xml/Custom_1137_SettingsFlags.xml
 msgctxt "#40246"
 msgid "Show media resolution"
-msgstr ""
+msgstr "Zeige Auflösung"
 
 #: /xml/Custom_1137_SettingsFlags.xml
 msgctxt "#40247"
 msgid "Show media video codec"
-msgstr ""
+msgstr "Zeige Videocodec"
 
 #: /xml/Custom_1137_SettingsFlags.xml
 msgctxt "#40248"
 msgid "Show media aspect ratio"
-msgstr ""
+msgstr "Zeige Seitenverhältnis"
 
 #: /xml/Custom_1137_SettingsFlags.xml
 msgctxt "#40249"
 msgid "Show media audio codec"
-msgstr ""
+msgstr "Zeige Audiocodec"
 
 #: /xml/Custom_1137_SettingsFlags.xml
 msgctxt "#40250"
 msgid "Show media audio channels"
-msgstr ""
+msgstr "Zeige Audiokanäle"
 
 #: /xml/Custom_1137_SettingsFlags.xml
 msgctxt "#40251"
 msgid "Show media duration"
-msgstr ""
+msgstr "Zeige Dauer"
 
 #: /xml/Custom_1137_SettingsFlags.xml
 msgctxt "#40252"
 msgid "Show media finish time"
-msgstr ""
+msgstr "Zeige Abspielende"
 
 #: /xml/Custom_1137_SettingsFlags.xml
 msgctxt "#40253"
 msgid "Show media studio logo"
-msgstr ""
+msgstr "Zeige Studiologo"
 
 #: /xml/Custom_1137_SettingsFlags.xml
 msgctxt "#40254"
 msgid "Show media record label logo"
-msgstr ""
+msgstr "Zeige Plattenlabel"
 
 #: /xml/Custom_1137_SettingsFlags.xml
 msgctxt "#40255"
 msgid "Show movies of saga"
-msgstr ""
+msgstr "Zeige Filme der Saga"
 
 #: /xml/Custom_1137_SettingsFlags.xml
 msgctxt "#40256"
 msgid "Show albums of artist"
-msgstr ""
+msgstr "Zeige Alben des Künstlers"
