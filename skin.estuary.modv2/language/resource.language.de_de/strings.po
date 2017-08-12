@@ -1306,7 +1306,7 @@ msgstr "Animierte Poster anzeigen"
 #: /xml/script-NextAired-TVGuide.xml
 msgctxt "#40120"
 msgid "Next aired episode"
-msgstr ""
+msgstr "Nächste ausgestrahlte Folge"
 
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40121"
