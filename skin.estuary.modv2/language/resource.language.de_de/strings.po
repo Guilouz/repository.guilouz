@@ -1852,7 +1852,7 @@ msgstr "Persönliche API Schlüssel konfigurieren"
 #: /xml/SkinSettings.xml
 msgctxt "#40230"
 msgid "Displaying video information"
-msgstr ""
+msgstr "Zeige Video Informationen"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40231"
