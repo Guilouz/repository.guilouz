@@ -2008,3 +2008,8 @@ msgstr "Deine Bibliothek ist leer.[CR]Um Deine persönlichen Medien hinzuzufüge
 msgctxt "#40261"
 msgid "Recommended Youtube videos"
 msgstr "Empfohlene Youtube Videos"
+
+#: /xml/SkinSettings.xml
+msgctxt "#40262"
+msgid "Video countries icons pack"
+msgstr "Länder Icons Paket für Videos" 
