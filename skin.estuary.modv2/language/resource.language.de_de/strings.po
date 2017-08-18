@@ -2002,7 +2002,7 @@ msgstr "Immer"
 #: /xml/Home.xml
 msgctxt "#40260"
 msgid "Your library is currently empty.[CR]In order to populate it with your personal media, add  sources and configure them."
-msgstr "Deine Bibliothek ist leer.[CR] Um Deine persönlichen Medien hinzuzufügen, erstelle eine Quelle und konfiguriere Deine Medien."
+msgstr "Deine Bibliothek ist leer.[CR]Um Deine persönlichen Medien hinzuzufügen, erstelle eine Quelle und konfiguriere Deine Medien."
 
 #: /xml/Variables.xml
 msgctxt "#40261"
