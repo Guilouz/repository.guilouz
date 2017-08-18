@@ -1987,24 +1987,24 @@ msgstr "Zeige Alben des Künstlers"
 #: /xml/SkinSettings.xml
 msgctxt "#40257"
 msgid "Never"
-msgstr ""
+msgstr "Niemals"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40258"
 msgid "Only when video is paused"
-msgstr ""
+msgstr "Nur wenn das Video pausiert ist"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40259"
 msgid "Always"
-msgstr ""
+msgstr "Immer"
 
 #: /xml/Home.xml
 msgctxt "#40260"
 msgid "Your library is currently empty.[CR]In order to populate it with your personal media, add  sources and configure them."
-msgstr ""
+msgstr "Deine Bibliothek ist leer.[CR] Um Deine persönlichen Medien hinzuzufügen, erstelle eine Quelle und konfiguriere Deine Medien."
 
 #: /xml/Variables.xml
 msgctxt "#40261"
 msgid "Recommended Youtube videos"
-msgstr ""
+msgstr "Empfohlene Youtube Videos"
