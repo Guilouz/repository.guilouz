@@ -2017,4 +2017,4 @@ msgstr "Länder Icons Paket für Videos"
 #: /xml/Includes.xml
 msgctxt "#40263"
 msgid "No broadcast"
-msgstr ""
+msgstr "Keine Ausstrahlung"
