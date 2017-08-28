@@ -1917,7 +1917,7 @@ msgstr "Zuletzt gesendete Folge"
 #: /xml/script-NextAired-TVGuide.xml
 msgctxt "#40243"
 msgid "Airs"
-msgstr "Sendung"
+msgstr "Ausstrahlung am"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40244"
@@ -2017,4 +2017,4 @@ msgstr "Länder Icons Paket für Videos"
 #: /xml/Includes.xml
 msgctxt "#40263"
 msgid "No broadcast this day"
-msgstr "Keine Ausstrahlung"
+msgstr "Heute keine Ausstrahlung"
