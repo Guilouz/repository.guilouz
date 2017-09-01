@@ -2022,9 +2022,9 @@ msgstr "Heute keine Ausstrahlung"
 #: /xml/SkinSettings.xml
 msgctxt "#40264"
 msgid "Automatically show music video info at beginning and end of playing"
-msgstr ""
+msgstr "Zeige Musikvideo Informationen am Anfang und Ende des Abspielens"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40265"
 msgid "Background replacement"
-msgstr ""
+msgstr "Erstzhintergrund"
