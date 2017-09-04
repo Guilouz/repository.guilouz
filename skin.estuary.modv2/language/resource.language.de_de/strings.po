@@ -2027,4 +2027,4 @@ msgstr "Zeige Musikvideo Informationen am Anfang und Ende des Abspielens"
 #: /xml/SkinSettings.xml
 msgctxt "#40265"
 msgid "Background replacement"
-msgstr "Erstzhintergrund"
+msgstr "Standardhintergrund"
