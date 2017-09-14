@@ -1531,7 +1531,7 @@ msgstr "Gesehene Medien abdunkeln"
 #: /xml/Includes.xml
 msgctxt "#40165"
 msgid "Jump to letter"
-msgstr ""
+msgstr "Springe zum Buchstaben"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40166"
@@ -2032,14 +2032,14 @@ msgstr "Standardhintergrund"
 #: /shortcuts/overrides.xml
 msgctxt "#40266"
 msgid "Genres panel"
-msgstr ""
+msgstr "Genres"
 
 #: /xml/Home.xml
 msgctxt "#40267"
 msgid "Most played music videos"
-msgstr ""
+msgstr "Am häufigsten gespielte Musikvideos"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40268"
 msgid "Show media names with widgets names"
-msgstr ""
+msgstr "Zeige Mediennamen zusammen mit Widgetnamen"
