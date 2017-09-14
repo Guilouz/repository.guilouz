@@ -1530,7 +1530,7 @@ msgstr "צבע באפור פריטים שנצפו"
 #: /xml/Includes.xml
 msgctxt "#40165"
 msgid "Jump to letter"
-msgstr ""
+msgstr "דלג לאות"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40166"
