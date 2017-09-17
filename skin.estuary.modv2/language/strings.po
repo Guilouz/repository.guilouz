@@ -1884,7 +1884,7 @@ msgstr "kazandı"
 #: /xml/DialogVideoInfo.xml
 msgctxt "#40236"
 msgid "Oscars"
-msgstr "Oscar'lar"
+msgstr "Oscar"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40237"
