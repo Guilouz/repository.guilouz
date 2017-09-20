@@ -242,7 +242,7 @@ msgstr "Verfügbar"
 #: /xml/Variables.xml
 msgctxt "#31050"
 msgid "Show plot"
-msgstr ""
+msgstr "Zeige Handlung"
 
 #: /xml/VideoOSD.xml
 msgctxt "#31051"
@@ -262,12 +262,12 @@ msgstr "Arial-basiert"
 #: /xml/Variables.xml
 msgctxt "#31054"
 msgid "Forward jumping"
-msgstr ""
+msgstr "Vorwärts springen"
 
 #: /xml/Variables.xml
 msgctxt "#31055"
 msgid "Backward jumping"
-msgstr ""
+msgstr "Zurück springen"
 
 #: /xml/MyMusicNav.xml /xml/MyVideoNav.xml
 msgctxt "#31056"
@@ -887,7 +887,7 @@ msgstr "Hintergrundfarbe"
 #: /xml/Variables.xml
 msgctxt "#40034"
 msgid "Next chapter"
-msgstr ""
+msgstr "Nächstes Kapitel"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40035"
@@ -897,7 +897,7 @@ msgstr "Hintergrund-Musterfarbe"
 #: /xml/Variables.xml
 msgctxt "#40036"
 msgid "Previous chapter"
-msgstr ""
+msgstr "Vorheriges Kapitel"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40037"
@@ -1860,7 +1860,7 @@ msgstr "Persönliche API Schlüssel konfigurieren"
 #: /xml/SkinSettings.xml
 msgctxt "#40230"
 msgid "Hide video info when video is paused"
-msgstr ""
+msgstr "Blende Informationen aus, wenn Video pausiert ist"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40231"
