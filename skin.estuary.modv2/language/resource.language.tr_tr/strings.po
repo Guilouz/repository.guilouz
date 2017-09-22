@@ -1154,17 +1154,17 @@ msgstr "Kodi ekran koruyucusunu devre dışı bırak"
 #: /xml/SkinSettings.xml
 msgctxt "#40087"
 msgid "Show album CDArt"
-msgstr "Göster albüm CDArt"
+msgstr "Albüm CDArt'ı göster"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40088"
 msgid "Show Clearlogo on video info"
-msgstr ""
+msgstr "Video bilgilerinde Clearlogo'yu göster"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40089"
 msgid "Show artist Clearlogo"
-msgstr "Göster sanatçı Clearlogo"
+msgstr "Sanatçı Clearlogo'yu göster"
 
 #: /xml/MusicVisualisation.xml
 msgctxt "#40090"
@@ -1174,7 +1174,7 @@ msgstr "Sonraki parçalar"
 #: /xml/SkinSettings.xml
 msgctxt "#40091"
 msgid "Show artist banner"
-msgstr "Göster sanatçı afişini"
+msgstr "Sanatçı afişini göster"
 
 #: /xml/script-cu-lrclyrics-main.xml
 msgctxt "#40092"
