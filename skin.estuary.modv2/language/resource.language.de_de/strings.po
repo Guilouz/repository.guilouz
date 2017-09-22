@@ -1157,7 +1157,7 @@ msgstr "CD-Art für Alben anzeigen"
 #: /xml/SkinSettings.xml
 msgctxt "#40088"
 msgid "Show Clearlogo on video info"
-msgstr ""
+msgstr "Clearlogo bei den Informationen zum Video anzeigen"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40089"
