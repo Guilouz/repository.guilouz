@@ -1727,7 +1727,7 @@ msgstr "Textfarbe für Berwertungen"
 #: /xml/SkinSettings.xml
 msgctxt "#40202"
 msgid "Show visualisation effects behind background"
-msgstr ""
+msgstr "Visualisierungseffekte hinter dem Hintergrund anzeigen"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40203"
