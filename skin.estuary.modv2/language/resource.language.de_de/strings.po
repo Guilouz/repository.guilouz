@@ -1844,7 +1844,7 @@ msgstr "Zweite Farbe"
 #: /xml/SkinSettings.xml
 msgctxt "#40225"
 msgid "Use small OSD"
-msgstr ""
+msgstr "Schmales OSD verwenden"
 
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40226"
