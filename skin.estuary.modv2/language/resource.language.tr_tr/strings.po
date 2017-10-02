@@ -1729,7 +1729,7 @@ msgstr "Derecelendirme metni rengi"
 #: /xml/SkinSettings.xml
 msgctxt "#40202"
 msgid "Show visualisation effects behind background"
-msgstr ""
+msgstr "Arka planda görselleştirme efektleri göster"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40203"
@@ -1846,7 +1846,7 @@ msgstr "Ara renk"
 #: /xml/SkinSettings.xml
 msgctxt "#40225"
 msgid "Use small OSD"
-msgstr ""
+msgstr "Küçük OSD kullan"
 
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40226"
