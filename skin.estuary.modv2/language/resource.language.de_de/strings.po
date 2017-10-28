@@ -2004,7 +2004,7 @@ msgstr "Zeige Alben des Künstlers"
 #: /xml/Custom_1110_WarningAddons.xml
 msgctxt "#40257"
 msgid "It seems that you have one ore more blacklisted repositories installed.[CR]Some of us may be malicious. You are free to use them at your own risk...[CR]If you want to know the name of these repositories, refer to the log file 'kodi.log'."
-msgstr ""
+msgstr "Es wurden ein oder mehrere installierte Repositories gefunden, [CR]die potenziell gefährliche Addon enthalten können. Die Benutzung dieser Addons / [CR]Repositories erfolgt auf eigenes Risiko...[CR]Um zu erfahren, welche Repositories betroffen sind, bitte das 'kodi.log' bzw. [CR]'caretaker.log prüfen."
 
 #: Empty String 40258
 
