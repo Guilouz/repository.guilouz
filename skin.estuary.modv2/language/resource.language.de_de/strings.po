@@ -1017,7 +1017,7 @@ msgstr "Extra-Fanart verwenden"
 #: /xml/Variables.xml
 msgctxt "#40060"
 msgid "Pause"
-msgstr ""
+msgstr "Pause"
 
 #: /xml/DialogMusicInfo.xml
 msgctxt "#40061"
