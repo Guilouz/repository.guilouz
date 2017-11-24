@@ -2004,7 +2004,7 @@ msgstr "Zeige Alben des Künstlers"
 #: /xml/SkinSettings.xml
 msgctxt "#40257"
 msgid "Show artist ClearArt"
-msgstr ""
+msgstr "Zeige Künstler ClearArt"
 
 #: Empty String 40258
 
