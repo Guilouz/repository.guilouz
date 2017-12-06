@@ -2009,12 +2009,12 @@ msgstr "Zeige Künstler ClearArt"
 #: /xml/Custom_1101_SettingsList.xml
 msgctxt "#40258"
 msgid "Select Program"
-msgstr ""
+msgstr "Sender wählen"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40259"
 msgid "Enable themes (Halloween & Christmas)"
-msgstr ""
+msgstr "Aktiviere Themes (Halloween & Weihnachten)"
 
 #: /xml/Home.xml
 msgctxt "#40260"
@@ -2064,9 +2064,9 @@ msgstr "Zeige Mediennamen zusammen mit Widgetnamen"
 #: /xml/Variables.xml
 msgctxt "#40269"
 msgid "Christmas Theme"
-msgstr ""
+msgstr "Weihnachts-Theme"
 
 #: /xml/Variables.xml
 msgctxt "#40270"
 msgid "Halloween Theme"
-msgstr ""
+msgstr "Halloween Theme"
