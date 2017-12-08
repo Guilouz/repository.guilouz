@@ -1019,7 +1019,7 @@ msgstr "ExtraFanart'ları Göster"
 #: /xml/Variables.xml
 msgctxt "#40060"
 msgid "Pause"
-msgstr ""
+msgstr "Duraklat"
 
 #: /xml/DialogMusicInfo.xml
 msgctxt "#40061"
@@ -1996,7 +1996,7 @@ msgstr "Medya plak etiket logosunu göster"
 #: /xml/Custom_1137_SettingsFlags.xml
 msgctxt "#40255"
 msgid "Show movies of saga"
-msgstr "Destan filmleri göster"
+msgstr "Efsane filmleri göster"
 
 #: /xml/Custom_1137_SettingsFlags.xml
 msgctxt "#40256"
@@ -2006,17 +2006,17 @@ msgstr "Sanatçının albümlerini göster"
 #: /xml/SkinSettings.xml
 msgctxt "#40257"
 msgid "Show artist ClearArt"
-msgstr ""
+msgstr "Sanatçı ClearArt'ı göster"
 
 #: /xml/Custom_1101_SettingsList.xml
 msgctxt "#40258"
 msgid "Select Program"
-msgstr ""
+msgstr "Programı seç"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40259"
 msgid "Enable themes (Halloween & Christmas)"
-msgstr ""
+msgstr "Temaları etkinleştir (Cadılar bayramı & Noel)"
 
 #: /xml/Home.xml
 msgctxt "#40260"
@@ -2066,9 +2066,9 @@ msgstr "Widget'ların isimleri ile medya isimlerini göster"
 #: /xml/Variables.xml
 msgctxt "#40269"
 msgid "Christmas Theme"
-msgstr ""
+msgstr "Noel Teması"
 
 #: /xml/Variables.xml
 msgctxt "#40270"
 msgid "Halloween Theme"
-msgstr ""
+msgstr "Cadılar bayramı Teması"
