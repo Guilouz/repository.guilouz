@@ -2798,6 +2798,30 @@
 		<value condition="Skin.HasSetting(opacity_100)">100%</value>
 		<value>$LOCALIZE[15109]</value>
 	</variable>
+	<variable name="OpacitySettingDefaultBackground">
+		<value condition="Skin.HasSetting(opacity_dbg_0)">0%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_5)">5%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_10)">10%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_15)">15%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_20)">20%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_25)">25%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_30)">30%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_35)">35%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_40)">40%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_45)">45%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_50)">50%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_55)">55%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_60)">60%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_65)">65%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_70)">70%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_75)">75%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_80)">80%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_85)">85%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_90)">90%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_95)">95%</value>
+		<value condition="Skin.HasSetting(opacity_dbg_100)">100%</value>
+		<value>$LOCALIZE[15109]</value>
+	</variable>
 	<variable name="OpacityBarsSettingLabel2Var">
 		<value condition="Skin.HasSetting(opacitybars_0)">0%</value>
 		<value condition="Skin.HasSetting(opacitybars_5)">5%</value>
@@ -2958,6 +2982,30 @@
 		<value condition="Skin.HasSetting(opacity_90)">E6FFFFFF</value>
 		<value condition="Skin.HasSetting(opacity_95)">F2FFFFFF</value>
 		<value condition="Skin.HasSetting(opacity_100)">FFFFFFFF</value>
+		<value>37FFFFFF</value>
+	</variable>
+	<variable name="Default_Background_Opacity">
+		<value condition="Skin.HasSetting(opacity_dbg_0)">00FFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_5)">0DFFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_10)">1AFFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_15)">26FFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_20)">33FFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_25)">40FFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_30)">4DFFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_35)">59FFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_40)">66FFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_45)">73FFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_50)">80FFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_55)">8CFFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_60)">99FFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_65)">A6FFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_70)">B3FFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_75)">BFFFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_80)">CCFFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_85)">D9FFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_90)">E6FFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_95)">F2FFFFFF</value>
+		<value condition="Skin.HasSetting(opacity_dbg_100)">FFFFFFFF</value>
 		<value>37FFFFFF</value>
 	</variable>
 	<variable name="Bars_Opacity">

@@ -6,16 +6,6 @@
 	<backgroundcolor>background</backgroundcolor>
 	<controls>
 		<include>DefaultBackground</include>
-		<control type="multiimage" id="32112">
-			<include>FullScreenDimensions</include>
-			<aspectratio>scale</aspectratio>
-			<fadetime>400</fadetime>
-			<animation effect="fade" time="400">VisibleChange</animation>
-			<imagepath background="true" colordiffuse="$VAR[Background_Opacity]">$INFO[Skin.String(global-background)]</imagepath>
-			<timeperimage>3000</timeperimage>
-			<randomize>true</randomize>
-			<visible>Skin.HasSetting(no_fanart) + !String.IsEmpty(Skin.String(global-background))</visible>
-		</control>
 		<control type="group" id="10000">
 			<left>470</left>
 			<include>OpenClose_Right</include>		
@@ -1002,14 +992,6 @@
 					<onclick>Skin.ToggleSetting(no_fanart)</onclick>
 					<selected>!Skin.HasSetting(no_fanart)</selected>
 				</control>
-				<control type="button" id="614">
-                    <label>  ∟$LOCALIZE[40265]</label>
-                    <label2>$VAR[Label_SkinSetting_GlobalBackground]</label2>
-                    <include>DefaultSettingButton</include>
-                    <onclick condition="String.IsEmpty(Skin.String(global-background))">Skin.SetImage(global-background)</onclick>
-                    <onclick condition="!String.IsEmpty(Skin.String(global-background))">Skin.Reset(global-background)</onclick>
-                    <visible>Skin.HasSetting(no_fanart)</visible>
-                </control>
 				<control type="radiobutton" id="602">
 					<label>$LOCALIZE[40059]</label>
 					<include>DefaultSettingButton</include>
@@ -1148,6 +1130,27 @@
 					<onclick>Skin.Reset(widgetAnimation9)</onclick>
 					<onclick>Skin.Reset(HomeBanner)</onclick>
 					<onclick>RunScript(script.skinshortcuts,type=resetall)</onclick>
+				</control>
+				<control type="radiobutton" id="10026">
+                    <label>$LOCALIZE[40265]</label>
+					<include>DefaultSettingButton</include>
+					<selected>!Skin.HasSetting(enable_default_background)</selected>
+					<onclick>Skin.ToggleSetting(enable_default_background)</onclick>
+                </control>
+				<control type="button" id="10027">
+                    <label>  ∟$LOCALIZE[40144]</label>
+                    <label2>$VAR[Label_SkinSetting_GlobalBackground]</label2>
+                    <include>DefaultSettingButton</include>
+                    <onclick condition="String.IsEmpty(Skin.String(global-background))">Skin.SetImage(global-background)</onclick>
+                    <onclick condition="!String.IsEmpty(Skin.String(global-background))">Skin.Reset(global-background)</onclick>
+                    <visible>!Skin.HasSetting(enable_default_background)</visible>
+                </control>
+                <control type="button" id="10028">
+					<label>  ∟$LOCALIZE[40273]</label>
+					<include>DefaultSettingButton</include>
+					<onclick>Skin.SelectBool(40273, 15109|, 40038|opacity_dbg_0, 40039|opacity_dbg_5, 40040|opacity_dbg_10, 40041|opacity_dbg_15, 40042|opacity_dbg_20, 40043|opacity_dbg_25, 40044|opacity_dbg_30, 40045|opacity_dbg_35, 40046|opacity_dbg_40, 40047|opacity_dbg_45, 40048|opacity_dbg_50, 40049|opacity_dbg_55, 40050|opacity_dbg_60, 40051|opacity_dbg_65, 40052|opacity_dbg_70, 40053|opacity_dbg_75, 40054|opacity_dbg_80, 40055|opacity_dbg_85, 40056|opacity_dbg_90, 40057|opacity_dbg_95, 40058|opacity_dbg_100)</onclick>
+					<label2>$VAR[OpacitySettingDefaultBackground]</label2>
+                    <visible>!Skin.HasSetting(enable_default_background)</visible>
 				</control>
 				<control type="radiobutton" id="10006">
                     <label>$LOCALIZE[40141]</label>

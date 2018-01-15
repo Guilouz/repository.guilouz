@@ -1730,6 +1730,15 @@
 			<aspectratio>scale</aspectratio>
 			<texture colordiffuse="$VAR[BackgroundColorVar]">special://skin/extras/backgrounds/primary.jpg</texture>
 			<visible>![[Player.HasVideo | Slideshow.IsActive] + Skin.HasSetting(opacity_100)]</visible>
+            <visible>Skin.HasSetting(enable_default_background)</visible>
+		</control>
+		<control type="image">
+			<depth>DepthBackground</depth>
+			<include>FullScreenDimensions</include>
+			<aspectratio>scale</aspectratio>
+            <texture background="true" colordiffuse="$VAR[Default_Background_Opacity]">$INFO[Skin.String(global-background)]</texture>
+            <visible>![[Player.HasVideo | Slideshow.IsActive] + Skin.HasSetting(opacity_100)]</visible>
+			<visible>!Skin.HasSetting(enable_default_background)</visible>
 		</control>
 		<control type="image">
 			<depth>DepthBackground</depth>

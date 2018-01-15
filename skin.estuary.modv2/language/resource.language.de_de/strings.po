@@ -2080,3 +2080,8 @@ msgstr "Ostern Theme"
 msgctxt "#40272"
 msgid "Valentine's Day Theme"
 msgstr "Valentinstag Theme"
+
+#: /xml/SkinSettings.xml
+msgctxt "#40273"
+msgid "Opacity for default background"
+msgstr "Deckkraft für Standard-Hintergrund"
