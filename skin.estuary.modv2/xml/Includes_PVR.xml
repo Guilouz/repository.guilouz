@@ -275,4 +275,65 @@
 			<visible>!String.IsEmpty(PVR.ChannelNumberInput)</visible>
 		</control>
 	</include>
+<!-- KN SWITCHTIMER -->
+<variable name="TimerLabel">
+<value condition="!IsEmpty(Skin.String(t0:date))">$LOCALIZE[31113]</value>
+<value condition="!IsEmpty(Skin.String(t1:date))">$LOCALIZE[31113]</value>
+<value condition="!IsEmpty(Skin.String(t2:date))">$LOCALIZE[31113]</value>
+<value condition="!IsEmpty(Skin.String(t3:date))">$LOCALIZE[31113]</value>
+<value condition="!IsEmpty(Skin.String(t4:date))">$LOCALIZE[31113]</value>
+<value condition="!IsEmpty(Skin.String(t5:date))">$LOCALIZE[31113]</value>
+<value condition="!IsEmpty(Skin.String(t6:date))">$LOCALIZE[31113]</value>
+<value condition="!IsEmpty(Skin.String(t7:date))">$LOCALIZE[31113]</value>
+<value condition="!IsEmpty(Skin.String(t8:date))">$LOCALIZE[31113]</value>
+<value condition="!IsEmpty(Skin.String(t9:date))">$LOCALIZE[31113]</value>
+<value>$LOCALIZE[31114]</value>
+</variable>
+<include name="KNSwitcherContent">
+<item>
+<label>$VAR[TimerLabel]</label>
+<onclick>RunScript(service.kn.switchtimer,action=delall)</onclick>
+<property name="Icon">home/homeicons/clean.png</property>
+</item>
+-<include name="KNSwitcherItem">
+<param name="knswitcheritem_id" value="t0"/>
+</include>
+-<include name="KNSwitcherItem">
+<param name="knswitcheritem_id" value="t1"/>
+</include>
+<include name="KNSwitcherItem">
+<param name="knswitcheritem_id" value="t2"/>
+</include>
+-<include name="KNSwitcherItem">
+<param name="knswitcheritem_id" value="t3"/>
+</include>
+-<include name="KNSwitcherItem">
+<param name="knswitcheritem_id" value="t4"/>
+</include>
+-<include name="KNSwitcherItem">
+<param name="knswitcheritem_id" value="t5"/>
+</include>
+-<include name="KNSwitcherItem">
+<param name="knswitcheritem_id" value="t6"/>
+</include>
+-<include name="KNSwitcherItem">
+<param name="knswitcheritem_id" value="t7"/>
+</include>
+-<include name="KNSwitcherItem">
+<param name="knswitcheritem_id" value="t8"/>
+</include>
+</include>
+-<include name="KNSwitcherItem">
+-<item>
+<label>$INFO[Skin.String($PARAM[knswitcheritem_id]:date)]</label>
+<label2>$INFO[Skin.String($PARAM[knswitcheritem_id]:channel)]</label2>
+<onclick>RunScript(service.kn.switchtimer,action=del,timer=t$PARAM[knswitcheritem_id])</onclick>
+<property name="Title">$INFO[Skin.String($PARAM[knswitcheritem_id]:title)]</property>
+<property name="Value">$PARAM[knswitcheritem_id]</property>
+<property name="Icon">$INFO[Skin.String($PARAM[knswitcheritem_id]:icon)]</property>
+<visible>!IsEmpty(Skin.String($PARAM[knswitcheritem_id]:date))</visible>
+</item>
+</include>
+- 
+<!-- KN SWITCHTIMER CLOSE -->
 </includes>
