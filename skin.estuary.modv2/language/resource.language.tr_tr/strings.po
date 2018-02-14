@@ -574,12 +574,12 @@ msgstr "Eklenti ayarları"
 #: /xml/script-skinshortcuts.xml
 msgctxt "#31132"
 msgid "Hide 'Categories' widget"
-msgstr "'Kategoriler' widget'ını gizle"
+msgstr "'Kategoriler' widget'ini gizle"
 
 #: /xml/SkinSettings.xml
 msgctxt "#31133"
 msgid "Show banners on episodes/thumbs widgets"
-msgstr "Göster afişleri widget'ların bölümlerin/küçük resimlerin üzerinde"
+msgstr "Widget'lerde bölümlerin/küçük resimlerin üzerinde afişleri göster"
 
 #: /xml/DialogSeekBar.xml
 msgctxt "#31134"
@@ -739,7 +739,7 @@ msgstr "Ana menü"
 #: /xml/SkinSettings.xml
 msgctxt "#40004"
 msgid "Hide main menu when selecting widgets"
-msgstr "Widget'lar seçerken ana menüyü gizle"
+msgstr "Widget'leri seçerken ana menüyü gizle"
 
 #: /xml/View_503_Gallery.xml
 msgctxt "#40005"
@@ -774,7 +774,7 @@ msgstr "Müzik kitaplığını güncelle"
 #: /xml/SkinSettings.xml
 msgctxt "#40011"
 msgid "Show smaller icons for 'Categories' widgets"
-msgstr "'Kategoriler' widget'ları için küçük simgeler göster"
+msgstr "'Kategoriler' widget'leri için küçük simgeler göster"
 
 #: /xml/Home.xml
 msgctxt "#40012"
@@ -909,107 +909,107 @@ msgstr "Arka plandaki fanart için şeffaflık"
 #: /xml/SkinSettings.xml
 msgctxt "#40038"
 msgid "0%"
-msgstr "0%"
+msgstr "%0"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40039"
 msgid "5%"
-msgstr "5%"
+msgstr "%5"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40040"
 msgid "10%"
-msgstr "10%"
+msgstr "%10"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40041"
 msgid "15%"
-msgstr "15%"
+msgstr "%15"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40042"
 msgid "20%"
-msgstr "20%"
+msgstr "%20"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40043"
 msgid "25%"
-msgstr "25%"
+msgstr "%25"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40044"
 msgid "30%"
-msgstr "30%"
+msgstr "%30"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40045"
 msgid "35%"
-msgstr "35%"
+msgstr "%35"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40046"
 msgid "40%"
-msgstr "40%"
+msgstr "%40"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40047"
 msgid "45%"
-msgstr "45%"
+msgstr "%45"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40048"
 msgid "50%"
-msgstr "50%"
+msgstr "%50"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40049"
 msgid "55%"
-msgstr "55%"
+msgstr "%55"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40050"
 msgid "60%"
-msgstr "60%"
+msgstr "%60"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40051"
 msgid "65%"
-msgstr "65%"
+msgstr "%65"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40052"
 msgid "70%"
-msgstr "70%"
+msgstr "%70"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40053"
 msgid "75%"
-msgstr "75%"
+msgstr "%75"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40054"
 msgid "80%"
-msgstr "80%"
+msgstr "%80"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40055"
 msgid "85%"
-msgstr "85%"
+msgstr "%85"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40056"
 msgid "90%"
-msgstr "90%"
+msgstr "%90"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40057"
 msgid "95%"
-msgstr "95%"
+msgstr "%95"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40058"
 msgid "100%"
-msgstr "100%"
+msgstr "%100"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40059"
@@ -1054,7 +1054,7 @@ msgstr "Ekstralar"
 #: /xml/SkinSettings.xml
 msgctxt "#40067"
 msgid "Number of items to display on widgets"
-msgstr "Widget'larda görüntülenecek öğe sayısı"
+msgstr "Widget'lerde görüntülenecek öğe sayısı"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40068"
@@ -1209,42 +1209,42 @@ msgstr "Widget'i gizle"
 #: /xml/SkinSettings.xml
 msgctxt "#40098"
 msgid "Manage items from 'Movies' widget"
-msgstr "'Filmler' widget'ındaki öğeleri yönetin"
+msgstr "'Filmler' widget'indeki öğeleri yönetin"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40099"
 msgid "Manage items from 'TV shows' widget"
-msgstr "'TV programları' widget'ındaki öğeleri yönetin"
+msgstr "'TV programları' widget'indeki öğeleri yönetin"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40100"
 msgid "Manage items from 'Music' widget"
-msgstr "'Müzik' widget'ındaki öğeleri yönetin"
+msgstr "'Müzik' widget'indeki öğeleri yönetin"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40101"
 msgid "Manage items from 'Music videos' widget"
-msgstr "'Müzik videoları' widget'ındaki öğeleri yönetin"
+msgstr "'Müzik videoları' widget'indeki öğeleri yönetin"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40102"
 msgid "Manage items from 'TV' widget"
-msgstr "'TV' widget'ındaki öğeleri yönetin"
+msgstr "'TV' widget'indeki öğeleri yönetin"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40103"
 msgid "Manage items from 'Radio' widget"
-msgstr "'Radyo' widget'ındaki öğeleri yönetin"
+msgstr "'Radyo' widget'indeki öğeleri yönetin"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40104"
 msgid "Manage items from 'Add-ons' widget"
-msgstr "'Eklentiler' widget'ındaki öğeleri yönetin"
+msgstr "'Eklentiler' widget'indeki öğeleri yönetin"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40105"
 msgid "Manage items from 'Videos' widget"
-msgstr "'Videolar' widget'ındaki öğeleri yönetin"
+msgstr "'Videolar' widget'indeki öğeleri yönetin"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40106"
@@ -1354,7 +1354,7 @@ msgstr "Spoiler önlemek için bölümlerde küçük resimleri gizle"
 #: /shortcuts/overrides.xml
 msgctxt "#40127"
 msgid "Preconfigured widgets"
-msgstr "Önceden yapılandırılmış widget'lar"
+msgstr "Önceden yapılandırılmış widget'ler"
 
 #: /xml/Variables.xml
 msgctxt "#40128"
@@ -1394,12 +1394,12 @@ msgstr "Tanımlanmamış"
 #: /shortcuts/overrides.xml
 msgctxt "#40135"
 msgid "Skin Helper Service Widgets"
-msgstr "Dış Görünüm Yardımcısı Hizmeti Widget'ları"
+msgstr "Skin Helper Service Widgets"
 
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40136"
 msgid "Set type of widgets"
-msgstr "Widget'ların türünü ayarla"
+msgstr "Widget'lerin türünü ayarla"
 
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40137"
@@ -1536,7 +1536,7 @@ msgstr "Sabit şarkı sözleri renkleri"
 #: /xml/SkinSettings.xml
 msgctxt "#40164"
 msgid "Greyed out watched items"
-msgstr "İzlenen öğeleri gri'leştir"
+msgstr "İzlenen öğeleri grileştir"
 
 #: /xml/Includes.xml
 msgctxt "#40165"
@@ -1551,12 +1551,12 @@ msgstr "Listeler (en fazla 8 öğe)"
 #: /shortcuts/overrides.xml
 msgctxt "#40167"
 msgid "Sort method of widget"
-msgstr "Widget'ın sıralama yöntemi"
+msgstr "Widget sıralama yöntemi"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40168"
 msgid "Sort direction of widget"
-msgstr "Widget'ın sıralama yönü"
+msgstr "Widget sıralama yönü"
 
 #: /xml/DialogMusicInfo.xml
 msgctxt "#40169"
@@ -1566,12 +1566,12 @@ msgstr "Açıklamayı okumak için [B]OK[/B] tuşuna basın veya geri küçük r
 #: /xml/SkinSettings.xml
 msgctxt "#40170"
 msgid "Show CDArt on movies widgets"
-msgstr "Film widget'ları üzerinde CDArt göster"
+msgstr "Film widget'leri üzerinde CDArt göster"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40171"
 msgid "Show movies CDArt"
-msgstr "Filmler'de CDArt göster"
+msgstr "Filmlerde CDArt göster"
 
 #: /xml/Home.xml
 msgctxt "#40172"
@@ -1691,7 +1691,7 @@ msgstr "Bu içerik şifre korumalıdır.[CR]Lütfen erişmek için şifreyi giri
 #: /xml/SkinSettings.xml
 msgctxt "#40195"
 msgid "Enable Next Up popup for Live TV"
-msgstr ""
+msgstr "Canlı TV için sonraki açılır penceresini etkinleştir"
 
 #: /xml/Custom_1134_PVRNextUp.xml
 msgctxt "#40196"
@@ -1701,12 +1701,12 @@ msgstr "Devam edecek..."
 #: /xml/SkinSettings.xml
 msgctxt "#40197"
 msgid "Show 'Settings' shortcut widget"
-msgstr "'Ayarlar' kısayol widget'ını göster"
+msgstr "'Ayarlar' kısayol widget'ini göster"
 
 #: /xml/Custom_1136_WarningPopUp.xml
 msgctxt "#40198"
 msgid "It's necessary to reboot Kodi and '[B]Reset main menu and power menu settings[/B]' in skin settings after installation of this version."
-msgstr ""
+msgstr "Bu sürümü yükledikten sonra Kodi'yi yeniden başlatmanız ve dış görünüm ayarlarından '[B]ana menü ve güç menüsü ayarlarını sıfırlamanız gerekiyor.[/B]'"
 
 #: /xml/Custom_1136_WarningPopUp.xml
 msgctxt "#40199"
@@ -1736,7 +1736,7 @@ msgstr "Posterler paneli"
 #: /shortcuts/overrides.xml
 msgctxt "#40204"
 msgid "Widgets to personalize"
-msgstr "Kişiselleştirmek için widget'lar"
+msgstr "Kişiselleştirmek için widget'ler"
 
 #: /shortcuts/overrides.xml
 msgctxt "#40205"
@@ -1777,12 +1777,12 @@ msgstr "Minyatürler paneli"
 #: /xml/View_508_DoubleLists.xml
 msgctxt "#40212"
 msgid "Double lists"
-msgstr "Çift listeler"
+msgstr "İkili listeler"
 
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40213"
 msgid "Show Skin Helper Service widgets settings"
-msgstr "Dış Görünüm Yardımcısı Hizmeti widget ayarlarını göster"
+msgstr "Skin Helper Service widgets ayarlarını göster"
 
 #. viewtype name
 #: /xml/View_509_TripleLists.xml
@@ -1833,7 +1833,7 @@ msgstr "Film bilgileri ekranında fragmanları oynat"
 #: /xml/SkinSettings.xml
 msgctxt "#40223"
 msgid "Enable gradient colors"
-msgstr "Gradient renklerini etkinleştir"
+msgstr "Gradyan renklerini etkinleştir"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40224"
@@ -1848,7 +1848,7 @@ msgstr "Küçük OSD kullan"
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40226"
 msgid "Personalize 'Categories' widget"
-msgstr "'Kategoriler' widget'ını kişiselleştir"
+msgstr "'Kategoriler' widget'ini kişiselleştir"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40227"
@@ -1988,7 +1988,7 @@ msgstr "Medya stüdyosu logosunu göster"
 #: /xml/Custom_1137_SettingsFlags.xml
 msgctxt "#40254"
 msgid "Show media record label logo"
-msgstr "Medya plak etiket logosunu göster"
+msgstr "Medya kayıt etiketi logosunu göster"
 
 #: /xml/Custom_1137_SettingsFlags.xml
 msgctxt "#40255"
@@ -2013,7 +2013,7 @@ msgstr "Programı seç"
 #: /xml/SkinSettings.xml
 msgctxt "#40259"
 msgid "Enable themes (Valentine's Day, Easter, Halloween & Christmas)"
-msgstr "Temaları etkinleştir (Sevgililer Günü, Paskalya, Cadılar bayramı & Noel)"
+msgstr "Temaları etkinleştir (Sevgililer Günü, Paskalya, Cadılar Bayramı & Noel)"
 
 #: /xml/Home.xml
 msgctxt "#40260"
@@ -2058,7 +2058,7 @@ msgstr "En çok oynatılan müzik videoları"
 #: /xml/SkinSettings.xml
 msgctxt "#40268"
 msgid "Show media names with widgets names"
-msgstr "Widget'ların isimleri ile medya isimlerini göster"
+msgstr "Widget'lerin isimleri ile medya isimlerini göster"
 
 #: /xml/Variables.xml
 msgctxt "#40269"
@@ -2068,7 +2068,7 @@ msgstr "Noel Teması"
 #: /xml/Variables.xml
 msgctxt "#40270"
 msgid "Halloween Theme"
-msgstr "Cadılar bayramı Teması"
+msgstr "Cadılar Bayramı Teması"
 
 #: /xml/Variables.xml
 msgctxt "#40271"
@@ -2079,3 +2079,63 @@ msgstr "Paskalya Teması"
 msgctxt "#40272"
 msgid "Valentine's Day Theme"
 msgstr "Sevgililer Günü Teması"
+
+#: /xml/Includes_MediaMenu.xml
+msgctxt "#40273"
+msgid "Show channel groups"
+msgstr "Kanal gruplarını göster"
+
+#: /xml/SkinSettings.xml
+msgctxt "#40274"
+msgid "Scope mode for constant image height (CIH) setup"
+msgstr "Sabit görüntü yüksekliği (CIH) ayarı için kapsam modu"
+
+#: /xml/SkinSettings.xml
+msgctxt "#40275"
+msgid "2:35:1 (1920x817)"
+msgstr "2:35:1 (1920x817)"
+
+#: /xml/SkinSettings.xml
+msgctxt "#40276"
+msgid "2:40:1 (1920x800)"
+msgstr "2:40:1 (1920x800)"
+
+#: /xml/SkinSettings.xml
+msgctxt "#40277"
+msgid "1:77:1 (1920x1080)"
+msgstr "1:77:1 (1920x1080)"
+
+#: /xml/SkinSettings.xml
+msgctxt "#40278"
+msgid "1:85:1 (1920x1038)"
+msgstr "1:85:1 (1920x1038)"
+
+#: /xml/SkinSettings.xml
+msgctxt "#40279"
+msgid "2:37:1 (1920x810)"
+msgstr "2:37:1 (1920x810)"
+
+#: /xml/Variables.xml
+msgctxt "#40280"
+msgid "Scope mode"
+msgstr "Kapsam modu"
+
+#: /xml/SkinSettings.xml
+msgctxt "#40281"
+msgid "My ratings and scrapers ratings"
+msgstr "Derecelendirmelerim ve scraper derecelendirmeleri"
+
+#: /xml/SkinSettings.xml
+msgctxt "#40282"
+msgid "Scrapers ratings text color"
+msgstr "Scrapers derecelendirmeleri metin rengi"
+
+#: /xml/SkinSettings.xml
+msgctxt "#40283"
+msgid "My ratings text color"
+msgstr "Derecelendirmelerim metin rengi"
+
+#: /xml/Includes.xml
+msgctxt "#40284"
+msgid "Loading..."
+msgstr "Yükleniyor..."
