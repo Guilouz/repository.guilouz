@@ -2088,7 +2088,7 @@ msgstr "Kanal gruplarını göster"
 #: /xml/SkinSettings.xml
 msgctxt "#40274"
 msgid "Scope mode for constant image height (CIH) setup"
-msgstr ""
+msgstr "Sabit görüntü yüksekliği (CIH) ayarı için kapsam modu"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40275"
