@@ -2077,3 +2077,8 @@ msgstr "Ostern Theme"
 msgctxt "#40272"
 msgid "Valentine's Day Theme"
 msgstr "Valentinstag Theme"
+
+#: /xml/SkinSettings.xml
+msgctxt "#40285"
+msgid "Enable German Telecast Offers"
+msgstr "Aktiviere German Telecast Offers"

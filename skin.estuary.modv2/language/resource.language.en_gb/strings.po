@@ -2139,3 +2139,8 @@ msgstr ""
 msgctxt "#40284"
 msgid "Loading..."
 msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#40285"
+msgid "Enable German Telecast Offers"
+msgstr ""

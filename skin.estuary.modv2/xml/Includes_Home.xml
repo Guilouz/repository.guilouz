@@ -7038,4 +7038,5 @@
 			</control>
 		</control>
 	</include>
+    <include file="gto-widget.xml"/>
 </includes>

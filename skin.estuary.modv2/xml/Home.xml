@@ -179,7 +179,7 @@
 							<param name="list_id" value="5400"/>
 						</include>
 						<include content="WidgetListGenres" condition="Library.HasContent(movies) + !Skin.HasSetting(hide_genremovies)">
-							<param name="content_path" value="plugin://script.skin.helper.widgets/?action=browsegenres&mediatype=movies&limit=1000"/>
+							<param name="content_path" value="plugin://script.skin.helper.widgets/?action=browsegenres&amp;mediatype=movies&amp;limit=1000"/>
 							<param name="widget_header" value="$LOCALIZE[135]"/>
 							<param name="widget_header_focus" value="$INFO[Container(5500).ListItem.Label, | ]"/>
 							<param name="widget_target" value="videos"/>
@@ -267,7 +267,7 @@
 							<param name="list_id" value="61001"/>
 						</include>
 						<include content="WidgetNextWatchEpisodes" condition="Library.HasContent(tvshows) + !Skin.HasSetting(hide_nextepisodes) + Skin.HasSetting(HomeBanner)">
-							<param name="content_path" value="plugin://script.skin.helper.widgets/?action=next&mediatype=episodes&reload=$INFO[Window(Home).Property(widgetreload)]"/>
+							<param name="content_path" value="plugin://script.skin.helper.widgets/?action=next&amp;mediatype=episodes&amp;reload=$INFO[Window(Home).Property(widgetreload)]"/>
 							<param name="sortby" value=""/>
 							<param name="sortorder" value="descending"/>
 							<param name="widget_header" value="$LOCALIZE[40012]"/>
@@ -276,7 +276,7 @@
 							<param name="list_id" value="6700"/>
 						</include>
 						<include content="WidgetNextWatchEpisodesBanner" condition="Library.HasContent(tvshows) + !Skin.HasSetting(hide_nextepisodes) + !Skin.HasSetting(HomeBanner)">
-							<param name="content_path" value="plugin://script.skin.helper.widgets/?action=next&mediatype=episodes&reload=$INFO[Window(Home).Property(widgetreload)]"/>
+							<param name="content_path" value="plugin://script.skin.helper.widgets/?action=next&amp;mediatype=episodes&amp;reload=$INFO[Window(Home).Property(widgetreload)]"/>
 							<param name="sortby" value=""/>
 							<param name="sortorder" value="descending"/>
 							<param name="widget_header" value="$LOCALIZE[40012]"/>
@@ -301,21 +301,21 @@
 							<param name="list_id" value="6300"/>
 						</include>
 						<include content="WidgetNextAiringEpisodesPreconfigured" condition="Library.HasContent(tvshows) + !Skin.HasSetting(hide_nextairingepisodes) + Skin.HasSetting(HomeBanner)">
-							<param name="content_path" value="plugin://script.skin.helper.widgets/?action=nextaired&mediatype=episodes&reload=$INFO[Window(Home).Property(widgetreload2)]"/>
+							<param name="content_path" value="plugin://script.skin.helper.widgets/?action=nextaired&amp;mediatype=episodes&amp;reload=$INFO[Window(Home).Property(widgetreload2)]"/>
 							<param name="widget_header" value="$LOCALIZE[40107]"/>
 							<param name="widget_header_focus" value="$INFO[Container(6600).ListItem.TVShowTitle, | , - ]$INFO[Container(6600).ListItem.Season,,x]$INFO[Container(6600).ListItem.Episode,,. ]$INFO[Container(6600).ListItem.Title]$INFO[Container(6600).ListItem.Year, (,)]"/>
 							<param name="widget_target" value="videos"/>
 							<param name="list_id" value="6600"/>
 						</include>
 						<include content="WidgetNextAiringEpisodesBannerPreconfigured" condition="Library.HasContent(tvshows) + !Skin.HasSetting(hide_nextairingepisodes) + !Skin.HasSetting(HomeBanner)">
-							<param name="content_path" value="plugin://script.skin.helper.widgets/?action=nextaired&mediatype=episodes&reload=$INFO[Window(Home).Property(widgetreload2)]"/>
+							<param name="content_path" value="plugin://script.skin.helper.widgets/?action=nextaired&amp;mediatype=episodes&amp;reload=$INFO[Window(Home).Property(widgetreload2)]"/>
 							<param name="widget_header" value="$LOCALIZE[40107]"/>
 							<param name="widget_header_focus" value="$INFO[Container(66001).ListItem.TVShowTitle, | , - ]$INFO[Container(66001).ListItem.Season,,x]$INFO[Container(66001).ListItem.Episode,,. ]$INFO[Container(66001).ListItem.Title]$INFO[Container(66001).ListItem.Year, (,)]"/>
 							<param name="widget_target" value="videos"/>
 							<param name="list_id" value="66001"/>
 						</include>
 						<include content="WidgetListGenres" condition="Library.HasContent(tvshows) + !Skin.HasSetting(hide_genretvshows)">
-							<param name="content_path" value="plugin://script.skin.helper.widgets/?action=browsegenres&mediatype=tvshows&limit=1000"/>
+							<param name="content_path" value="plugin://script.skin.helper.widgets/?action=browsegenres&amp;mediatype=tvshows&amp;limit=1000"/>
 							<param name="widget_header" value="$LOCALIZE[135]"/>
 							<param name="widget_header_focus" value="$INFO[Container(6400).ListItem.Label, | ]"/>
 							<param name="widget_target" value="videos"/>
@@ -747,6 +747,14 @@
 							<param name="item_limit" value="2000"/>
 							<param name="label" value="$INFO[ListItem.ChannelName]"/>
 							<param name="label2" value="$INFO[ListItem.Title]$VAR[SeasonEpisodeLabel]"/>
+						</include>
+						<include content="WidgetListGTO" condition="System.HasPVRAddon + System.HasAddon(script.service.gto) + Skin.HasSetting(EnableGTO)">
+							<param name="content_path" value="plugin://script.service.gto?action=getcontent&amp;ts=$INFO[Window(Home).Property(GTO.timestamp)]"/>
+							<param name="widget_header" value="$ADDON[script.service.gto 30104]: $INFO[Window(Home).Property(GTO.Provider)]"/>
+							<param name="widget_target" value="pvr"/>
+							<param name="list_id" value="12500"/>
+							<param name="label" value="$INFO[ListItem.label2]$INFO[ListItem.Property(StartTime), (,)]"/>
+							<param name="label2" value="$INFO[ListItem.label]"/>
 						</include>
 					</control>
 					<include content="ImageWidget" condition="!System.HasPVRAddon">

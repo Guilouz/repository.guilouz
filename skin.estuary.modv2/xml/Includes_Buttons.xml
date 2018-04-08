@@ -12,7 +12,7 @@
 		<animation type="Focus" condition="!Skin.HasSetting(no_animations)" reversible="false">
             <effect type="zoom" end="125" time="75" tween="sine" easing="out" center="auto" />
             <effect type="zoom" end="80" time="225" tween="sine" delay="100" easing="out" center="auto" />
-        </animation>    
+        </animation>
 		<height>56</height>
 		<radiowidth>54</radiowidth>
 		<radioheight>54</radioheight>
@@ -102,6 +102,7 @@
 		<param name="wrapmultiline">false</param>
 		<param name="font">font25_title</param>
 		<param name="onclick"></param>
+		<param name="onclick_2"></param>
 		<param name="visible">true</param>
 		<definition>
 			<control type="button" id="$PARAM[id]">
@@ -111,6 +112,7 @@
 				<font>$PARAM[font]</font>
 				<textoffsetx>30</textoffsetx>
 				<onclick>$PARAM[onclick]</onclick>
+				<onclick>$PARAM[onclick_2]</onclick>
 				<wrapmultiline>$PARAM[wrapmultiline]</wrapmultiline>
 				<align>center</align>
 				<texturefocus border="40" colordiffuse="$VAR[SkinColorVar]">buttons/dialogbutton-fo.png</texturefocus>

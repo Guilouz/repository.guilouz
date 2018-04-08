@@ -18,7 +18,7 @@
 		</control>
 		<control type="group" id="10000">
 			<left>470</left>
-			<include>OpenClose_Right</include>		
+			<include>OpenClose_Right</include>
 			<control type="grouplist" id="110">
 				<top>168</top>
 				<left>0</left>
@@ -99,21 +99,21 @@
 					<label>$LOCALIZE[40225]</label>
 					<include>DefaultSettingButton</include>
 					<selected>Skin.HasSetting(SmallOSDVideo)</selected>
-                    <onclick>Skin.ToggleSetting(SmallOSDVideo)</onclick>
+					<onclick>Skin.ToggleSetting(SmallOSDVideo)</onclick>
 				</control>
 				<control type="radiobutton" id="105">
 					<label>$LOCALIZE[40230]</label>
 					<include>DefaultSettingButton</include>
 					<selected>Skin.HasSetting(Hide_OSDInfo)</selected>
-                    <onclick>Skin.ToggleSetting(Hide_OSDInfo)</onclick>
+					<onclick>Skin.ToggleSetting(Hide_OSDInfo)</onclick>
 				</control>
 				<control type="radiobutton" id="106">
 					<label>$LOCALIZE[40241]</label>
-                    <include>DefaultSettingButton</include>
-                    <selected>!Skin.HasSetting(disable_PauseOnExtraInfos)</selected>
-                    <onclick>Skin.ToggleSetting(disable_PauseOnExtraInfos)</onclick>
-                </control>
-                <control type="radiobutton" id="108">
+					<include>DefaultSettingButton</include>
+					<selected>!Skin.HasSetting(disable_PauseOnExtraInfos)</selected>
+					<onclick>Skin.ToggleSetting(disable_PauseOnExtraInfos)</onclick>
+					</control>
+					<control type="radiobutton" id="108">
 					<label>$LOCALIZE[40088]</label>
 					<include>DefaultSettingButton</include>
 					<selected>!Skin.HasSetting(enable_playerclearlogo)</selected>
@@ -351,6 +351,17 @@
 					<selected>System.HasAddon(repository.rector.stuff)</selected>
 					<include>DefaultSettingButton</include>
 				</control>
+				<control type="radiobutton" id="323">
+					<label>SaXBMC Repository $INFO[System.AddonVersion(repository.saxbmc),(,)]</label>
+					<textureradioonfocus colordiffuse="ffffffff">buttons/status-on.png</textureradioonfocus>
+					<textureradioonnofocus colordiffuse="ffffffff">buttons/status-on.png</textureradioonnofocus>
+					<textureradioofffocus colordiffuse="fff02222">buttons/status-off.png</textureradioofffocus>
+					<textureradiooffnofocus colordiffuse="fff02222">buttons/status-off.png</textureradiooffnofocus>
+					<onclick condition="!System.HasAddon(repository.saxbmc)">InstallAddon(repository.saxbmc)</onclick>
+					<onclick condition="System.HasAddon(repository.saxbmc)">Addon.OpenSettings(repository.saxbmc)</onclick>
+					<selected>System.HasAddon(repository.saxbmc)</selected>
+					<include>DefaultSettingButton</include>
+				</control>
 				<control type="label" id="30013">
 					<textoffsetx>45</textoffsetx>
 					<top>0</top>
@@ -571,6 +582,17 @@
 					<selected>System.HasAddon(resource.images.moviegenreicons.estuarymod)</selected>
 					<include>DefaultSettingButton</include>
 				</control>
+				<control type="radiobutton" id="322">
+					<label>German Telecast Offers $INFO[System.AddonVersion(script.service.gto),(,)]</label>
+					<textureradioonfocus colordiffuse="ffffffff">buttons/status-on.png</textureradioonfocus>
+					<textureradioonnofocus colordiffuse="ffffffff">buttons/status-on.png</textureradioonnofocus>
+					<textureradioofffocus colordiffuse="fff02222">buttons/status-off.png</textureradioofffocus>
+					<textureradiooffnofocus colordiffuse="fff02222">buttons/status-off.png</textureradiooffnofocus>
+					<onclick condition="!System.HasAddon(script.service.gto)">InstallAddon(script.service.gto)</onclick>
+					<onclick condition="System.HasAddon(script.service.gto)">Addon.OpenSettings(script.service.gto)</onclick>
+					<selected>System.HasAddon(script.service.gto)</selected>
+					<include>DefaultSettingButton</include>
+				</control>
 			</control>
 			<control type="grouplist" id="400">
 				<top>168</top>
@@ -648,6 +670,12 @@
 					<include>DefaultSettingButton</include>
 					<onclick>Skin.ToggleSetting(KioskMode)</onclick>
 					<selected>Skin.HasSetting(KioskMode)</selected>
+				</control>
+				<control type="radiobutton" id="510">
+					<label>$LOCALIZE[40285]</label>
+					<include>DefaultSettingButton</include>
+					<onclick>Skin.ToggleSetting(EnableGTO)</onclick>
+					<selected>Skin.HasSetting(EnableGTO)</selected>
 				</control>
 				<control type="button" id="508">
 					<label>$LOCALIZE[40229]</label>
@@ -1019,13 +1047,13 @@
 					<selected>!Skin.HasSetting(no_fanart)</selected>
 				</control>
 				<control type="button" id="614">
-                    <label>  ∟$LOCALIZE[40265]</label>
-                    <label2>$VAR[Label_SkinSetting_GlobalBackground]</label2>
-                    <include>DefaultSettingButton</include>
-                    <onclick condition="String.IsEmpty(Skin.String(global-background))">Skin.SetImage(global-background)</onclick>
-                    <onclick condition="!String.IsEmpty(Skin.String(global-background))">Skin.Reset(global-background)</onclick>
-                    <visible>Skin.HasSetting(no_fanart)</visible>
-                </control>
+					<label>  ∟$LOCALIZE[40265]</label>
+					<label2>$VAR[Label_SkinSetting_GlobalBackground]</label2>
+					<include>DefaultSettingButton</include>
+					<onclick condition="String.IsEmpty(Skin.String(global-background))">Skin.SetImage(global-background)</onclick>
+					<onclick condition="!String.IsEmpty(Skin.String(global-background))">Skin.Reset(global-background)</onclick>
+					<visible>Skin.HasSetting(no_fanart)</visible>
+				</control>
 				<control type="radiobutton" id="602">
 					<label>$LOCALIZE[40059]</label>
 					<include>DefaultSettingButton</include>
@@ -1161,47 +1189,47 @@
 					<onclick>RunScript(script.skinshortcuts,type=resetall)</onclick>
 				</control>
 				<control type="radiobutton" id="10006">
-                    <label>$LOCALIZE[40141]</label>
+					<label>$LOCALIZE[40141]</label>
 					<include>DefaultSettingButton</include>
 					<selected>!Skin.HasSetting(enable_power_background)</selected>
 					<onclick>Skin.ToggleSetting(enable_power_background)</onclick>
-                </control>
+				</control>
 				<control type="button" id="10007">
-                    <label>  ∟$LOCALIZE[40144]</label>
-                    <label2>$VAR[Label_SkinSetting_PowerFanart]</label2>
-                    <include>DefaultSettingButton</include>
-                     <onclick condition="!Skin.String(power_background)">Skin.SetImage(power_background)</onclick>
-                    <onclick condition="Skin.String(power_background)">Skin.Reset(power_background)</onclick>
-                    <visible>!Skin.HasSetting(enable_power_background)</visible>
-                </control>
-                <control type="radiobutton" id="10008">
-                    <label>$LOCALIZE[40142]</label>
+					<label>  ∟$LOCALIZE[40144]</label>
+					<label2>$VAR[Label_SkinSetting_PowerFanart]</label2>
+					<include>DefaultSettingButton</include>
+					<onclick condition="!Skin.String(power_background)">Skin.SetImage(power_background)</onclick>
+					<onclick condition="Skin.String(power_background)">Skin.Reset(power_background)</onclick>
+					<visible>!Skin.HasSetting(enable_power_background)</visible>
+				</control>
+				<control type="radiobutton" id="10008">
+					<label>$LOCALIZE[40142]</label>
 					<include>DefaultSettingButton</include>
 					<selected>!Skin.HasSetting(enable_settings_background)</selected>
 					<onclick>Skin.ToggleSetting(enable_settings_background)</onclick>
-                </control>
-                <control type="button" id="10009">
-                    <label>  ∟$LOCALIZE[40144]</label>
-                    <label2>$VAR[Label_SkinSetting_SettingsFanart]</label2>
-                    <include>DefaultSettingButton</include>
-                    <onclick condition="!Skin.String(settings_background)">Skin.SetImage(settings_background)</onclick>
-                    <onclick condition="Skin.String(settings_background)">Skin.Reset(settings_background)</onclick>
-                    <visible>!Skin.HasSetting(enable_settings_background)</visible>
-                </control>
-                <control type="radiobutton" id="10010">
-                    <label>$LOCALIZE[40143]</label>
+				</control>
+				<control type="button" id="10009">
+					<label>  ∟$LOCALIZE[40144]</label>
+					<label2>$VAR[Label_SkinSetting_SettingsFanart]</label2>
+					<include>DefaultSettingButton</include>
+					<onclick condition="!Skin.String(settings_background)">Skin.SetImage(settings_background)</onclick>
+					<onclick condition="Skin.String(settings_background)">Skin.Reset(settings_background)</onclick>
+					<visible>!Skin.HasSetting(enable_settings_background)</visible>
+				</control>
+				<control type="radiobutton" id="10010">
+					<label>$LOCALIZE[40143]</label>
 					<include>DefaultSettingButton</include>
 					<selected>!Skin.HasSetting(enable_search_background)</selected>
 					<onclick>Skin.ToggleSetting(enable_search_background)</onclick>
-                </control>
-                <control type="button" id="10011">
-                    <label>  ∟$LOCALIZE[40144]</label>
-                    <label2>$VAR[Label_SkinSetting_SearchFanart]</label2>
-                    <include>DefaultSettingButton</include>
-                    <onclick condition="!Skin.String(search_background)">Skin.SetImage(search_background)</onclick>
-                    <onclick condition="Skin.String(search_background)">Skin.Reset(search_background)</onclick>
-                    <visible>!Skin.HasSetting(enable_search_background)</visible>
-                </control>
+				</control>
+				<control type="button" id="10011">
+					<label>  ∟$LOCALIZE[40144]</label>
+					<label2>$VAR[Label_SkinSetting_SearchFanart]</label2>
+					<include>DefaultSettingButton</include>
+					<onclick condition="!Skin.String(search_background)">Skin.SetImage(search_background)</onclick>
+					<onclick condition="Skin.String(search_background)">Skin.Reset(search_background)</onclick>
+					<visible>!Skin.HasSetting(enable_search_background)</visible>
+				</control>
 				<control type="label" id="100013">
 					<textoffsetx>45</textoffsetx>
 					<top>0</top>
