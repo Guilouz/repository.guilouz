@@ -29,7 +29,7 @@ msgstr "Suche..."
 #: /xml/SkinSettings.xml
 msgctxt "#31002"
 msgid "Show media fanart as background"
-msgstr "Fanart im Hintergrund anzeigen"
+msgstr "Fanart als Hintergrund anzeigen"
 
 #: /xml/DialogVideoInfo.xml
 msgctxt "#31003"
@@ -90,7 +90,7 @@ msgstr "Ungespielte Alben"
 #: /xml/Home.xml
 msgctxt "#31015"
 msgid "Recent recordings"
-msgstr "Zuletzt gemachte Aufnahmen"
+msgstr "Neuste Aufnahmen"
 
 #. home screen channel widget: recently played tv channels. (please note that in some non-english languages #31018 and #31016 might not be equal)
 #: /xml/Home.xml
@@ -137,12 +137,12 @@ msgstr "Ansicht"
 #: /xml/SkinSettings.xml
 msgctxt "#31024"
 msgid "Choose rating to display for media items"
-msgstr "Bewertung wählen, die bei den Medien-Elementen angezeigt wird"
+msgstr "Bewertung wählen, die bei Medien-Elementen angezeigt wird"
 
 #: /xml/DialogFavourites.xml
 msgctxt "#31025"
 msgid "No favourites found. You can add any item from media views to this list by using the context menu."
-msgstr "Keine Favoriten gespeichert. Es kann jedes beliebige Element aus den Medienansichten via Rechtsklick zu den Favoriten hinzugefügt werden."
+msgstr "Keine Favoriten gefunden. Es kann jedes beliebige Element aus den Medienansichten via Kontextmenü hinzugefügt werden."
 
 #: /xml/DialogSeekBar.xml
 msgctxt "#31026"
@@ -152,7 +152,7 @@ msgstr "Timeshift"
 #: /xml/DialogAlbumInfo.xml /xml/DialogVideoInfo.xml
 msgctxt "#31028"
 msgid "Show fanart"
-msgstr "Fanart zeigen"
+msgstr "Fanart anzeigen"
 
 #: /xml/SettingsProfile.xml
 msgctxt "#31029"
@@ -177,12 +177,12 @@ msgstr "Reihenfolge"
 #: /xml/DialogVideoInfo.xml /xml/DialogSongInfo.xml
 msgctxt "#31033"
 msgid "My rating"
-msgstr "Persönliche Bewertung"
+msgstr "Meine Bewertung"
 
 #: /xml/DialogVideoInfo.xml
 msgctxt "#31034"
 msgid "Extended info"
-msgstr "Erweiterte Informationen"
+msgstr "Erweiterte Info"
 
 #: /xml/DialogPVRChannelManager.xml /xml/DialogPVRChannelsOSD.xml /xml/DialogPVRGuideOSD.xml /xml/Variables.xml /xml/FileBrowser.xml
 msgctxt "#31035"
@@ -247,7 +247,7 @@ msgstr "Zeige Handlung"
 #: /xml/SkinSettings.xml
 msgctxt "#31051"
 msgid "Enable Splash screen"
-msgstr ""
+msgstr "Startbildschirm aktivieren"
 
 #: /xml/Includes.xml
 msgctxt "#31052"
@@ -512,12 +512,12 @@ msgstr "Es sind noch keine Addons installiert. Den Addon-Browser öffnen, um in 
 #: /xml/Home.xml
 msgctxt "#31120"
 msgid "You did not set up a weather provider yet. In order to view weather information, choose a weather provider and set up your location."
-msgstr "Es ist noch kein Wetterprovider eingerichtet. Um Wetterinformationen zu erhalten, einen Wetterprovider auswählen und Orte einrichten."
+msgstr "Es ist noch kein Wetteranbieter eingerichtet. Um Wetterinformationen zu erhalten, einen Wetteranbieter auswählen und Orte einrichten."
 
 #: /xml/Home.xml
 msgctxt "#31121"
 msgid "Set weather provider"
-msgstr "Wetterprovider wählen"
+msgstr "Wetteranbieter wählen"
 
 #: /xml/Home.xml
 msgctxt "#31122"
@@ -532,17 +532,17 @@ msgstr "Filme dieses Regisseurs"
 #: /xml/MyPics.xml
 msgctxt "#31124"
 msgid "Show images on map"
-msgstr "Bilder auf Karte zeigen"
+msgstr "Bilder auf Karte anzeigen"
 
 #: /xml/Variables.xml
 msgctxt "#31125"
 msgid "is"
-msgstr ""
+msgstr "ist"
 
 #: /xml/DialogVideoInfo.xml
 msgctxt "#31126"
 msgid "Press [B]OK[/B] to show plot"
-msgstr "[B]OK[/B] zum Lesen der Handlung drücken"
+msgstr "[B]OK[/B] zum Anzeigen der Handlung drücken"
 
 #: /xml/Includes_MediaMenu.xml
 msgctxt "#31127"
@@ -567,7 +567,7 @@ msgstr "Einstellungen für den Startbildschirm: Der Startbildschirm kann nach Be
 #: /shortcuts/addons.DATA.xml
 msgctxt "#31131"
 msgid "Add-ons settings"
-msgstr "Addons-Einstellungen"
+msgstr "Addon-Einstellungen"
 
 #: /xml/script-skinshortcuts.xml
 msgctxt "#31132"
@@ -1604,12 +1604,12 @@ msgstr "Musikdateien"
 #: /xml/MyMusicPlaylistEditor.xml
 msgctxt "#40178"
 msgid "Current playlist"
-msgstr "Aktuelle Playlist"
+msgstr "Aktuelle Wiedergabeliste"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40179"
 msgid "Show animated lyrics"
-msgstr "Animierte Liedertexte anzeigen"
+msgstr "Animierte Liedtexte anzeigen"
 
 #: /xml/Custom_1132_MoviesSetsInfo.xml
 msgctxt "#40180"
@@ -1639,7 +1639,7 @@ msgstr "Minute(n)"
 #: /xml/Variables.xml
 msgctxt "#40185"
 msgid "Incorrect password ! Please Retry."
-msgstr "Passwort falsch ! Bitte erneut eingeben."
+msgstr "Falsches Passwort ! Bitte erneut eingeben."
 
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40186"
@@ -1704,12 +1704,12 @@ msgstr "Zeige 'Einstellungen' Shortcut Widget"
 #: /xml/Custom_1136_WarningPopUp.xml
 msgctxt "#40198"
 msgid "It's necessary to reboot Kodi and '[B]Reset main menu and power menu settings[/B]' in skin settings after installation of this version."
-msgstr "Nach der Installation dieser Version des Skins ist es notwendig Kodi neu zu starten. [B]Ausserdem müssen  die Haupt- und Powermenü Einstellung zurück gesetzt werden.[/B]'"
+msgstr "Nach der Installation dieser Version des Skins ist es notwendig Kodi neu zu starten. [B]Ausserdem müssen  die Haupt- und Powermenü Einstellung zurückgesetzt werden.[/B]'"
 
 #: /xml/Custom_1136_WarningPopUp.xml
 msgctxt "#40199"
 msgid "Warning!"
-msgstr "Achtung!"
+msgstr "Warnung!"
 
 #: /xml/Custom_1136_WarningPopUp.xml
 msgctxt "#40200"
@@ -1719,7 +1719,7 @@ msgstr "Nicht mehr anzeigen"
 #: /xml/SkinSettings.xml
 msgctxt "#40201"
 msgid "Rating text color"
-msgstr "Textfarbe für Berwertungen"
+msgstr "Textfarbe für Bewertungen"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40202"
@@ -1826,7 +1826,7 @@ msgstr ""
 #: /xml/SkinSettings.xml
 msgctxt "#40222"
 msgid "Play trailers in full screen"
-msgstr "Zeige Filmvorschauen im Vollbildmodus"
+msgstr "Spiele Trailer im Vollbild ab"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40223"
@@ -1846,7 +1846,7 @@ msgstr "Schmales OSD verwenden"
 #: /xml/script-skinshortcuts.xml
 msgctxt "#40226"
 msgid "Personalize 'Categories' widget"
-msgstr "'Kategorie' Widget anpassen"
+msgstr "'Kategorie' Widget personalisieren"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40227"
@@ -1861,7 +1861,7 @@ msgstr "Icon Liste"
 #: /xml/SkinSettings.xml
 msgctxt "#40229"
 msgid "Configure personal API keys"
-msgstr "Persönliche API Schlüssel konfigurieren"
+msgstr "Persönliche API-Schlüssel konfigurieren"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40230"
@@ -2021,12 +2021,12 @@ msgstr "Deine Bibliothek ist leer.[CR]Um Deine persönlichen Medien hinzuzufüge
 #: /xml/Variables.xml
 msgctxt "#40261"
 msgid "Recommended Youtube videos"
-msgstr "Empfohlene Youtube Videos"
+msgstr "Empfohlene YouTube-Videos"
 
 #: /xml/SkinSettings.xml
 msgctxt "#40262"
 msgid "Video countries icons pack"
-msgstr "Länder Icons Paket für Videos"
+msgstr "Länder Icon-Paket für Videos"
 
 #: /xml/Includes.xml
 msgctxt "#40263"
